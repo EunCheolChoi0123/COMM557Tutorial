@@ -18,5 +18,6 @@ Original repository: https://github.com/herbertfreeze/COMM557, https://github.co
 - Other packages are found in the individual tutorials!
   
 CoLab links to tutorial scripts:    
-Tutorial 1
+
+## Tutorial 1
 - https://
