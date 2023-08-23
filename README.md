@@ -10,7 +10,7 @@ Former TAs/contributers:
  - Emily Chen
  - Julie Jiang
 
-Original repository: https://github.com/herbertfreeze/COMM557, https://github.com/echen102/COMM599 
+Past repositories: https://github.com/herbertfreeze/COMM557, https://github.com/echen102/COMM599 
 
 ## Fall 2023 Setup 
 - Google CoLab: To circumvent dependency issues, all in-class tutorial scripts will be tested on Google CoLab.
