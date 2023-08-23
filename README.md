@@ -14,7 +14,7 @@ Past repositories: https://github.com/herbertfreeze/COMM557, https://github.com/
 
 ## Fall 2023 Setup 
 - Google CoLab: To circumvent dependency issues, all in-class tutorial scripts will be tested on Google CoLab.
-- Anaconda/Jupyter: Optional, but recommended
+- Anaconda/Jupyter: Optional, but highly recommended.
 - Other packages are found in the individual tutorials!
   
 ## CoLab links to tutorial scripts:    
