@@ -17,6 +17,6 @@ Original repository: https://github.com/herbertfreeze/COMM557, https://github.co
 - Anaconda/Jupyter: Optional, but recommended
 - Other packages are found in the individual tutorials!
   
-CoLab links to tutorial scripts:
+CoLab links to tutorial scripts:  
 Tutorial 1
 - https://
