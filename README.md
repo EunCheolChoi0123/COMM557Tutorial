@@ -13,14 +13,10 @@ Former TAs/contributers:
 Original repository: https://github.com/herbertfreeze/COMM557, https://github.com/echen102/COMM599 
 
 ### Fall 2023 Setup 
-- Google CoLab
-To circumvent dependency issues, all in-class tutorial scripts will be tested on Google CoLab.
-
-Optional, but recommended
-- Anaconda/Jupyter
-
-Other packages are found in the individual tutorials!
-
+- Google CoLab: To circumvent dependency issues, all in-class tutorial scripts will be tested on Google CoLab.
+- Anaconda/Jupyter: Optional, but recommended
+- Other packages are found in the individual tutorials!
+  
 CoLab links to tutorial scripts:
 Tutorial 1
 - https://
