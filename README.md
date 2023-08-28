@@ -19,5 +19,6 @@ Past repositories: https://github.com/herbertfreeze/COMM557, https://github.com/
   
 ## CoLab links to tutorial scripts:    
     
-### Tutorial 1
-- https://
+### Tutorial 1 Python Crash Course
+- https://colab.research.google.com/drive/172g1iuYfTbKFhKuhPJHt1us1EAPJazUx?usp=sharing
+- https://colab.research.google.com/drive/1cbrKLErdEKpiCIvb9vDe2Q2gyKoeH6q5?usp=sharing
