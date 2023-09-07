@@ -22,3 +22,6 @@ Past repositories: https://github.com/herbertfreeze/COMM557, https://github.com/
 ### Tutorial 1 Python Crash Course
 - https://colab.research.google.com/drive/172g1iuYfTbKFhKuhPJHt1us1EAPJazUx?usp=sharing
 - https://colab.research.google.com/drive/1cbrKLErdEKpiCIvb9vDe2Q2gyKoeH6q5?usp=sharing
+
+### Tutorial 2 Reddit Scraper
+- https://colab.research.google.com/drive/15g4wbv4-J_fIUbI8TZ3QqNYBokMHzD0p?usp=sharing
