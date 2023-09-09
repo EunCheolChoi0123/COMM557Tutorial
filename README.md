@@ -34,4 +34,4 @@ Past repositories: https://github.com/herbertfreeze/COMM557, https://github.com/
 
 ### Tutorial 4 (Under Construction) Analyzing Reddit Comment Network
 - https://colab.research.google.com/drive/1LpA_tMeJpusUmbIuESwSQ_l3awEqFmjj?usp=sharing
-- Looking for better visualization tools (previously used netwulf, but does not run on Colab well)
+- Look for better visualization tools (previously used netwulf, but does not run on Colab well)
