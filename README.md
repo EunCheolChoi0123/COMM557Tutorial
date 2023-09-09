@@ -26,8 +26,12 @@ Past repositories: https://github.com/herbertfreeze/COMM557, https://github.com/
 ### Tutorial 2 Reddit Scraper
 - https://colab.research.google.com/drive/15g4wbv4-J_fIUbI8TZ3QqNYBokMHzD0p?usp=sharing
 
+----------------------- (Under construction, feedback welcomed) ------------------------
+
 ### Tutorial 3 (Under Construction) Analyzing Networks with 'networkx'
 - https://colab.research.google.com/drive/1dGWSYjfMW_nA3DDIi7OS0iWLGMiCrghb?usp=sharing
+- Consider adding other metrics that might come handy
 
 ### Tutorial 4 (Under Construction) Analyzing Reddit Comment Network
 - https://colab.research.google.com/drive/1LpA_tMeJpusUmbIuESwSQ_l3awEqFmjj?usp=sharing
+- Looking for better visualization tools (previously used netwulf, but does not run on Colab well)
