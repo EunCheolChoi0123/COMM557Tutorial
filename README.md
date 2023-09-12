@@ -26,7 +26,7 @@ Past repositories: https://github.com/herbertfreeze/COMM557, https://github.com/
 ### Tutorial 2 Reddit Scraper
 - https://colab.research.google.com/drive/15g4wbv4-J_fIUbI8TZ3QqNYBokMHzD0p?usp=sharing
 
-### Tutorial 3 (Under Construction) Analyzing Networks with 'networkx'
+### Tutorial 3 Analyzing Networks with 'networkx'
 - https://colab.research.google.com/drive/1dGWSYjfMW_nA3DDIi7OS0iWLGMiCrghb?usp=sharing
 
 ----------------------- (Under construction, feedback welcomed) ------------------------
