@@ -29,8 +29,5 @@ Past repositories: https://github.com/herbertfreeze/COMM557, https://github.com/
 ### Tutorial 3 Analyzing Networks with 'networkx'
 - https://colab.research.google.com/drive/1dGWSYjfMW_nA3DDIi7OS0iWLGMiCrghb?usp=sharing
 
------------------------ (Under construction, feedback welcomed) ------------------------
-
-### Tutorial 4 (Under Construction) Analyzing Reddit Comment Network
+### Tutorial 4 Analyzing Reddit Comment Network
 - https://colab.research.google.com/drive/1LpA_tMeJpusUmbIuESwSQ_l3awEqFmjj?usp=sharing
-- Look for better visualization tools
