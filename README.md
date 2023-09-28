@@ -33,7 +33,8 @@ Past repositories: https://github.com/herbertfreeze/COMM557, https://github.com/
 - https://colab.research.google.com/drive/1LpA_tMeJpusUmbIuESwSQ_l3awEqFmjj?usp=sharing
 
 ### Tutorial 5 Basic NLP: preprocessing, sentiment analysis, topic modeling
-- https://colab.research.google.com/drive/1_BfXYlVwZVmCdiGD6Sb2ZW31vBK7-RDI?usp=sharing
-- https://colab.research.google.com/drive/1mXI95F_2RGnZjzWyVGp5cK3c3b87MtZI?usp=sharing
-- https://colab.research.google.com/drive/1HFS_d1znlSZLRFL-790Gu5AGK90V02Wa?usp=sharing
-- https://colab.research.google.com/drive/17jqpyh4ZW2OmQsO_giZi7l0QlQWu_mgR?usp=sharing
+- Basic preprocessing, VADER and LDA: https://colab.research.google.com/drive/1_BfXYlVwZVmCdiGD6Sb2ZW31vBK7-RDI?usp=sharing
+- Word cloud: https://colab.research.google.com/drive/1mXI95F_2RGnZjzWyVGp5cK3c3b87MtZI?usp=sharing
+- Semantic network & LDA visualization: https://colab.research.google.com/drive/1HFS_d1znlSZLRFL-790Gu5AGK90V02Wa?usp=sharing
+- Sentiment analysis using RoBERTa: https://colab.research.google.com/drive/17jqpyh4ZW2OmQsO_giZi7l0QlQWu_mgR?usp=sharing
+- BERTopic: https://drive.google.com/file/d/1coBOaM9YfmMI3KzXWYmSt-eG7IcNBEND/view?usp=sharing
