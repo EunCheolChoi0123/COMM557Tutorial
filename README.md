@@ -33,7 +33,7 @@ Past repositories: https://github.com/herbertfreeze/COMM557, https://github.com/
 - https://colab.research.google.com/drive/1LpA_tMeJpusUmbIuESwSQ_l3awEqFmjj?usp=sharing
 
 ### Tutorial 5 NLP: preprocessing, sentiment analysis, topic modeling (1)
-- Basic preprocessing, VADER and LDA: https://colab.research.google.com/drive/1_BfXYlVwZVmCdiGD6Sb2ZW31vBK7-RDI?usp=sharing
+- Basic preprocessing, Naive Bayes Classifier, VADER and LDA: https://colab.research.google.com/drive/1_BfXYlVwZVmCdiGD6Sb2ZW31vBK7-RDI?usp=sharing
 
 ### Tutorial 6 NLP: preprocessing, sentiment analysis, topic modeling (2)
 - Word cloud: https://colab.research.google.com/drive/1mXI95F_2RGnZjzWyVGp5cK3c3b87MtZI?usp=sharing
