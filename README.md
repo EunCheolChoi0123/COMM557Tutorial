@@ -41,6 +41,9 @@ Past repositories: https://github.com/herbertfreeze/COMM557, https://github.com/
 - Sentiment analysis using RoBERTa: https://colab.research.google.com/drive/17jqpyh4ZW2OmQsO_giZi7l0QlQWu_mgR?usp=sharing
 - BERTopic: https://colab.research.google.com/drive/1STD-3oajZQguZj4Zvu5yhHVQlEEWdXtd?usp=sharing
 
-### Tutorial 7 LLMs, GPTs
+### Tutorial 7 Supervised and unsupervised learning
+- https://colab.research.google.com/drive/16nSXJ4U6XoRD6oQoZeyYYlWocaU9toTi?usp=sharing
+
+### Tutorial 8 LLMs, GPTs
 - LLMs with model weights publicly available: https://colab.research.google.com/drive/1C0SqKDV9QRO8DIE9_VY6OkfzJbFJT2qL
 - OpenAI API: https://colab.research.google.com/drive/1wPrJuG_J36fA-K4PqIJip4xrBpWIPe0O
