@@ -1,8 +1,7 @@
 # Tutorial Code Repository for Data Science for Communication & Social Networks at USC
-[Class by: Emilio Ferrara](http://www.emilio.ferrara.name/data-science-for-communication-social-networks/)  
+Class by: [Luca Luceri](https://www.luceriluc.it/)
+Current TA: [Eun Cheol Choi](https://euncheol.notion.site/Eun-Cheol-Choi-dff98d091da54d299744def42b63b42c?pvs=4)
 
-Current TA: Eun Cheol Choi (euncheol@usc.edu)
- 
 Former TAs/contributers:
  - Meiqing Zhang
  - Herbert Chang
