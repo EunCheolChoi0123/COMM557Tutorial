@@ -1,5 +1,5 @@
 # Tutorial Code Repository for Data Science for Communication & Social Networks at USC
-Class by: [Luca Luceri](https://www.luceriluc.it/)
+Class by: [Luca Luceri](https://www.luceriluc.it/)  
 Current TA: [Eun Cheol Choi](https://euncheol.notion.site/Eun-Cheol-Choi-dff98d091da54d299744def42b63b42c?pvs=4)
 
 Former TAs/contributers:
