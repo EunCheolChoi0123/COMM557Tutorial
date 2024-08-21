@@ -28,7 +28,7 @@ Past repositories: https://github.com/herbertfreeze/COMM557, https://github.com/
 - Gephi Wiki: https://github.com/gephi/gephi/wiki/
 
 ### Tutorial 2 Analyzing Wikipedia Networks
-
+- https://colab.research.google.com/drive/19HZGu5f7cOmxDekOxaa2Eax79SVjZU-n#scrollTo=fICebxnSiKjr
 
 ### Tutorial 3 Reddit Scraper & Analyzing Reddit Comment Networks
 - https://colab.research.google.com/drive/15g4wbv4-J_fIUbI8TZ3QqNYBokMHzD0p?usp=sharing
