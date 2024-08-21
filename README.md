@@ -21,8 +21,10 @@ Past repositories: https://github.com/herbertfreeze/COMM557, https://github.com/
 - https://colab.research.google.com/drive/172g1iuYfTbKFhKuhPJHt1us1EAPJazUx?usp=sharing
 - https://colab.research.google.com/drive/1cbrKLErdEKpiCIvb9vDe2Q2gyKoeH6q5?usp=sharing
 
-### Tutorial 1 Analyzing Networks with 'networkx'
-- https://colab.research.google.com/drive/1dGWSYjfMW_nA3DDIi7OS0iWLGMiCrghb?usp=sharing
+### Tutorial 1 Analyzing and Visualizing Networks with 'networkx'/'Gephi'
+- NetworkX: https://colab.research.google.com/drive/1dGWSYjfMW_nA3DDIi7OS0iWLGMiCrghb?usp=sharing
+- Gephi Tutorials: https://gephi.org/users/
+- Gephi Wiki: https://github.com/gephi/gephi/wiki/
 
 ### Tutorial 2 Analyzing Wikipedia Networks
 
