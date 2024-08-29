@@ -29,7 +29,7 @@ Past repositories: https://github.com/herbertfreeze/COMM557, https://github.com/
 - Gephi Datasets: https://github.com/gephi/gephi/wiki/Datasets
 - Gephi Wiki: https://github.com/gephi/gephi/wiki/
 
-### Under Construction ###
+## Under Construction
 
 ### Tutorial 2 Analyzing Wikipedia Networks
 - https://colab.research.google.com/drive/19HZGu5f7cOmxDekOxaa2Eax79SVjZU-n#scrollTo=fICebxnSiKjr
