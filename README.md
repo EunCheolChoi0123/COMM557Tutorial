@@ -27,7 +27,7 @@ Past repositories: https://github.com/herbertfreeze/COMM557, https://github.com/
 ### Gephi
 Download these two datasets for in-class session:  
 - Les Miserables from https://github.com/gephi/gephi/wiki/Datasets
-- Airlines from https://github.com/gephi/gephi.github.io/tree/master/datasets  
+- Airlines-sample from https://github.com/gephi/gephi.github.io/tree/master/datasets  
 
 Resource:
 - Gephi Tutorials: https://gephi.org/users/
