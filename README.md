@@ -25,6 +25,11 @@ Past repositories: https://github.com/herbertfreeze/COMM557, https://github.com/
 - NetworkX: https://colab.research.google.com/drive/1dGWSYjfMW_nA3DDIi7OS0iWLGMiCrghb?usp=sharing
 
 ### Gephi
+Download these two datasets for in-class session:  
+- https://github.com/gephi/gephi/wiki/Datasets
+- https://github.com/gephi/gephi.github.io/tree/master/datasets  
+
+Resource:
 - Gephi Tutorials: https://gephi.org/users/
 - Gephi Datasets: https://github.com/gephi/gephi/wiki/Datasets
 - Gephi Wiki: https://github.com/gephi/gephi/wiki/
