@@ -34,9 +34,9 @@ Resource:
 - Gephi Datasets: https://github.com/gephi/gephi/wiki/Datasets
 - Gephi Wiki: https://github.com/gephi/gephi/wiki/
 
-### Tutorial 2 Reddit Scraper & Analyzing Reddit Comment Networks
-- https://colab.research.google.com/drive/15g4wbv4-J_fIUbI8TZ3QqNYBokMHzD0p?usp=sharing
-- https://colab.research.google.com/drive/1LpA_tMeJpusUmbIuESwSQ_l3awEqFmjj?usp=sharing
+### Tutorial 2 Reddit Scraper & Analyzing Reddit Networks
+- Reddit Scraper: https://colab.research.google.com/drive/15g4wbv4-J_fIUbI8TZ3QqNYBokMHzD0p?usp=sharing
+- Analyze networks: https://colab.research.google.com/drive/1LpA_tMeJpusUmbIuESwSQ_l3awEqFmjj?usp=sharing
 
 ## Under Construction
 
