@@ -34,14 +34,14 @@ Resource:
 - Gephi Datasets: https://github.com/gephi/gephi/wiki/Datasets
 - Gephi Wiki: https://github.com/gephi/gephi/wiki/
 
-## Under Construction
-
-### Tutorial 2 Analyzing Wikipedia Networks
-- https://colab.research.google.com/drive/19HZGu5f7cOmxDekOxaa2Eax79SVjZU-n#scrollTo=fICebxnSiKjr
-
-### Tutorial 3 Reddit Scraper & Analyzing Reddit Comment Networks
+### Tutorial 2 Reddit Scraper & Analyzing Reddit Comment Networks
 - https://colab.research.google.com/drive/15g4wbv4-J_fIUbI8TZ3QqNYBokMHzD0p?usp=sharing
 - https://colab.research.google.com/drive/1LpA_tMeJpusUmbIuESwSQ_l3awEqFmjj?usp=sharing
+
+## Under Construction
+
+### Tutorial 3 Analyzing Wikipedia Networks
+- https://colab.research.google.com/drive/19HZGu5f7cOmxDekOxaa2Eax79SVjZU-n#scrollTo=fICebxnSiKjr
 
 ### Tutorial 4 NLP: preprocessing, sentiment analysis, topic modeling (1)
 - Basic preprocessing, Naive Bayes Classifier, VADER and LDA: https://colab.research.google.com/drive/1_BfXYlVwZVmCdiGD6Sb2ZW31vBK7-RDI?usp=sharing
