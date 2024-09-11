@@ -24,10 +24,9 @@ Past repositories: https://github.com/herbertfreeze/COMM557, https://github.com/
 ### Tutorial 1 Analyzing and Visualizing Networks with 'networkx'
 - NetworkX: https://colab.research.google.com/drive/1dGWSYjfMW_nA3DDIi7OS0iWLGMiCrghb?usp=sharing
 
-### Gephi
-Download these two datasets for in-class session:  
-- Les Miserables from https://github.com/gephi/gephi/wiki/Datasets
-- Airlines-sample from https://github.com/gephi/gephi.github.io/tree/master/datasets  
+### Tutorial Gephi
+- Les Miserables file derived from https://github.com/gephi/gephi/wiki/Datasets
+- Airlines-sample file derived from https://github.com/gephi/gephi.github.io/tree/master/datasets  
 
 Resource:
 - Gephi Tutorials: https://gephi.org/users/
@@ -38,7 +37,7 @@ Resource:
 - Reddit Scraper: https://colab.research.google.com/drive/15g4wbv4-J_fIUbI8TZ3QqNYBokMHzD0p?usp=sharing
 - Analyze networks: https://colab.research.google.com/drive/1LpA_tMeJpusUmbIuESwSQ_l3awEqFmjj?usp=sharing
 
-## Under Construction
+## Under Construction ##
 
 ### Tutorial 3 Analyzing Wikipedia Networks
 - https://colab.research.google.com/drive/19HZGu5f7cOmxDekOxaa2Eax79SVjZU-n#scrollTo=fICebxnSiKjr
