@@ -1,0 +1,834 @@
+,author,author_flair_text,clicked,comments,created_utc,distinguished,edited,id,is_original_content,is_self,locked,name,num_comments,over_18,permalink,saved,score,selftext,spoiler,stickied,subreddit,title,upvote_ratio,url
+0,IIAKAD,,False,0,1726162609.0,,False,1ff8f7v,False,True,False,t3_1ff8f7v,25,False,/r/MachineLearning/comments/1ff8f7v/d_openai_new_reasoning_model_called_o1/,False,48,"OpenAI has released a new model that is allegedly better at reasoning what is your opinion ?
+
+[https://x.com/OpenAI/status/1834278217626317026](https://x.com/OpenAI/status/1834278217626317026)",False,False,MachineLearning,[D] OpenAI new reasoning model called o1,0.94,https://www.reddit.com/r/MachineLearning/comments/1ff8f7v/d_openai_new_reasoning_model_called_o1/
+1,as13ms046,,False,0,1726160896.0,,False,1ff7qo1,False,True,False,t3_1ff7qo1,1,False,/r/MachineLearning/comments/1ff7qo1/d_r_seeking_advice_on_lack_of_baselines/,False,2,"
+
+I am developing a multilingual keyword spotting model and plan to publish a paper on it. However, I am facing a challenge as I cannot find any baselines trained on multilingual data for a fair comparison. Most of the available baselines are trained on monolingual data, particularly in English. How can I publish a paper without relevant multilingual baselines for comparison?",False,False,MachineLearning,[D] [R] Seeking advice on lack of baselines ,1.0,https://www.reddit.com/r/MachineLearning/comments/1ff7qo1/d_r_seeking_advice_on_lack_of_baselines/
+2,n0ided_,ML Engineer,False,0,1726160445.0,,False,1ff7jtz,False,True,False,t3_1ff7jtz,17,False,/r/MachineLearning/comments/1ff7jtz/d_ml_career_paths_that_actually_do_good_andor/,False,14,"One year since out of grad school, currently working as an ML Engineer to get experience on my resume (and possibly apply for a PhD), and I'm kind of having a bit of a dilemma about my career choice right now. I love this field, I like the math and I also do enjoy coding, but after a few perspective changes I don't really care to work for defense or corporations. Fueling the military industrial complex or making rich people more money doesn't really sit right with me. It seems like almost all ML work falls into one of these two categories, as that's where the money is, but I would jump at any opportunity where I can use my skills to actually help people the community, even if it means taking a pay cut.
+
+Two options I see here are either academia or nonprofits. However, I see problems in both.
+
+* Academia - Many of y'all are here, and I had my brush with academia when I got my MS. Super competitive, insane burnout, lab/conference politics, writing papers just for the sake of writing papers, and on top of that many projects are funded by DoD anyways. However, I do appreciate knowledge just for the sake of knowledge, so I'm applying for a PhD anyways. May not get in to a decent program, however, so I'm looking for other options
+* Nonprofits - I don't see many that are hiring ML Engineers or researchers. I can kinda see why, there are many pressing issues that don't need a dedicated ML team to solve. However, maybe I'm looking in the wrong places.
+
+Am I missing something? I remember seeing a similar question in a math subreddit, and most of the posters concurred that most mathematicians are doomed to be working in finance or defense, and I'm wondering if that is the case in ML/AI as well.",False,False,MachineLearning,[D] ML Career paths that actually do good and/or make a difference,1.0,https://www.reddit.com/r/MachineLearning/comments/1ff7jtz/d_ml_career_paths_that_actually_do_good_andor/
+3,HaveFunUntil,,False,0,1726158346.0,,False,1ff6pmy,False,True,False,t3_1ff6pmy,0,False,/r/MachineLearning/comments/1ff6pmy/d_diarization_with_speechbrain_or_pyanoteaudio/,False,2,"Hi, I need to find an open-source tool that will do proper local model diarization/speaker attribution and  transcription for the English language when speaker changes are frequent. I wrote scripts with faster whisper and speechbrain and had bad results. Same with pyanote.audio. If anyone know a project that actually works I would like to learn from it. Thank you in advance!",False,False,MachineLearning,[D] Diarization with Speechbrain or Pyanote.audio for frequent speaker changes,1.0,https://www.reddit.com/r/MachineLearning/comments/1ff6pmy/d_diarization_with_speechbrain_or_pyanoteaudio/
+4,Anxiousbanana001,,False,0,1726157205.0,,False,1ff697a,False,True,False,t3_1ff697a,0,False,/r/MachineLearning/comments/1ff697a/d_i_need_to_interview_a_professional_from_this/,False,0,"Hi guys, 
+I need someone who's willing to be interviewed on the topic of 'Technical writing' in this field. The interview will be recorded (audio or video it's up to you),  and it's for a university assignment. If you have a LinkedIn profile, it's a plus since I'll be able to credit you properly. The interview will last about 20 minutes and questions will mostly be what sort of standard of writing do you look for or try to achieve, it's importance etc etc. 
+
+Please let me know if anyone is up to it, I have to submit next Monday and I wanna ace it. 
+
+Thank you. ",False,False,MachineLearning,[D] I need to interview a professional from this field for a university assignment.,0.5,https://www.reddit.com/r/MachineLearning/comments/1ff697a/d_i_need_to_interview_a_professional_from_this/
+5,Chuggleme,,False,0,1726156378.0,,False,1ff5x81,False,True,False,t3_1ff5x81,0,False,/r/MachineLearning/comments/1ff5x81/d_can_someone_guide_us_regarding_amazon_ml/,False,0,We are participating in Amazon ML Challenge for this year which is about to start in sometime. Can previous participants and winners can guide us how we should keep our approach for the challenge from data preprocessing to final model. It will be really of great help.,False,False,MachineLearning,[D] Can someone guide us regarding Amazon ML Challenge?,0.4,https://www.reddit.com/r/MachineLearning/comments/1ff5x81/d_can_someone_guide_us_regarding_amazon_ml/
+6,sadboiwithptsd,,False,0,1726154390.0,,False,1ff54no,False,True,False,t3_1ff54no,22,False,/r/MachineLearning/comments/1ff54no/d_what_is_the_point_of_encoder_only_models_like/,False,28,"I have been working with language models for a while now... Most tasks that I have been concerned with are related to translation, transliteration, spell correction and code mixing. So far I haven't found much reason to implement encoder only models such as bert, roberta etc. Everything that I want to achieve even from a number of parameter standpoint ends up going to seq2seq models like bart (50M) and marianMT (77M). From my observation all the tasks except for spell correction, seq2seq architectures are able to handle pretty well. Spell correction I'm speculating is difficult to do because of issues with subword tokenization. I'm curious to when should I be implementing encoder only models and in what applications is going to seq2seq overkill...",False,False,MachineLearning,[D] What is the point of encoder only models like bert and roberta anymore?,0.87,https://www.reddit.com/r/MachineLearning/comments/1ff54no/d_what_is_the_point_of_encoder_only_models_like/
+7,More_Lawfulness_6862,,False,0,1726145952.0,,False,1ff1y95,False,True,False,t3_1ff1y95,20,False,/r/MachineLearning/comments/1ff1y95/d_how_to_prevent_sql_injection_in_llm_based_text/,False,15,"I am working in Data analysis project and it is build for executive level. With the growth on chat GPT based interaction, they want similar functionality but for financial data. For eg. They can ask ""What is the most profitable bank in this quarter?"" and they need the bank list and further some visualization. I was planning to train the LLM with the MySQL db structure , question and relevant query and the progress is well. But I think this method is prone to sql injection attacks. For eg, ""Remove everything from Profit table. "" prompt might generate SQL query to delete the table or truncate the table. I know, we can limit execution of some command which contain delete, truncate, but still I see various problems. Is there any solution ?",False,False,MachineLearning,[D] How to prevent SQL injection in LLM based Text to SQL project ?,0.72,https://www.reddit.com/r/MachineLearning/comments/1ff1y95/d_how_to_prevent_sql_injection_in_llm_based_text/
+8,milaapmehta27,,False,0,1726136876.0,,False,1fez8ou,False,True,False,t3_1fez8ou,4,False,/r/MachineLearning/comments/1fez8ou/want_some_feedback_for_my_computer_vision_idea/,False,3,"As a side hustle, and to streamline some working during my day job, I am working on building a self-service synthetic image API that uses Stable Diffusion XL, Flux etc. for computer vision engineers do quick modifications and augmentations to their training data. The goal is to help me (and hopefully others) reduce data drift, acquire new images quickly and cheaply and increase the speed of iteration while hopefully increasing model performance. The images that are generated will keep the existing labels in place. 
+
+To start off with, I am thinking of allowing a couple initial modifications:
+
+* Controlled lighting changes
+* Weather changes (rain, snow, sun etc.)
+* Time of day changes (daw, day, evening, night etc.)
+* Addition of occlusions and lighting flares
+* And more
+
+I have a bunch of ideas on how to expand this further, but while I am building this initial prototype, I was curious on feedback. Do you think people might pay for this, why or why not? Do you think this would be useful?Want some feedback for my computer vision idea! Self-service synthetic image API
+
+Thanks in advance for the feedback!",False,False,MachineLearning,Want some feedback for my computer vision idea! Self-service synthetic image API [P] [D],0.64,https://www.reddit.com/r/MachineLearning/comments/1fez8ou/want_some_feedback_for_my_computer_vision_idea/
+9,MrGolran,,False,0,1726136770.0,,False,1fez7rq,False,True,False,t3_1fez7rq,2,False,/r/MachineLearning/comments/1fez7rq/d_textual_descriptions_from_satellite_images/,False,0,"I was thinking if it's possible to generate textual descriptions of an image based on a specific parameter (e.g., soil moisture) using a multimodal model 
+The data could potentially be remotely sensed images from satellite or UAV. 
+
+Image Data: RGB 
+
+Parameter Data: 2D array where each element corresponds to the parameter value at the respective pixel.
+
+Has this been implemented? 
+Are there any models that work well for this type of problem?
+Any insights or suggestions would be greatly appreciated!
+
+Thanks in advance!",False,False,MachineLearning,[D] Textual Descriptions from Satellite Images Using Multimodal Models: Has It Been Done?,0.5,https://www.reddit.com/r/MachineLearning/comments/1fez7rq/d_textual_descriptions_from_satellite_images/
+10,PositiveResponse7678,,False,0,1726131784.0,,False,1fey1mq,False,True,False,t3_1fey1mq,11,False,/r/MachineLearning/comments/1fey1mq/p_vector_search_is_slow/,False,0,"I have 50 image embeddings (dinov2) stored in my vector database. I want to retrieve the top 3 most similar images to the query image. Based on these 3 similar images I will perform Superpoint feature extraction and do lightglue feature matching. I wish to deploy this as an app. But unfortunately, my vector search to retrieve the top 3 results are very slow. I don't know where I'm going wrong. My embeddings are saved along with the payload containing the features and descriptors. Its taking over 4 secs to retrieve top 3 similar matches. And then matching the images with lightglue also takes a while. How do I speed this up. My end goal is image authentication. Am I missing something in my vector search, or should I pick a different approach..",False,False,MachineLearning,[P] Vector search is slow,0.27,https://www.reddit.com/r/MachineLearning/comments/1fey1mq/p_vector_search_is_slow/
+11,punims,,False,0,1726128396.0,,False,1fexatj,False,True,False,t3_1fexatj,0,False,/r/MachineLearning/comments/1fexatj/d_p_recommended_lidarimage_labeling_platforms/,False,3,"Hey everyone,
+I hope this is a good place to ask for advice and recommendations.
+
+We're looking for a labeling platform for our image and lidar data (automotive project)
+
+It's kind of important for us that this platform can scale with us as the project grows.
+
+It's important the platform provides:
+1. Automation and helpful labeling features
+2. Lidar and image fusion
+3. Direct access to our data stored in the cloud (images are downloaded to the platform directly and labels are uploaded back to the cloud directly.)
+
+Any recommendations? ",False,False,MachineLearning,[D] [P] Recommended LIDAR/Image labeling platforms,1.0,https://www.reddit.com/r/MachineLearning/comments/1fexatj/d_p_recommended_lidarimage_labeling_platforms/
+12,Ok-Reflection-4049,,False,0,1726127049.0,,1726131180.0,1fex05d,False,True,False,t3_1fex05d,0,False,/r/MachineLearning/comments/1fex05d/d_updated_paper_submission_neurips_2024_workshop/,False,3,"Hey, everyone.  
+Sorry for asking a noob question.  
+So basically we have submitted a paper at a workshop of NeurIPS 2024. This is our first work during our undergrad. After submission, we received an email the next day regarding a margin issue that needed to be fixed, or our submission would be rejected. Which we fixed \[a very unintentional error\] and trying to submit it since then  but in the Openreview, it keeps saying that the invitation submission has expired. So is there any deadline we have to maintain for this kind of scenario. The main review will be given in the next month. We have tried to contact them, but we are not getting any response.",False,False,MachineLearning,[D] Updated Paper submission [NeurIPS 2024 Workshop],0.8,https://www.reddit.com/r/MachineLearning/comments/1fex05d/d_updated_paper_submission_neurips_2024_workshop/
+13,seanatl2019,,False,0,1726123852.0,,False,1fewafy,False,True,False,t3_1fewafy,3,False,/r/MachineLearning/comments/1fewafy/p_r_looking_for_help_applying_nlp_models_to_an/,False,0,"I  am working on a research project in which my team is trying to learn information about the users of a series of specific medical Subreddit pages and learn about the posts and comments people make, such as the most common themes, major concerns people have, the overall mental health status of users of these groups, the accuracy of medical claims posted, etc. To do this, I used Python and wrote code that pulled the following information from all posts and comments in two specific Subreddit pages of interest: 
+
+Subreddit | Post Title | Post Body | Post Date | Post Upvotes | Post Downvotes | Post ID | Post Flair | Post Author | Comment Body | Comment Date | Comment Upvotes | Comment Downvotes | Parent Comment ID | Comment ID | Comment Author
+
+I also had the code make a second sheet in the Excel output file with summarized information about the posts and comments, including Subreddit | # of Unique Posts | # of Unique Comments | # of Unique Post Authors | # of Unique Comment Authors | Total # of Unique Users | Date Range Start | Date Range End | Avg Comments Per Post | Avg Posts/Comments Per User | Avg Words Per Post | Avg Words Per Comment
+
+Finally, the code also created a sheet for each Subreddit that made a table that gave the year and number of posts made that year for each year since the respective page was created.
+
+This is what the output Excel file looks like:
+
+[Sheet 1 has 10,509 rows, \(10,508 rows with entries\)](https://preview.redd.it/gw1vnlpyrbod1.png?width=2782&format=png&auto=webp&s=577e85a81a88194670b07c0b978c01eb809678d8)
+
+I am trying to get assistance with a few things, please!
+
+1.) I would really appreciate some advice on how best to format the file (please see the screenshot to see how it is arranged currently). Is it better to have all the posts and comments and then all their respective metadata to be in the same columns? Not sure if that makes a big difference or not, but I have also created a sheet like that as well, in case.
+
+2.) Next, I am trying to figure out how best to pre-process the text (Post Body and Column Body columns are the only ones I am interested in for the sake of these analyses). I realize that I may need to pre-process the text differently for each analysis I plan to run, but there are lots of comments that are not relevant as they are short responses to posts or other comments and contain little to no contextual detail for the sake of each analysis.
+
+3.) I also need help choosing the best NLP models to use for medical text analysis. I know many of the free open access models were trained on nonmedical text, so I don’t know if they will be as adept at performing their functions on text that contains lots of medical terminology, symptoms, treatment types, etc. (looking for models for sentiment analysis,
+
+Honestly, any advice about any of this or whatever else anyone can offer regarding this would be extremely well appreciated. Happy to give more context on any of this if needed.
+
+\*the Google Drive folder in the URL attached contains the two Excel files I have created, should that be helpful for anyone who is willing to offer me any assistance.
+
+Btw, I am hoping to be able to run the following...
+
+**Semantic Analysis** (to group Reddit posts by common medical topics, such as diagnosis categories, treatments, or symptoms), **sentiment analysis** (to assess how Reddit users feel about specific diagnoses or treatments by analyzing their sentiments across posts), **emotional analysis** (to identify emotional responses to particular health conditions or experiences described in the comments), **topic modeling** (to discover the hidden themes within these Subreddits, such as common diseases discussed, treatment methods, healthcare barriers, etc.), **keyword extraction** (Identify frequent medical terms, treatments, fears, symptoms, etc. discussed by users in posts and comments), **Clustering** (to cluster posts discussing similar diagnoses, treatments, experiences, or symptoms for easier analysis), **Intent Detection** (to understand why users are posting in medical diagnosis Subreddits—whether they are seeking advice, sharing their story, or discussing treatments), **Hierarchical Topic Modeling** (to discover not only general topics like ""cancer"" but also sub-topics like ""chemotherapy side effects"" or ""diagnostic tests”), **Claim Verification/Misinformation Detection** (to detect false claims or inaccurate medical advice being shared on the Subreddit), and **Engagement Analysis** (to study which types of medical diagnosis posts, treatment posts, symptom posts, anecdote posts, question posts, advice posts, etc. generate the most community interaction)",False,False,MachineLearning, [P] [R] Looking for help applying NLP models to an Excel file created using Python with data pulled from medical Subreddit pages ,0.33,https://www.reddit.com/r/MachineLearning/comments/1fewafy/p_r_looking_for_help_applying_nlp_models_to_an/
+14,Silver-Highlight-813,,False,0,1726120750.0,,False,1fevji3,False,True,False,t3_1fevji3,1,False,/r/MachineLearning/comments/1fevji3/p_r_how_to_obtain_the_data_used_on_this_paper_i/,False,5,"I am planning to do my research based on this paper, the data used is from dukascopy on past 10 years period, I went into the website data feed but confused about the settings i should choose to obtain the data and the small volume i did download seems to be different from the data i get from yfinance
+
+can someone tell me 1. what are the specific settings i should choose from the data feed to obtain the exact data of the explanatory variables mentioned in this paper? 2. why is the data different from yfinanace for a same variable?
+
+paper name: A hybrid econometrics and ml based modeling of realized volatility of natural gas
+
+https://jfin-swufe.springeropen.com/articles/10.1186/s40854-023-00577-0#availability-of-data-and-materials
+
+The explanatory variables used are the XAU in US dollars, the BRENT futures price, the Standard and Poor’s 500 (SPX), and the EURO. The XAU was selected because gold is used as a refuge in crisis periods and is a predictor of poor economic performance. The SPX was chosen because it is a good predictor of US and world economic performance. The EURO can serve as a buffer against or dampen the effects of inflation when energy prices rise. BRENT is an energy alternative to NG for two reasons: substitution and comovement in economic trends.
+
+All the high-frequency data of these variables were extracted from www.dukascopy.com. These variables were sampled at 5-min intervals to compute the daily realized volatility. For each variable, the realized volatility was calculated according to Eq. 1.
+
+The period analyzed is from September 3rd, 2012, to January 31st, 2022 (977,497 intraday observations and 2724 daily observations, excluding nonwork days)
+",False,False,MachineLearning,[P] [R] How to obtain the data used on this paper? I am new to quant related problems,0.67,https://www.reddit.com/r/MachineLearning/comments/1fevji3/p_r_how_to_obtain_the_data_used_on_this_paper_i/
+15,Fair-Donut2650,,False,0,1726092977.0,,False,1fems4c,False,True,False,t3_1fems4c,2,False,/r/MachineLearning/comments/1fems4c/jamba_design_policy_r/,False,3,Does anyone know how the authors of Jamba determined where to place the attention layer within the Jamba block? I read through the paper but was unable to find any information on it. They only discuss the ratio of attention to mamba layers. ,False,False,MachineLearning,Jamba design policy [R],1.0,https://www.reddit.com/r/MachineLearning/comments/1fems4c/jamba_design_policy_r/
+16,RocketHead12,,False,0,1726087023.0,,False,1fekhc0,False,True,False,t3_1fekhc0,0,False,/r/MachineLearning/comments/1fekhc0/d_imagetoimage_translation_for_game_texture_color/,False,1,"Hello, I'm currently working on a simple replacement mod for a significant portion of a game's textures.
+
+Trivial image format conversions and collection aside, the task consists of changing these textures to a particular color scheme with a few nuances and caveats that a cookie cutter batch task in Photoshop can't take into consideration. This is where I thought I could use ML. Currently, I have a large slice of manually converted images I can use for fine-tuning/training.
+
+I considered using CycleGAN and pix2pix, but the resolution and image quality weren't the best. 
+
+Since this subreddit seems far more knowledgeable and familiar in image task SOTA models, I was wondering if there were any particular recommendations for this use case.
+",False,False,MachineLearning,[D] Image-to-image translation for game texture color scheme changes,1.0,https://www.reddit.com/r/MachineLearning/comments/1fekhc0/d_imagetoimage_translation_for_game_texture_color/
+17,Starktony11,,False,0,1726086087.0,,False,1fek3te,False,True,False,t3_1fek3te,0,False,/r/MachineLearning/comments/1fek3te/d_which_features_importance_technique_gives_more/,False,0,"Hi everyone,
+
+I was curious which feature importance technique is better? Using linear regression or random Forrest feature importance? If all the assumptions are met for both the method and goal is to find which has the most impact. 
+
+So lets say my goal is to find the house price (this is just for an example no need to focus on domain) if i am using linear regression I select features which are significant and also coefficient helps me to know how much impact a variable has and will tell me exact how much price would increase. 
+
+for example if size has 200 coefficient then will tell me every unit increase in size price will increase by 200
+
+
+Here i need help to understand better, please correct me if i am wrong , for trees
+
+But in trees if I am I calculate the score, and do get some variables, i can select features which has more score than 0, but lets say if a variable has score 0.5 (size variable), i get this is the most important factor. But how can calculate that how much impact in price would there be if size is increased by a unit? Do we get any coefficients that help to know how much impact will it have on price? Or whay this 0.5 mean ? How do I interpret it ?",False,False,MachineLearning,[D] Which features importance technique gives more information? Regression or trees? Also would like to get help to understand in interpreting tree features importance ,0.5,https://www.reddit.com/r/MachineLearning/comments/1fek3te/d_which_features_importance_technique_gives_more/
+18,guneskedi,,False,0,1726080896.0,,False,1fei0gh,False,True,False,t3_1fei0gh,3,False,/r/MachineLearning/comments/1fei0gh/looking_for_feedback_on_presentation_gumbel/,False,2,"I recently gave a presentation on Gumbel copulas and conformal prediction and would love to get your feedback. If you’re interested in these topics, please check out my presentation here: [https://youtu.be/kv7jb3wRwFU?si=QSoX-K0wVNYybyNN](https://youtu.be/kv7jb3wRwFU?si=QSoX-K0wVNYybyNN). I’m looking to improve my presentation skills, so any tips or suggestions would be greatly appreciated. Thanks a lot!",False,False,MachineLearning,Looking for Feedback on Presentation: Gumbel Copulas and Conformal Prediction [D],1.0,https://www.reddit.com/r/MachineLearning/comments/1fei0gh/looking_for_feedback_on_presentation_gumbel/
+19,Status-Shock-880,,False,0,1726077967.0,,False,1fegu5k,False,False,False,t3_1fegu5k,3,False,/r/MachineLearning/comments/1fegu5k/ademamix_what_do_you_think/,False,5,"Seems like such a simple improvement, faster convergence, lower minima. Do you see any downsides?
+",False,False,MachineLearning,AdEMAMix- what do you think?,0.78,https://arxiv.org/abs/2409.03137
+20,ApartmentAlarmed3848,,False,0,1726075719.0,,1726078497.0,1fefwzf,False,True,False,t3_1fefwzf,3,False,/r/MachineLearning/comments/1fefwzf/r_d_active_conversational_communities_that_can_be/,False,0,"Hello all, I am currently doing my thesis on Natural Language Processing and my it involves studying how people text online in a community so that it can be used to simulate conversational agents that can mimic real human conversations.
+
+To this goal, I want to be able to create datasets through the API of active forums or communities. Please guide me as to what websites/sources I should be looking at other than twitter, reddit etc. for this.",False,False,MachineLearning,[R] [D] Active conversational communities that can be used to create datasets,0.33,https://www.reddit.com/r/MachineLearning/comments/1fefwzf/r_d_active_conversational_communities_that_can_be/
+21,worstthingsonline,,False,0,1726074685.0,,1726080707.0,1fefhrz,False,True,False,t3_1fefhrz,53,False,/r/MachineLearning/comments/1fefhrz/d_r_are_there_any_promising_avenues_for_achieving/,False,47,"It would appear that the status quo of massive foundation models with billions (soon trillions) of parameters, trained on more or less the entire internet, is reaching a point of diminishing returns, perhaps even approaching an asymptote (let's at least assume this for the sake of discussion). There are also the tremendous costs associated with training and serving such models. This motivates the development of efficient ML: Software and hardware designed to train smaller models on less data at lower cost without compromising on performance and capability. What is the current SOTA in this field? Are there any avenues which seem more promising than others?
+
+EDIT: I would prefer the discussion to be around **efficient neural networks** in general. Not limited to only LLMs. ",False,False,MachineLearning,[D] [R] Are there any promising avenues for achieving efficient ML? ,0.82,https://www.reddit.com/r/MachineLearning/comments/1fefhrz/d_r_are_there_any_promising_avenues_for_achieving/
+22,Everyone_Is_MC,,False,0,1726071621.0,,False,1fee8al,False,True,False,t3_1fee8al,5,False,/r/MachineLearning/comments/1fee8al/d_what_happened_to_asus_ai_accelerator_pcie_card/,False,1,"In 2021, Linus Tech Tips made a video titled ""[This is Not a Graphics Card - Asus AI Accelerator](https://www.youtube.com/watch?v=B635wcdr6-w)"" which showed off PCIe card that internally bundles 8 Coral TPU cards.
+
+I am very surprised at how little this device is talked about in the community in general, and it isn't straight forward on getting them either!
+
+I am even wondering if this product is being 'paided off' by nvidia or someone so that it doesn't cannibalize the gpu market share for ai applications.
+
+maybe the use case of having 8 tpus bundled together like this hasn't been fleshed out yet?
+
+https://preview.redd.it/o0ej6zvof7od1.png?width=1424&format=png&auto=webp&s=8b66a0b70ad1dd933231bdc4521649309b6d367d
+
+product link:  
+[https://www.asus.com/networking-iot-servers/aiot-industrial-solutions/gpu-edge-ai-accelerators/ai-accelerator-pcie-card/](https://www.asus.com/networking-iot-servers/aiot-industrial-solutions/gpu-edge-ai-accelerators/ai-accelerator-pcie-card/)",False,False,MachineLearning,[D] What happened to Asus AI Accelerator PCIe card?,0.52,https://www.reddit.com/r/MachineLearning/comments/1fee8al/d_what_happened_to_asus_ai_accelerator_pcie_card/
+23,Commercial_Carrot460,,False,0,1726066321.0,,False,1fec2jq,False,True,False,t3_1fec2jq,28,False,/r/MachineLearning/comments/1fec2jq/d_cold_diffusion_inverting_arbitrary_image/,False,23,"Hi everyone, 
+
+The point of this post is not to blame the authors, I'm just very surprised by the review process.
+
+I just stumbled upon this paper. While I find the ideas somewhat interesting, I found the overall results and justifications to be very weak.   
+It was a clear reject from ICLR2022, mainly for a lack of any theoretical justifications. [https://openreview.net/forum?id=slHNW9yRie0](https://openreview.net/forum?id=slHNW9yRie0)  
+The exact same paper is resubmitted at NeurIPS2023 and I kid you not, the thing is accepted for a poster. [https://openreview.net/forum?id=XH3ArccntI](https://openreview.net/forum?id=XH3ArccntI)
+
+I don't really get how it could have made it through the review process of NeurIPS. The whole thing is very preliminary and is basically just consisting of experiments.  
+It even llack citations of other very closely related work such as *Generative Modelling With Inverse Heat Dissipation* [https://arxiv.org/abs/2206.13397](https://arxiv.org/abs/2206.13397) which is basically their ""blurring diffusion"" but with theoretical background and better results (which was accepted to ICLR2023)...
+
+I thought NeurIPS was on the same level as ICLR, but now it seems to me sometimes papers just get randomly accepted.
+
+So I was wondering, if anyone had an opinion on this, or if you have encountered other similar cases ? ",False,False,MachineLearning,[D] Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise,0.68,https://www.reddit.com/r/MachineLearning/comments/1fec2jq/d_cold_diffusion_inverting_arbitrary_image/
+24,Fantastic-Race-6701,,False,0,1726058768.0,,False,1fe98hw,False,True,False,t3_1fe98hw,4,False,/r/MachineLearning/comments/1fe98hw/face_occlusion_detection_d/,False,0,"I am working on face occlusion detection. I want to develop a face detection system, in which True Positives includes detecting a single face, even when partially covered by hands, tilted slightly to the left or right, or with closed eyes. The system must reliably recognize such faces under these conditions to ensure accurate detection. On the other hand, True Negatives include rejecting faces that are fully or partially covered by scarves or masks, faces that are only partially visible, or faces with orientations exceeding a set threshold. The system should also avoid detecting multiple faces in the frame, regardless of their distance from the camera, as well as situations where more than one partially visible face is present in the frame. This ensures that only the desired face configurations are positively detected while avoiding ambiguous or unintended cases.
+
+I have tried the multimodal approach in which I have done multiple face detection with Yunet.onnx model which is giving pretty good results. After that for face orientation, I used Mediapipe, calculated the neck and nose slope and shoulder slope, and set the threshold values after thorough calibration and it is also working fine. Regarding occlusion detection, I temporarily used the Haar-Cascades frontal face model which is giving high False negative results.
+
+Can anyone suggest a method for occlusion detection",False,False,MachineLearning,Face Occlusion detection [D],0.33,https://www.reddit.com/r/MachineLearning/comments/1fe98hw/face_occlusion_detection_d/
+25,Npoes,,False,0,1726061250.0,,False,1fea3tn,False,True,False,t3_1fea3tn,4,False,/r/MachineLearning/comments/1fea3tn/p_tetris_gymnasium_a_customizable_reinforcement/,False,5,"Today, the first version of *Tetris Gymnasium* was released, which may be interesting for anyone who's doing work related to Reinforcement Learning or who wants to get into it.
+
+**What is it?** Tetris Gymnasium is a clean implementation of Tetris as a Reinforcement Learning environment and integrates with Gymnasium. It can be customized (e.g. board dimensions, gravity, ...) and includes many examples on how to use it like training scripts.
+
+**Why Tetris?** Despite significant progress in RL for many Atari games, Tetris remains a challenging problem for AI. Its combination of NP-hard complexity, stochastic elements, and need for long-term planning make it a persistent open problem in RL research. There's to date no publication that works well with the game which is not using hand-crafted feature vectors or other simplifications.
+
+**What can I use it for?** Please don't hesitate to try out the environment to get into Reinforcement Learning. The good thing is that Tetris is easy to understand, and you can watch the agent play and see the errors it makes clearly. If you're already into RL, you can use it as a customizable environment that integrates well with other frameworks like Gymnasium and W&B.
+
+GitHub: [https://github.com/Max-We/Tetris-Gymnasium](https://github.com/Max-We/Tetris-Gymnasium)
+
+In the repository you can also find a pre-print of our short-paper ""Piece by Piece: Assembling a Modular Reinforcement Learning Environment for Tetris"" which explains the background, implementation and opportunities for students and researchers in more detail.
+
+You are welcome to leave a star or open an issue if you try out the environment!",False,False,MachineLearning,[P] Tetris Gymnasium: A customizable reinforcement learning environment for Tetris,1.0,https://www.reddit.com/r/MachineLearning/comments/1fea3tn/p_tetris_gymnasium_a_customizable_reinforcement/
+26,racetrack9,,False,0,1726053219.0,,False,1fe7jgu,False,True,False,t3_1fe7jgu,3,False,/r/MachineLearning/comments/1fe7jgu/d_what_am_i_trying_to_do_here_sanity_check_for/,False,3,"I've implemented an SVM classifier that uses a Gaussian RBF and standardized features (Z-scores). It is written purely in Rust and sits on machines without internet access, and access to platforms that can easily compute Shapley values or LIME. Correctness, speed, and portability were the goals.
+
+I had an idea for quick and efficient interpretability but I want to check whether this is a sound way of doing things.
+
+Essentially, run the model as normal and produce a classification and distance value (like it currently does). Then, re-run the model once for each feature (e.g., 30 features = 30 additional runs). For each run:
+
+* Zero the Z-score of the feature of interest,
+* Re-run the prediction and produce a new distance value. Compare this new value to the original value to produce an 'offset'
+* Save and report these 30 offsets and rank them based on the |abs|. The signedness of the offset indicates the directionality of the impact to the final prediction
+
+Is this a thing and does it have a name? Or is this dumb?
+
+Thanks",False,False,MachineLearning,[D] What am I trying to do here? Sanity check for SVM interpretability idea,0.81,https://www.reddit.com/r/MachineLearning/comments/1fe7jgu/d_what_am_i_trying_to_do_here_sanity_check_for/
+27,_My__Real_Name_,,False,0,1726042735.0,,False,1fe51w1,False,True,False,t3_1fe51w1,9,False,/r/MachineLearning/comments/1fe51w1/d_can_anyone_explain_camouflaged_object_detection/,False,9,"**Note: I am a final-year undergraduate student and not an experienced researcher.**
+
+Camouflaged Object Detection (COD) is a specialised task in computer vision focused on identifying objects that blend into their surroundings, making them difficult to detect. COD is particularly challenging because the objects are intentionally or naturally designed to be indistinguishable from their background.
+
+**What I don't understand:** Datasets such as [COD10K](https://arxiv.org/abs/2102.10274) contain *ground truth masks* that outline the exact shape of the camouflaged object(s). However, if the objects are blended into the background, what features are used to distinguish between the object and the background? When the object is not camouflaged, this becomes relatively easier, as the object typically *has* distinguishable features such as edges, colours, or textures that differentiate it from the background.",False,False,MachineLearning,[D] Can anyone explain Camouflaged Object Detection (COD)?,0.7,https://www.reddit.com/r/MachineLearning/comments/1fe51w1/d_can_anyone_explain_camouflaged_object_detection/
+28,Potential-Dingo-6424,,False,0,1726035664.0,,False,1fe3hgv,False,True,False,t3_1fe3hgv,10,False,/r/MachineLearning/comments/1fe3hgv/dnanobpe_an_imitation_of_microbpe/,False,5,"Spent an evening diving into a fun side project—building an imitation of Andrej Karpathy’s microBPE. It’s fascinating to see how Byte Pair Encoding (BPE) can be applied beyond NLP, unlocking new ways to identify frequent long sequences in areas like recommendation systems and downstream event processing. Looking forward to exploring its potential even further!
+
+[https://github.com/ickma/nanobpe](https://github.com/ickma/nanobpe)",False,False,MachineLearning,"[D]NanoBPE: An imitation of MicroBPE
+",0.86,https://www.reddit.com/r/MachineLearning/comments/1fe3hgv/dnanobpe_an_imitation_of_microbpe/
+29,TobyWasBestSpiderMan,,False,0,1726021119.0,,False,1fdzemt,False,False,False,t3_1fdzemt,8,False,/r/MachineLearning/comments/1fdzemt/r_whos_a_good_boy_a_metropolishastings_approach/,False,65,,False,False,MachineLearning,[R] Who’s a Good Boy? A Metropolis-Hastings Approach to Determining Foster Dog Names of Unknown Origin,0.89,https://www.reddit.com/gallery/1fdz13f
+30,chaosOblivionkey,,False,0,1726013769.0,,False,1fdx2e3,False,True,False,t3_1fdx2e3,7,False,/r/MachineLearning/comments/1fdx2e3/research_publication_questions_r/,False,3,"I graduated with a Master's in Bioinformatics this year and have been working with a professor on research. There were two separate research topics we worked on but I am referencing the 2nd one. This professor is a data science professor that specializes and teaches machine learning and is from a different school in my university. 
+
+So when I met him the 2nd project was machine learning based with some Bioinformatics and of course I needed to do everything. He would give me tips and try to understand the stuff with me but he doesn't do Bioinformatics so I needed to figure the preprocessing stuff out alone which wasn't the hard part.
+The hard part was trying to figure out how to get the ML tool he or other students that were there before me choose to use for the task. Those two students left without contributing much and they were computer science majors lol. This ML tool had lots of problems and wasn't fully documented. None the less I got it working on the schools hpc.
+
+Long story short the data is single cell RNA-seq data and the ml tool uses random forest regression to infer gene regulatory networks. Which is just predicting transcription factor, target gene pairs/edges.
+
+The problem is I am not getting back good metrics. Lots of signs of overfitting. I try getting the r-squared score for the training set and comparing it to the score from the test set and consistently every target gene is giving back much better training scores than test scores. 
+
+My professor just wants to see me give him a final submission ready paper which I just did Friday. But in that paper, and I let him know also, that I explain that the results are not reliable due to the metrics. I also talk about what I can improve on, to try and get better evaluation metrics. The professor knows that the evaluation metrics have not been good so far and is still asking for a submission ready paper, which I have just provided.
+
+My question to you all is: am I allowed to submit a paper where I know that the results aren't reliable,  even if I mention that in the paper? Is this looked down upon in the research community? I believe that this is definitely better than faking the evaluation metrics and data and passing my work off as reliable, much like some other academics at universities have done resulting in a recall of many papers. But is it a thing to submit something that is not a breakthrough? ",False,False,MachineLearning,Research publication questions [R],0.71,https://www.reddit.com/r/MachineLearning/comments/1fdx2e3/research_publication_questions_r/
+31,f14-bertolotti,,False,0,1726007143.0,,False,1fduqr5,False,True,False,t3_1fduqr5,10,False,/r/MachineLearning/comments/1fduqr5/what_do_you_think_of_tfree_to_reduce_the/,False,27,"Hey r/MachineLearning!
+
+I've just published my second blog post analyzing an interesting new paper: [T-FREE: Tokenizer-Free Generative LLMs via Sparse Representations for Memory-Efficient Embeddings](https://arxiv.org/abs/2406.19223). You can check out my full breakdown [here](https://f14-bertolotti.github.io/posts/06-09-24-tfree/index.html).
+
+# The Encoding Phase
+
+The authors present an interesting method to reduce the vocabulary size of the embedding matrix using a technique similar to locality sensitive hashing. Here's a breakdown of their process:
+
+1. Apply a whitespace tokenizer to split sentences into words: `""hello world !"" -> [""hello"", ""world"", ""!""]`
+2. Add special characters to word boundaries: `[""hello"", ""world"", ""!""] -> [""_hello_"", ""_world_"", ""_!_""]`
+3. Split words into 3-grams: `[""_hello_"", ""_world_"", ""_!_""] -> [""_he"", ""hel"", ""ell"", ""llo"", ""lo_"", ""_wo"", ""wor"", ""orl"", ""rld"", ""ld_"", ""_!_""]`
+4. Hash each 3-gram into multiple embedding matrix indices: `_hel -> [hash1(""_he"") % v, hash2(""_he"") % v, hash3(""_he"") % v]` (where `v` is the chosen vocabulary size)
+5. Create word embeddings by summing all trigram embeddings within each word.
+
+I've created a visual representation of this process: 
+
+https://preview.redd.it/hmvh7lwy42od1.png?width=765&format=png&auto=webp&s=f14b4105c048b5ef019a3de06478aa5bb1beeb14
+
+They also propose a decoding phase but it is a bit more convoluted. If you are interested you can check it on my \[post\](https://f14-bertolotti.github.io/posts/06-09-24-tfree/index.html) or on their \[paper\](https://arxiv.org/abs/2406.19223).
+
+# Key Takeaways and Considerations
+
+1. The paper presents a compelling idea and is generally well-written, though the decoding section could benefit from more detail.
+2. The decoding phase applies two different normalizations (division by sum followed by softmax), which seems unconventional.
+3. While marketed as tokenizer-free, the method still employs a whitespace tokenizer. ""Training-free tokenizer"" might be more appropriate.
+4. An interesting experiment would be to use a standard decoding phase with the full word-embedding matrix. While computationally intensive, I think it could be an interesting experiment.
+
+# Discussion
+
+What are your thoughts on this approach? Do you see potential limitations?",False,False,MachineLearning,What do you think of T-FREE to reduce the embedding's vocab size [D],0.89,https://www.reddit.com/r/MachineLearning/comments/1fduqr5/what_do_you_think_of_tfree_to_reduce_the/
+32,mziycfh,,False,0,1726005106.0,,1726072103.0,1fdtz54,False,True,False,t3_1fdtz54,6,False,/r/MachineLearning/comments/1fdtz54/is_machine_learning_theory_research_experience/,False,2,"Doing research in ML theory (sample complexity of some deep learning architectures) with a professor in the EE department at my uni now. I was wondering whether this would be useful for applying to Statistics PhD programs. To be honest, I don't think “statistics” is used much in this project. Does it mean that this project won’t be as useful for my profile when applying to statistics PhD programs compared to other projects with professors in the statistics department?
+
+  
+eidt: To provide more context: The project aims to theoretically prove the approximation ability of a certain (simplified) neural network architecture (by manually constructing weights) and implement experiments to verify that. I believe it will not include statistical learning theory stuff (PAC, VC-dimensions...).",False,False,MachineLearning,Is Machine Learning Theory Research Experience Useful for Statistics PhD Application? [D],0.75,https://www.reddit.com/r/MachineLearning/comments/1fdtz54/is_machine_learning_theory_research_experience/
+33,Stefano939393,,False,0,1725990446.0,,False,1fdo2fm,False,True,False,t3_1fdo2fm,48,False,/r/MachineLearning/comments/1fdo2fm/np_new_ai_lab_startup_hiring_interns/,False,0,"In recent years, I’ve been gaining valuable experience in Machine Learning, and I believe the time has come for me to start my own business soon. Initially, I plan to continue working while running the company in parallel. I have plenty of ideas but not enough time to execute them all, so I’m considering bringing on interns to work remotely and independently, allowing me to guide them through our projects. I’m also passionate about research and love diving deep into new ideas and innovations.
+
+If anyone is interested in learning a lot about AI while working on R&D to create innovative ML products, or if you'd like to share your thoughts on my strategy, feel free to reach out!",False,False,MachineLearning,[N][P] New AI Lab startup (Hiring interns),0.14,https://www.reddit.com/r/MachineLearning/comments/1fdo2fm/np_new_ai_lab_startup_hiring_interns/
+34,Vegetable-Ad7622,,False,0,1725982742.0,,False,1fdkwq5,False,True,False,t3_1fdkwq5,14,False,/r/MachineLearning/comments/1fdkwq5/d_data_drift_effect/,False,4,"Are there other ways to reduce the impact of data drift, besides retraining? I can only retrain every year, but i am experiencing every year data drift.",False,False,MachineLearning,[D] Data Drift effect,0.67,https://www.reddit.com/r/MachineLearning/comments/1fdkwq5/d_data_drift_effect/
+35,South-Conference-395,,False,0,1725965540.0,,False,1fdey5q,False,True,False,t3_1fdey5q,23,False,/r/MachineLearning/comments/1fdey5q/r_transformers_trainer_vs_pytorch_lighting/,False,15,"Hi everyone,
+
+  
+I would like to know what you think about these two frameworks. 
+
+What are the pros and cons?
+
+If efficiency is to be prioritized which one is better? Or the only difference between them is code abstraction and organization?
+
+Finally, are you aware of any code repo using both of them? I would like to use it as a 'template' to convert from one framework to another.
+
+  
+Thanks a lot!
+
+",False,False,MachineLearning,[R] Transformers Trainer vs Pytorch Lighting,0.9,https://www.reddit.com/r/MachineLearning/comments/1fdey5q/r_transformers_trainer_vs_pytorch_lighting/
+36,hwvbdnkau,,False,0,1725963967.0,,False,1fdek1q,False,True,False,t3_1fdek1q,8,False,/r/MachineLearning/comments/1fdek1q/r_looking_for_some_papers_or_libraries_on/,False,5,"Hi, I'm wondering if anyone know of any papers or libraries that will allow me to evaluate structured outputs from large language models (LLMs)? Especially, the methods for fine-grained evaluation.
+
+```json
+{
+""name"": ""John Doe"",
+""age"": 30,
+""email"": ""johndoe@example.com"",
+""occupation"": ""Software Engineer""
+}
+```
+
+Let's say LLM has generated the JSON above, and we want to evaluate each field against some ground truth. Some fields, like `age`, could be evaluated by exact matching, but the other might require more advanced approach, like using some form of `llm-as-judge` scoring or semantic soft-matching. Situation gets even more complicated if we consider nested structures.
+
+I'm looking for insights on how to perform a detailed assessment of such outputs. Do you have any recommendations or resources, especially frameworks/libraries?",False,False,MachineLearning,[R] Looking for some papers or libraries on evaluating structured output from LLMs ,0.73,https://www.reddit.com/r/MachineLearning/comments/1fdek1q/r_looking_for_some_papers_or_libraries_on/
+37,SquirrelEffective,,False,0,1725962119.0,,False,1fde3nq,False,True,False,t3_1fde3nq,14,False,/r/MachineLearning/comments/1fde3nq/d_nvidia_h100_or_amd_mi250x_which_one_should_i/,False,0,"Hey everyone! 👋
+
+I’m currently at a crossroads in deciding between the Nvidia H100 and the AMD MI250X for ML/LLM inference tasks. Both seem like absolute beasts, but I’m curious to hear from those who have hands-on experience or deep insights into these GPUs. Here’s what I’m thinking:
+
+Nvidia H100: Known for its cutting-edge performance and impressive support for a variety of ML workloads. It’s got the CUDA ecosystem behind it, which is a big plus.
+
+AMD MI250X: Seems like a strong contender with its high memory bandwidth and performance in HPC tasks. Plus, AMD has been making some serious strides in the AI space lately.
+
+What I’m wondering:
+
+Performance: How do they stack up in real-world ML/LLM inference? Any noticeable differences in speed, efficiency, or scalability?
+
+Ecosystem: Does the Nvidia CUDA ecosystem give H100 an edge, or has AMD caught up with their ROCm support for ML frameworks?
+
+Cost vs. Benefit: Considering the price points, is one clearly a better investment for future-proofing ML/LLM tasks?
+
+I’d love to hear your experiences, thoughts, or any benchmarks you’ve come across. If you’ve made a similar decision, what tipped the scales for you?Looking forward to the discussion—thanks in advance! 🙌",False,False,MachineLearning,[D] NVIDIA H100 or AMD MI250X? Which one should I choose for ML/LLM inference,0.45,https://www.reddit.com/r/MachineLearning/comments/1fde3nq/d_nvidia_h100_or_amd_mi250x_which_one_should_i/
+38,hardmaru,,False,0,1725960913.0,,False,1fddtmm,False,False,False,t3_1fddtmm,18,False,/r/MachineLearning/comments/1fddtmm/r_can_llms_generate_novel_research_ideas_a/,False,71,,False,False,MachineLearning,[R] Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers,0.88,https://arxiv.org/abs/2409.04109
+39,AffectionatePut7138,,False,0,1725937190.0,,False,1fd80jp,False,True,False,t3_1fd80jp,0,False,/r/MachineLearning/comments/1fd80jp/d_is_optunas_parallelization_interfering_with/,False,1,"Hey everyone, I’m working on training product-level time-series models using Optuna for hyperparameter optimization and PySpark for parallel training. I’ve set `n_jobs > 1` in Optuna to enable parallelization, and I’m using `applyInPandas` in PySpark to parallelize model training by `product_id`.Should I be concerned about these two parallel mechanisms interfering with each other? How will the processes be distributed across workers? I have 4 workers, each with 8 cores. Any advice or insights would be appreciated!",False,False,MachineLearning,[D] Is Optuna's Parallelization Interfering with PySpark?,1.0,https://www.reddit.com/r/MachineLearning/comments/1fd80jp/d_is_optunas_parallelization_interfering_with/
+40,Mr_Fragwuerdig,,False,0,1725953168.0,,False,1fdc52w,False,False,False,t3_1fdc52w,2,False,/r/MachineLearning/comments/1fdc52w/r_lowformer_hardware_efficient_transformer/,False,22,Throughput & Latency optimized Backbone Architecture with hardware efficient Macro and Micro Design. It also features a simple and efficient adaptation of Multi-Head Self-Attention.,False,False,MachineLearning,[R] LowFormer: Hardware efficient Transformer Backbone Design,0.93,https://arxiv.org/pdf/2409.03460
+41,Cold-Dragonfly-144,,False,0,1725931002.0,,1725996220.0,1fd5znf,False,True,False,t3_1fd5znf,13,False,/r/MachineLearning/comments/1fd5znf/ai_is_theft_steal_my_aesthetic_with_a_lora_i/,False,0,"AI art is theft, but as Picasso said ***good artists borrow, great artists steal***
+
+I'm a professional photographer and I trained a Flux Lora based on my photographic style: [Herbst Photo Style](https://civitai.com/models/691668/herbst-photo-style-moody-candid-analog-35mm-dataset-flux)
+
+There's something that feels right about open sourcing a slice of my own style. It's like reverse gatekeeping.
+
+**About the Lora**
+
+Tags to include in the prompt: herbstphoto, herbst photo
+
+All the images in the training data are analog 35mm film from various stocks, new and expired. I own the rights to all the images. The v2 dataset was small but tagged by hand and greatly outperformed the larger dataset v1.
+
+The model was trained with captions on the following phrases and responds to them well in the prompt: off center, asymmetrical, backlight, light leaks, grainy, grain, film grain, candid, high contrast, film burn, analog texture, partial silhouette, chiaroscuro, highlight bloom, cinema film color, filmic glow, blown out highlights, moody, light sliver, dutch angle, flash photography.
+
+**\*\*\*Recommended Settings\*\*\***
+
+**Lora strength & Flux guidance.**
+
+**2.0 is the sweet spot when paired with a Flux guidance of 2.5.** This results in the lora having a high strength, giving a balanced amount of imperfections and increasing the tonal difference between shadows and higlights.
+
+* .9 is the sweet spot when paired a Flux guidance of 2.0. This results in the lora having a lower strength.
+* 3.0 strength and 4.0 guidance produceces better candid moments, flash photo graphy, and film burns.
+* 3.5 srength and 5.0 guidance produces more abstract images, with blown out highlights and motion blur, while still remaing tasteful
+
+For the strength 0.5 being is the lowest amount to see effects, and 1.5 is the highest without serious changes to the output. After 1.5 the results are usually more distorted and softer but still tasteful. After 2.0 is diminishing returns.
+
+*\*This version was trained to be quite strong and does not pair well with other loras unless used at it's lowest strength of .9 with a flux guidance of 2.0*
+
+I'm not sure why it helps to increase the flux guidance to a ratio of increments of 2:1 to the lora strength. If anyone could elaborate on this concept I would appreciate it.
+
+**Scheduler & Sampler**
+
+**huen & simple** - standard baseline
+
+unipc\_bh2 & Simple - standard baseline, similar to huen & simple
+
+unipc\_bh2 & normal - gives the highest texture by adding contrast and sharpness in the mid tones
+
+unipc\_bh2 & ddim\_uniform - gives more degredation but tends to alter the output
+
+dpm\_fast & sgm\_uninform - heavy motion blur and texture but tends to alter the output
+
+**Max Shift: 0.0**
+
+**Base Shift: 8.0** is the sweet spot for 35mm grain texture, 4.0 is a lighter grain, 1.0 is the lightest.
+
+If upscaling, use the SD ultimate upscaler:
+
+Model: 4x\_NMKD-Siax\_200k model.
+
+Steps:
+
+CFG 2
+
+Sampler: Euler
+
+Scheduler: Normal
+
+Denoise .2
+
+Length - Match to (upscale amount x original resolution)
+
+Height - Match to (upscale amount x original resolution)
+
+\*After lots of Testing, I have found that FLux upscaling works best with a tile size that reflects the upscale output resolution at a step of 1. This is good news as it increases the speed of upscaling.
+
+**I created a workflow that is optimized for the Lora that you can** [**download here.**  ](https://drive.google.com/file/d/1JUn263Jy_OyOx2GCR4LaJB6AloqdYP0V/view?usp=drive_link)
+
+-CrunchyBagpipe
+
+Generations using the Herbst Photo 35mm V3 Lora
+
+https://preview.redd.it/szchz0eyuvnd1.png?width=832&format=png&auto=webp&s=ef03ec47c6b6b40af2d9f96743a44aea2209db02
+
+https://preview.redd.it/d01qsa0zuvnd1.png?width=832&format=png&auto=webp&s=cf216b5a9127620b1544e86bc0673c47662f840a
+
+https://preview.redd.it/f3jhvoezuvnd1.png?width=832&format=png&auto=webp&s=f9de0bfd8ec2a689fdfb7049fffb20428a2a971c",False,False,MachineLearning,AI is theft: steal my aesthetic with a Lora I trained on my photography. [D],0.42,https://www.reddit.com/r/MachineLearning/comments/1fd5znf/ai_is_theft_steal_my_aesthetic_with_a_lora_i/
+42,Amgadoz,,False,0,1725929507.0,,False,1fd5hp7,False,True,False,t3_1fd5hp7,15,False,/r/MachineLearning/comments/1fd5hp7/d_is_there_an_open_truly_multimodal_llm_that_isnt/,False,30,"Hi,
+
+It's been a few months since gpt-4o came out and I have yet to find an equivalent open weights model. Gemini came out even before it and it had multimodal inputs. 
+
+By equivalent, I mean a model that is early fusion and multimodal where vision and audio is tokenized and share the same embedding space as text tokens. I don't necessarily mean it has to have the same capabilities or accuracy. 
+
+As far as I know Meta's chameleon is the closest match but it's bimodal (no audio support) and it can only generate text.
+
+So my question is: is there a truly multimodal model that we can download and tun locally?
+",False,False,MachineLearning,[D] Is there an open truly multimodal LLM that isn't a toy model?,0.87,https://www.reddit.com/r/MachineLearning/comments/1fd5hp7/d_is_there_an_open_truly_multimodal_llm_that_isnt/
+43,Ok_Country1256,,False,0,1725920815.0,,False,1fd2ff3,False,True,False,t3_1fd2ff3,5,False,/r/MachineLearning/comments/1fd2ff3/p_costly_a_package_for_estimating_costs_running/,False,11,"I wrote a simple package to estimate costs & running times of complex LLM workflows/experiments/pipelines in advance before spending money:
+
+[https://github.com/abhimanyupallavisudhir/costly](https://github.com/abhimanyupallavisudhir/costly)
+
+Just put `@costly()` on the load-bearing function (e.g. the API call wrapper itself); make sure all functions that call it pass `**kwargs` (or at least `cost_log` and `simulate`) to it and call your complex function with `simulate=True` and some `cost_log: Costlog` object.
+
+    pip install costly
+
+AFAIK existing packages like `tokencost` are just price dictionaries for estimating the costs of single LLM calls and you have to write your own logic to estimate the cost of your logic. The point of `costly` is to do that for you (and you could use it for other purposes besides LLM calling, though you would need to write your own estimators and simulators).
+
+Obviously there is some non-trivial logic that goes on in pipelines where the output of one LLM is passed to another LLM, etc. -- this logic is approximated by the ""simulator"", which can be subclassed.
+
+See the full documentation here: [https://github.com/abhimanyupallavisudhir/costly/blob/master/examples.ipynb](https://github.com/abhimanyupallavisudhir/costly/blob/master/examples.ipynb)",False,False,MachineLearning,[P] `costly`: a package for estimating costs & running times of LLM projects in advance,0.82,https://www.reddit.com/r/MachineLearning/comments/1fd2ff3/p_costly_a_package_for_estimating_costs_running/
+44,garygeo,,False,0,1725916518.0,,False,1fd0qy9,False,True,False,t3_1fd0qy9,4,False,/r/MachineLearning/comments/1fd0qy9/experimenting_with_llms_to_recreate_patterns_in/,False,6,"I’ve been working on a project using LLMs to generate P5.js sketches embedded in HTML, and so far, it’s been going really well! Some of the sketches have turned out to be incredibly creative ([article on my project](https://medium.com/towards-data-science/when-ai-artists-compete-e5898a507718)). However, I’ve started a new experiment where I give the LLM an image and ask it to recreate the pattern using P5.js. Unfortunately, I’ve had less success with this part.  Basically I need the LLM to understand the pattern and devise a script to recreate the pattern.  Is this asking too much?
+
+I’ve tried using chain-of-thought reasoning in the prompts and even made a resource that compares common shapes, but the results are still not even close. I’m wondering if there are prompt-time strategies or techniques I could try to guide the LLM to better recreate patterns with P5.js shapes and algorithms. Or, perhaps some sort of specialized training could help?
+
+Here is a screenshot of my current prompt.  And [here](https://drive.google.com/file/d/1VmJwTF9_QNbkg95LR1DoqIiA8Fe735hw/view?usp=sharing) is the reference pdf I created.
+
+[Screenshot of prompt in Claude](https://preview.redd.it/jvsswmfqnund1.png?width=739&format=png&auto=webp&s=f1bf869a5a798e0f770e4c4967d1fc02febe8091)
+
+",False,False,MachineLearning,Experimenting with LLMs to Recreate Patterns in P5.js — Looking for Ideas [P],0.75,https://www.reddit.com/r/MachineLearning/comments/1fd0qy9/experimenting_with_llms_to_recreate_patterns_in/
+45,Different-General700,,False,0,1725913988.0,,False,1fczpah,False,True,False,t3_1fczpah,2,False,/r/MachineLearning/comments/1fczpah/d_how_are_you_building_crosswalks_between/,False,0,"If you've had to work with large taxonomies, do you crosswalk back to an internal taxonomy? If so, how do you build the mapping?",False,False,MachineLearning,[D] How are you building crosswalks between taxonomies? ,0.38,https://www.reddit.com/r/MachineLearning/comments/1fczpah/d_how_are_you_building_crosswalks_between/
+46,TRBeetle,,False,0,1725909588.0,,1725913402.0,1fcxup1,False,True,False,t3_1fcxup1,6,False,/r/MachineLearning/comments/1fcxup1/p_i_built_a_tool_to_minimize_hallucinations_with/,False,51,"Github: [https://github.com/nomadic-ml/nomadic](https://github.com/nomadic-ml/nomadic)
+
+Demo: [Colab notebook](https://colab.research.google.com/drive/1PVd1d_v3wHGLIJWNvUMnGDNkCd2s23PY) - Get the best-performing, statsig configurations for your Retrieval Augmented Generation pipeline and reduce hallucinations by 4X with one experiment. Note: Works best with Colab Pro (high-RAM instance) or running locally.
+
+Curious to hear any of your thoughts / feedback!",False,False,MachineLearning,[P] I built a tool to minimize hallucinations with 1 hyperparameter search - Nomadic,0.84,https://www.reddit.com/r/MachineLearning/comments/1fcxup1/p_i_built_a_tool_to_minimize_hallucinations_with/
+47,Huge-Leek844,,False,0,1725904044.0,,False,1fcvkjm,False,True,False,t3_1fcvkjm,20,False,/r/MachineLearning/comments/1fcvkjm/d_implementing_papers_worth/,False,39,"Hello all,
+
+I have a masters in robotics (had courses on ML, CV, DL and Mathematics) and lately i've been very interested in 3D Computer Vision so i looked into some projects. I found deepSDF. My goal is to implement it on C++, use CUDA & SIMD and test on a real camera for online SDF building.
+
+Also been planning to implement 3D Gaussian Splatting as well.
+
+But my friend says don't bother, because everyone can implement those papers so i need to write my own papers instead. Is he right? Am i losing time?",False,False,MachineLearning,[D] Implementing papers worth?,0.9,https://www.reddit.com/r/MachineLearning/comments/1fcvkjm/d_implementing_papers_worth/
+48,bregav,,False,0,1725903744.0,,False,1fcvgaw,False,False,False,t3_1fcvgaw,3,False,/r/MachineLearning/comments/1fcvgaw/r_revisiting_sparse_convolutional_model_for/,False,4,,False,False,MachineLearning,[R] Revisiting Sparse Convolutional Model for Visual Recognition,0.83,https://arxiv.org/abs/2210.12945
+49,PreviousResearcher50,,False,0,1725890446.0,,False,1fcq4v4,False,True,False,t3_1fcq4v4,20,False,/r/MachineLearning/comments/1fcq4v4/r_methods_for_pattern_matching_with_multivariate/,False,17,"Hi All,
+
+I am trying to determine if a pattern in my vehicle dynamics is similar to other (multiple) vehicle dynamics patterns. For example, lets say I have a section of data that is for 5 seconds that represents swerving. How could I look through the data of a complete drive cycle of a trip to see if this swerving (or similar to an extent) occurs in this trip?
+
+I have developed a couple methods to do this already, but I was wondering if there is something I should read up on so I'm not reinventing the wheel here!
+
+Thanks for any help or guidance!",False,False,MachineLearning,[R] Methods for Pattern Matching with Multivariate Time series?,0.95,https://www.reddit.com/r/MachineLearning/comments/1fcq4v4/r_methods_for_pattern_matching_with_multivariate/
+50,ActualDoughnut8687,,False,0,1725875780.0,,False,1fcloqk,False,True,False,t3_1fcloqk,4,False,/r/MachineLearning/comments/1fcloqk/d_tts_at_scale_batch_inference/,False,2,"While looking for some quality and scalable solution for Text to Speech, I've noticed that most open-source solutions do not support batch inference - they all work on a single sample of text. I want to handle lots of requests concurrently therefore I believe that having a strong, big GPU and inferencing multiple samples in one batch (short sentences) should extensively improve performance. Any idea what may be the case that it is not supported? Do TTS architectures are not effective/easy to parallelize in this way, perhaps due to some components? Or maybe the process is hard to perform due to the different lengths of output waveforms? Or maybe you know some worth recommending solutions?",False,False,MachineLearning,[D] TTS at scale - batch inference,0.67,https://www.reddit.com/r/MachineLearning/comments/1fcloqk/d_tts_at_scale_batch_inference/
+51,Ticket-Financial,,False,0,1725865355.0,,False,1fcjfkj,False,True,False,t3_1fcjfkj,8,False,/r/MachineLearning/comments/1fcjfkj/d_can_any_amazon_ml_competition_pastpresent/,False,0,"Hi, need your help, can any past/present participant give more information about the challenge, submission window, assesment",False,False,MachineLearning,[D] Can any Amazon ML competition past/present participant provide insights about its assesment and submissions,0.22,https://www.reddit.com/r/MachineLearning/comments/1fcjfkj/d_can_any_amazon_ml_competition_pastpresent/
+52,Chaos_fractal_2224,,False,0,1725851250.0,,False,1fcfr0m,False,True,False,t3_1fcfr0m,24,False,/r/MachineLearning/comments/1fcfr0m/discussion_is_ted_chiang_right_about_ai_art/,False,0,"Ted Chiang's recent New Yorker piece ""Why A.I. Isn't Going to Make Art"" has been making waves. While Chiang raises interesting points, I felt compelled to offer a different perspective in my Medium article:[https://medium.com/p/2022036fdce8](https://medium.com/p/2022036fdce8). Here are a couple of key excerpts from my piece:
+
+>""Chiang argues that creating art involves making numerous decisions, with each word choice representing a distinct decision. However, this view may oversimplify the creative process.""
+
+>""It's important to recognise that AI models, particularly large language models (LLMs), make far more decisions than simply choosing one word at a time. The internal processes of these models involve multiple layers of neural networks, each making numerous micro-decisions that contribute to the final output.""
+
+What are your thoughts on Chiang's article and my response? Is AI's role in art creation more nuanced than Chiang suggests?",False,False,MachineLearning,[Discussion] Is Ted Chiang Right About AI Art?,0.21,https://www.reddit.com/r/MachineLearning/comments/1fcfr0m/discussion_is_ted_chiang_right_about_ai_art/
+53,Trainraider,,False,0,1725847073.0,,False,1fcedvx,False,True,False,t3_1fcedvx,5,False,/r/MachineLearning/comments/1fcedvx/d_maybe_we_can_train_bigger_models_with_005_bits/,False,0,"https://preview.redd.it/xjc9zhq1xond1.png?width=1200&format=png&auto=webp&s=9dad2f1da27a465a33ba5decdf6a31e36c93a5bc
+
+Messing around with classifying MNIST using a basic feed forward neural net at the top, and then the same thing represented by a rank 4 DoRa and then a LoRa, and finally a rank 16 bitnet/dora hybrid with 1 bit per parameter. Getting down to around 0.05 bits per weight. All have the same effective weight count but reduced trainable parameters. It seems like for full weight training, DoRa offers no advantage over LoRa after like 12 epochs.
+
+I'm going to explore whether we can get the same or better performance when increasing the parameter count to match the memory footprint of a normal model. And also summing LoRas and DoRas to dynamically increase rank and prevent early stagnation. My goal is to eventually train a useful LLM on consumer grade hardware. And if I could get that working, imagine what someone could do with some A100s at a big company. Will release code soon, this is early and incomplete. Anyways, I'm probably just dreaming. Good night.",False,False,MachineLearning,"[D] Maybe we can train bigger models with 0.05 bits per weight, or modest models on consumer hardware... ",0.46,https://www.reddit.com/r/MachineLearning/comments/1fcedvx/d_maybe_we_can_train_bigger_models_with_005_bits/
+54,Mooseton,,False,0,1725836111.0,,False,1fcapxf,False,False,False,t3_1fcapxf,0,False,/r/MachineLearning/comments/1fcapxf/d_incremental_gambits_and_premature_endgames/,False,2,,False,False,MachineLearning,[D] Incremental Gambits and Premature Endgames,0.67,https://matthewlewis.xyz/blog/2024/08/29/incremental-gambits-and-premature-endgames.html
+55,ArtemHnilov,,False,0,1725817343.0,,1725817793.0,1fc3ji0,False,True,False,t3_1fc3ji0,18,False,/r/MachineLearning/comments/1fc3ji0/p_achieved_over_100_million_mnist_predictions_per/,False,100,"This weekend, I optimized the TsetlinMachine library [Tsetlin.jl](https://github.com/BooBSD/Tsetlin.jl) and achieved outstanding results: 101 million MNIST predictions per second on my Ryzen 7950X3D CPU, with 98.10% accuracy. This performance is nearing the hardware's maximum capabilities, as the peak speed of DDR5 RAM at 6000 MT/s in dual-channel mode is 96 GB/s. My throughput reached 55.5 GB/s, primarily because this specific Tsetlin Machine model has 10499 parameters, and the CPU cache — particularly the 3D cache — plays a significant role in enhancing performance.
+
+https://preview.redd.it/0a719tythmnd1.png?width=1780&format=png&auto=webp&s=001526f65f3be2b99ce2a24ffe4b5bb5486f474e",False,False,MachineLearning,"[P] Achieved over 100 million MNIST predictions per second (throughput of 55.5 GB/s) on a CPU using the latest optimizations in the TsetlinMachine library, Tsetlin.jl.",0.93,https://www.reddit.com/r/MachineLearning/comments/1fc3ji0/p_achieved_over_100_million_mnist_predictions_per/
+56,Extension-Group2131,,False,0,1725809892.0,,False,1fc0niz,False,True,False,t3_1fc0niz,14,False,/r/MachineLearning/comments/1fc0niz/clustering_algorithms_comparison_d/,False,7,"I wanted to see if there’s a paper or an article that compares different clustering algorithms with each others in terms of pros, cons and speciality, I couldn’t find anything decent yet on my own",False,False,MachineLearning,Clustering Algorithms Comparison [D],0.74,https://www.reddit.com/r/MachineLearning/comments/1fc0niz/clustering_algorithms_comparison_d/
+57,AutoModerator,,False,0,1725807619.0,,False,1fbzs8y,False,True,False,t3_1fbzs8y,18,False,/r/MachineLearning/comments/1fbzs8y/d_simple_questions_thread/,False,2,"Please post your questions here instead of creating a new thread. Encourage others who create new posts for questions to post here instead!
+
+Thread will stay alive until next one so keep posting after the date in the title.
+
+Thanks to everyone for answering questions in the previous thread!",False,True,MachineLearning,[D] Simple Questions Thread,1.0,https://www.reddit.com/r/MachineLearning/comments/1fbzs8y/d_simple_questions_thread/
+58,epistoteles,,False,0,1725805753.0,,False,1fbz318,False,False,False,t3_1fbz318,31,False,/r/MachineLearning/comments/1fbz318/p_tensorhue_a_tensor_visualization_library_info/,False,283,,False,False,MachineLearning,[P]: TensorHue – a tensor visualization library (info in comments),0.96,https://www.reddit.com/gallery/1fbz318
+59,abhi_pal,,False,0,1725803594.0,,False,1fbyal0,False,True,False,t3_1fbyal0,6,False,/r/MachineLearning/comments/1fbyal0/data_for_market_mix_modelling_project/,False,0,"Hi folks,
+
+I have just finished going over concepts of Machine Learning. Now, I was planning to create an end to end project on market mix modelling for my resume, but, do not have any idea where I can get data for it. Suggestions will be appreciated.
+
+Thanks",False,False,MachineLearning,Data for market mix modelling [Project],0.38,https://www.reddit.com/r/MachineLearning/comments/1fbyal0/data_for_market_mix_modelling_project/
+60,OppositeMonday,,False,0,1725800077.0,,False,1fbx3ny,False,True,False,t3_1fbx3ny,8,False,/r/MachineLearning/comments/1fbx3ny/p_python_tool_for_steganography_through_llms/,False,20,"https://github.com/user1342/Tomato
+",False,False,MachineLearning,[P] Python tool for steganography through LLMs,0.95,https://www.reddit.com/r/MachineLearning/comments/1fbx3ny/p_python_tool_for_steganography_through_llms/
+61,Skeylos2,,False,0,1725795830.0,,False,1fbvuhs,False,True,False,t3_1fbvuhs,76,False,/r/MachineLearning/comments/1fbvuhs/r_training_models_with_multiple_losses/,False,223,"Instead of using gradient descent to minimize a single loss, we propose to use *Jacobian descent* to minimize multiple losses simultaneously. Basically, this algorithm updates the parameters of the model by reducing the Jacobian of the (vector-valued) objective function into an update vector.
+
+To make it accessible to everyone, we have developed *TorchJD*: a library extending autograd to support Jacobian descent. After a simple `pip install torchjd`, transforming a PyTorch-based training function is very easy. With the recent release v0.2.0, TorchJD finally supports multi-task learning!
+
+Github: [https://github.com/TorchJD/torchjd](https://github.com/TorchJD/torchjd)  
+Documentation: [https://torchjd.org](https://torchjd.org)  
+Paper: [https://arxiv.org/pdf/2406.16232](https://arxiv.org/pdf/2406.16232)
+
+We would love to hear some feedback from the community. If you want to support us, a star on the repo would be grealy appreciated! We're also open to discussion and criticism.",False,False,MachineLearning,[R] Training models with multiple losses,0.97,https://www.reddit.com/r/MachineLearning/comments/1fbvuhs/r_training_models_with_multiple_losses/
+62,WetAndSnowy,,False,0,1725769881.0,,False,1fbpmk4,False,True,False,t3_1fbpmk4,0,False,/r/MachineLearning/comments/1fbpmk4/d_spectral_regularization_keyweight_matrix_in/,False,1,"Self-attention modules:
+
+- Attn(Q, K, V) = softmax(XWq(XWk)\^T/sqrt(d))XWv
+
+Can be seen through the lens of non-parametric regression as follows:
+
+Attn(X) = Regressor.fit(x=XWk, y=XWv).pred(XWq), where in standard attention methods, the regressor is based on kernel methods.
+
+Here, if Wk is full rank, we can see linear regression is sufficient:
+
+XWkR = XWv, R = inv(Wk)Wv
+
+-> Attn(X) = XWqR = XWq'; (this is due to that Wq is learnable).
+
+-> This attention is the same as a token-wise linear transformation.
+
+This is if we assume that Wk is full rank, in practice, Wk can be a singular matrix.
+
+I construct this to show that if Wk is full rank, attention function's complexity should be simple.
+
+I have not derived for L2-regularization; this is an intuition on Spectral Regularization.
+
+If regularization increase complexity, I think we should not regularize / regularize in a way to increase Wk's rank.
+
+Thank you.",False,False,MachineLearning,[D] (Spectral) Regularization Key-Weight Matrix in Transformer complexifies Self-Attention Modules,1.0,https://www.reddit.com/r/MachineLearning/comments/1fbpmk4/d_spectral_regularization_keyweight_matrix_in/
+63,AhmedMostafa16,,False,0,1725762858.0,,False,1fbnos7,False,False,False,t3_1fbnos7,1,False,/r/MachineLearning/comments/1fbnos7/r_masked_mixers_for_language_generation_and/,False,0,,False,False,MachineLearning,[R] Masked Mixers for Language Generation and Retrieval,0.29,https://arxiv.org/abs/2409.01482
+64,Sad-Razzmatazz-5188,,False,0,1725747586.0,,False,1fbis9j,False,True,False,t3_1fbis9j,3,False,/r/MachineLearning/comments/1fbis9j/d_looking_through_transformer_models/,False,2,"I have seen many papers looking at the statistics of convolution weight matrices in CNNs, looking at average kernels, plotting all kernels; I've seen analogues for transformers, especially plotting attention matrices, but also linear embedding weights as RGB kernels for ViTs, etc.
+Even MLP-Mixers and gMLPs show how the weights look and pick.
+I am now looking for similar studies addressing the linear projections in the MultiHead Self-Attention module, which seem overlooked. Is it?
+I'd like to understand if they are similar for WQ and WK, if one can just parametrize their product, if WV or WO look like the Identity, and so forth.
+At worst I'll give a look myself, but I lack the mathematical insight ",False,False,MachineLearning,[D] Looking through Transformer models,0.75,https://www.reddit.com/r/MachineLearning/comments/1fbis9j/d_looking_through_transformer_models/
+65,calzateu,,False,0,1725742602.0,,False,1fbh07m,False,True,False,t3_1fbh07m,7,False,/r/MachineLearning/comments/1fbh07m/p_detecting_code_similarity_with_the_response_of/,False,0,"Hello,
+
+What recommendations do you have to address the following problem? Before I mention it I want to say that I will not use it commercially, only as a personal project.
+
+The goal is to detect the use of genAI on code responses. The data we have are:
+
+* Code question
+* Candidate response
+* Response from an AI (ChatGPT, Gemini, Claude or any other)
+* The detected score of AI use on the candidate's response (it's our target).
+
+I think the problem is closely related to text similarity. However, I still have questions on how to address it. For example:
+
+* How should I preprocess the code?
+* What forms or models could I use to represent the code?
+* Could I use LLMs at some step of the process to improve?
+
+I'm still defining how to approach the problem, so any recommendations would be very helpful!",False,False,MachineLearning,[P] Detecting code similarity with the response of an LLM - NLP,0.25,https://www.reddit.com/r/MachineLearning/comments/1fbh07m/p_detecting_code_similarity_with_the_response_of/
+66,ResilientSpider,,False,0,1725697938.0,,1725786127.0,1fb2b4h,False,True,False,t3_1fb2b4h,43,False,/r/MachineLearning/comments/1fb2b4h/d_the_eu_definition_of_ai_is_pointless/,False,11,"Here is the definition of ""AI system"" from the recent AI act by EU (bold by me):
+
+>‘AI system’ means a machine-based system that is designed to operate with varying levels of autonomy and that **may** exhibit adaptiveness after deployment, and that, for explicit or implicit objectives, infers, from the input it receives, how to generate outputs **such as** predictions, content, recommendations, or decisions that can influence physical or virtual environments;
+
+When removed the examples, that are examples and thus not mandatory for a system to be identified as ""AI"", the definition sounds like this:
+
+>‘AI system’ means a machine-based system that is designed to operate with varying levels of autonomy and that, for explicit or implicit objectives, infers, from the input it receives, how to generate outputs.
+
+Now, this definition could include *any* software developed since the first year's university course of basic programming.
+
+  
+To start the discussion, I note the following:
+
+* ""infer"" may refer to a statistical domain, but it would be limited. Moreover the word ""infer"" is not ""statistically infer"": the latter is connected with uncertainty, confidence, etc, while the former is a method of reasoning (from Merriam-Webster Dictionary: ""to derive as a conclusion from facts or premises"").
+* The word ""how"" is also wrong: most AI systems don't decide *how* to generate output, they don't modify the algorithm while running.
+* ""Varying levels of autonomy"" doesn't set a minimum level: what's the minimum autonomy needed by an AI system?
+
+---
+
+Please don't say ""laws must be interpreted by judges"". In the EU, we have Civil Law, not Common Law. Laws are still interpreted by judges, but they must be defined in a way that is as little interpretable as possible.
+
+Wikipedia: ""Whereas the civil law takes the form of legal codes, the common law comes from uncodified case law that arises as a result of judicial decisions.""
+
+",False,False,MachineLearning,[D] The EU definition of AI is pointless,0.59,https://www.reddit.com/r/MachineLearning/comments/1fb2b4h/d_the_eu_definition_of_ai_is_pointless/
+67,calvintwr,,False,0,1725714166.0,,False,1fb6fet,False,True,False,t3_1fb6fet,1,False,/r/MachineLearning/comments/1fb6fet/pfastest_pretraining_code_llm_in_9_days/,False,22,"We created an LLM that outperform OpenELM and Phi on MT-Bench, in just 9 days. It's built on the Lightning framework with optimisations from TinyLlama, achieving ultra high throughput (\~99.6% GPU utilization). Releasing it for everyone, please give a star if you like what we do.
+
+Code: [https://github.com/pints-ai/1.5-Pints](https://github.com/pints-ai/1.5-Pints)",False,False,MachineLearning,[P]⚡️Fastest Pre-training Code: LLM in 9 days,1.0,https://www.reddit.com/r/MachineLearning/comments/1fb6fet/pfastest_pretraining_code_llm_in_9_days/
+68,Delicious-Ad-412,,False,0,1725724647.0,,False,1fba7gi,False,False,False,t3_1fba7gi,0,False,/r/MachineLearning/comments/1fba7gi/r_from_language_models_to_practical_selfimproving/,False,1,,False,False,MachineLearning,[R] From Language Models to Practical Self-Improving Computer Agents,1.0,https://arxiv.org/abs/2404.11964
+69,SEND_ME_YOUR_POTATOS,,False,0,1725739198.0,,False,1fbfr3a,False,True,False,t3_1fbfr3a,9,False,/r/MachineLearning/comments/1fbfr3a/d_document_classification_advice/,False,0,"Hi everyone,
+
+I'm working on a project and could use some guidance on the best way to approach it.
+
+The goal is to build a service that can scan financial documents and classify them into one of several categories. For simplicity, let’s assume there are four categories: Sales Invoice, Purchase Invoice, Receipt, and Quotation.
+
+I'm considering two different approaches to solve this problem, and I'd love to get your input on which direction might be more effective, or if there's a third option I should consider.
+
+### Approach 1: Classical ML
+One route I’m considering is the traditional machine learning approach. This would involve:
+
+- **OCR**: Extract the text from the document.
+- **ML Model**: Train a classifier (e.g., SVM, Random Forest, or a neural network) to categorize the document based on the extracted text.
+
+However, since the textual differences between categories like sales and purchase invoices are minimal, I’m also thinking of incorporating some form of **computer vision**. The document’s layout might offer additional clues (e.g., headers, footers, or table structures).
+
+### Approach 2: Generative AI (LLM + Multimodal)
+The second option involves leveraging **multimodal large language models (LLMs)** to classify the documents. Here’s how I envision it working:
+
+- In the **prompt**, I would teach the LLM about both the textual and visual distinctions between the categories.
+- Additionally, I could employ a **tree-of-thought** or **ensemble** approach, querying multiple LLMs (say, 5-10) with the same document and aggregating their responses for a more deterministic final result.
+
+### Open Questions:
+- Which approach would you recommend? 
+- Are there specific technologies or frameworks that work best for document classification, particularly for this type of financial data?
+- Any thoughts on the feasibility of combining elements of both approaches?
+
+Thanks in advance for any advice!",False,False,MachineLearning,[D] Document classification advice ,0.29,https://www.reddit.com/r/MachineLearning/comments/1fbfr3a/d_document_classification_advice/
+70,aadityaura,,False,0,1725734965.0,,False,1fbe5qg,False,True,False,t3_1fbe5qg,3,False,/r/MachineLearning/comments/1fbe5qg/d_last_week_in_medical_ai_top_research/,False,19,"[Top papers of the week \(September 1  - September 7, 2024\) ](https://preview.redd.it/rbq4jd4nkfnd1.jpg?width=1386&format=pjpg&auto=webp&s=276221ec2a1bb01917930389099bef9e4623dcf9)
+
+  
+**Medical LLM & Other Models :**
+
+* CancerLLM: Large Language Model in Cancer Domain 
+   * CancerLLM, a 7-billion-parameter model designed for cancer-specific tasks. Pre-trained on 2.67 million clinical notes and 515,524 pathology reports across 17 cancer types. 
+
+* MedUnA: Vision-Language Models for Medical Image 
+   * The paper introduces Medical Unsupervised Adaptation (MedUnA). It aligns text embeddings with class labels using BioBERT, then integrates with MedCLIP's visual encoder for visual-text alignment via contrastive entropy loss.
+
+* Foundation Model for Robotic Endoscopic Surgery  
+   * This paper presents Depth Anything in Robotic Endoscopic Surgery (DARES), which introduces Vector-LoRA, a new adaptation technique for self-supervised monocular depth estimation in robotic-assisted surgery (RAS).
+
+* Med-MoE: MoE for Medical Vision-Language Models  
+   * This paper introduces Med-MoE (Mixture-of-Experts), a lightweight framework designed for both discriminative and generative multimodal medical tasks. Med-MoE operates in three stages:   
+
+* CanvOI: Foundation Model for Oncology
+   * This paper introduces CanvOI, a ViT-g/10-based foundation model for digital pathology, optimized for oncologic histopathological images.   
+
+  
+**Medical Benchmarks and Evaluations:**
+
+* TrialBench: Clinical Trial Datasets & Benchmark 
+* LLMs for Medical Q&A Evaluation 
+* MedFuzz: Exploring Robustness Medical LLMs 
+* MedS-Bench: Evaluating LLMs in Clinical Tasks 
+* DiversityMedQA: Assessing LLM Bias in Diagnosis
+
+  
+**LLM Digital Twins:**
+
+* Digital Twins for Rare Gynecological Tumors 
+* DT-GPT: Digital Twins for Patient Health Forecasting  
+
+....  
+  
+Check the full thread in detail: [https://x.com/OpenlifesciAI/status/1832476252260712788](https://x.com/OpenlifesciAI/status/1832476252260712788)
+
+Thank you for reading! If you know of any interesting papers that were missed, feel free to share them in the comments. If you have insights or breakthroughs in Medical AI you'd like to share in next week's edition, connect with us on Twt/x: [OpenlifesciAI](https://x.com/OpenlifesciAI)",False,False,MachineLearning,"[D] Last Week in Medical AI: Top Research Papers/Models  🏅(September 1  - September 7, 2024) ",0.89,https://www.reddit.com/r/MachineLearning/comments/1fbe5qg/d_last_week_in_medical_ai_top_research/
+71,yourmamaman,,False,0,1725733489.0,,False,1fbdlmn,False,True,False,t3_1fbdlmn,1,False,/r/MachineLearning/comments/1fbdlmn/research_why_would_it_be_grouped_in_multivariate/,False,3,"https://preview.redd.it/b7a8fxkshfnd1.png?width=484&format=png&auto=webp&s=b483fb4f36857b84cc5dc9085b9b88ddaeb70f17
+
+https://preview.redd.it/vm81s24vhfnd1.png?width=1024&format=png&auto=webp&s=5fd0ae772c7c8de5c46820c45c32ae311268b93e
+
+I am working on a custom multivariate time series pattern-matching algorithm and keep getting these probability groupings. I was wondering if anyone might have seen this before. A pattern is predicted if its first time-step matches a time step in the input data. The pattern ""was Right"" if it fully matches all subsequent time-steps. Each step is a list of events that occurred on a given day.",False,False,MachineLearning,[Research] Why would it be grouped?  (in multivariate time series model),0.67,https://www.reddit.com/r/MachineLearning/comments/1fbdlmn/research_why_would_it_be_grouped_in_multivariate/
+72,AvvYaa,,False,0,1725729358.0,,False,1fbc185,False,False,False,t3_1fbc185,2,False,/r/MachineLearning/comments/1fbc185/i_tried_to_code_my_own_yolo_model_to_detect/,False,26,,False,False,MachineLearning,I tried to code my own YOLO model to detect Football players [D],0.87,https://youtu.be/pGVTWZnixPc
+73,ebursztein,,False,0,1725727495.0,,False,1fbbbb3,False,True,False,t3_1fbbbb3,1,False,/r/MachineLearning/comments/1fbbbb3/r_generalized_power_attacks_against_hardware/,False,17,"https://preview.redd.it/8x0oesms1fnd1.jpg?width=2000&format=pjpg&auto=webp&s=3d3d331ddb4ebf23eface0d49b312b28cd5e2fcd
+
+Happy Saturday
+
+I am thrilled to announce that after 3 years of R&D we finally have published GPAM our generalized model power-side-channel attacks model:
+
+* slides & paper: [https://elie.net/publication/generalized-power-attacks-against-crypto-hardware-using-long-range-deep-learning](https://elie.net/publication/generalized-power-attacks-against-crypto-hardware-using-long-range-deep-learning)
+* code & datasets: [https://github.com/google/scaaml/tree/main/papers/datasets/ECC/GPAM](https://github.com/google/scaaml/tree/main/papers/datasets/ECC/GPAM)
+
+Compared to previous approach GPAM represent a generational leap because it is **able to attack multiples algorithms (AES, ECC) and counter-measures without the need of human intervention** and **without the need to pre-process the input traces**. It does requires some automated hyper-tuning thus: \~700 GPU/h per attack.",False,False,MachineLearning,[R] Generalized Power Attacks against Hardware Cryptography using Long-Range Deep Learning,0.88,https://www.reddit.com/r/MachineLearning/comments/1fbbbb3/r_generalized_power_attacks_against_hardware/
+74,rrenaud,,False,0,1725726365.0,,False,1fbavdv,False,False,False,t3_1fbavdv,40,False,/r/MachineLearning/comments/1fbavdv/r_adam_optimizer_causes_privileged_basis_in/,False,69,,False,False,MachineLearning,[R] Adam Optimizer Causes Privileged Basis in Transformer Language Models,0.75,https://www.lesswrong.com/posts/yrhu6MeFddnGRSLtQ/adam-optimizer-causes-privileged-basis-in-transformer
+75,Dapper-Edge2661,,False,0,1725723628.0,,False,1fb9su4,False,True,False,t3_1fb9su4,4,False,/r/MachineLearning/comments/1fb9su4/learning_local_representations_in_vit_d_r/,False,5,"I was reading this paper titled ""Do Vision Transformers See Like Convolutional Neural Networks?"" and I have this big question. The author said that in the earlier layers there is a mix of attention head attending both locally and globally, only if when pretrained on a huge dataset (JFT), while it had hard time attending locally when pretrained on small dataset (ImageNet). My question is why ViT have a hard time attending to the self patches that is attend locally?",False,False,MachineLearning,"Learning Local Representations in ViT ""[D]"" ""[R]""",0.67,https://www.reddit.com/r/MachineLearning/comments/1fb9su4/learning_local_representations_in_vit_d_r/
+76,msminhas93,ML Engineer,False,0,1725710004.0,,False,1fb55rf,False,False,False,t3_1fb55rf,2,False,/r/MachineLearning/comments/1fb55rf/p_nviwatch_a_rust_tui_for_monitoring_nvidia_gpus/,False,14,"Wanted to share since this can help you with your GPU monitoring.
+✅ Focus on GPU processes
+✅ Multiple view modes
+✅ Lightweight written in rust
+✅ Uses NVML directly 
+
+",False,False,MachineLearning,[P] NviWatch a rust tui for monitoring Nvidia GPUs,0.94,https://github.com/msminhas93/nviwatch
+77,tororo-in,,False,0,1725709380.0,,False,1fb4zls,False,True,False,t3_1fb4zls,10,False,/r/MachineLearning/comments/1fb4zls/discussion_learned_positional_embeddings_for/,False,6,"So I was re-reading the transformer paper and one thing that stood out to me was that the authors also used learned positional embeddings. Karpathy's implementation of nanoGPT uses learned positional embeddings and I was wondering how would these scale for longer sequences?
+
+From intuition, if the model has never seen a token beyond max\_length, it will be unable to generate something meaningful. So how does OpenAI's GPT (assuming they still use learned PE) scale to more than the 2k context length? ",False,False,MachineLearning,[Discussion] Learned positional embeddings for longer sequences,0.88,https://www.reddit.com/r/MachineLearning/comments/1fb4zls/discussion_learned_positional_embeddings_for/
+78,QaeiouX,,False,0,1725699424.0,,False,1fb2mwl,False,True,False,t3_1fb2mwl,0,False,/r/MachineLearning/comments/1fb2mwl/p_review_and_suggest_ideas_for_my_chatbot/,False,0,"Ok, so I am currently trying to build support chatbot with following technicalities 
+1. FastAPI for web server(Need to make it faster)
+2. Qdrant as Vector Data Base(Found it to be the fastest amongst Chromadb, Elastic Search and Milvus)
+3. MongoDB for storing all the data and feedback.
+4. Semantic chunking with max token limit of 512.
+5. granite-13b-chat-v2 as the LLM(I know it's not good but I have limited options available)
+6. The data is structured as well as unstructured. Thinking of having involving GraphRAG with current architecture.
+7. Multiple data sources stored in multiple collections of vector database because I have implemented an access control.
+8. Using mongoengine currently as a ORM. If you know something better please suggest.
+9. Using all-miniLM-l6-v2 as vector embedding currently but planning to use stella_en_400M_v5.
+10. Using cosine similarity to retrieve the documents.
+11. Using BLEU, F1 and BERT score for automated evaluation based on golden answer.
+12. Using top_k as 3.
+13. Currently using basic question answering prompt but want to improve it. Any tips? Also heard about Automatic Prompt Evaluation.
+14. Currently using custom code for everything. Looking to use Llamaindex or Langchain for this. 
+15. Right now I am not using any AI Agent, but I want to know your opinions. 
+16. It's a simple RAG framework and I am working on improving it.
+17. I haven't included reranker but I am planning to do so too.
+
+I think I mentioned pretty much everything I am using for my project. So please share your suggestions, comments and reviews for the same. Thank you!!",False,False,MachineLearning,[P] Review and suggest ideas for my chatbot,0.37,https://www.reddit.com/r/MachineLearning/comments/1fb2mwl/p_review_and_suggest_ideas_for_my_chatbot/
+79,Competitive_Travel16,,False,0,1725697587.0,,False,1fb28a3,False,False,False,t3_1fb28a3,3,False,/r/MachineLearning/comments/1fb28a3/n_arxiv_is_having_a_multimodal_sonification/,False,0,,False,False,MachineLearning,"[N] Arxiv is having a multimodal ""sonification"" accessibility conference on Tuesday",0.5,https://accessibility2024.arxiv.org/forum-session-Sonification
+80,OppositeMonday,,False,0,1725689034.0,,False,1fb0ami,False,True,False,t3_1fb0ami,9,False,/r/MachineLearning/comments/1fb0ami/p_tool_for_assessing_the_effectiveness_of_large/,False,14,https://github.com/user1342/Would-You-Kindly,False,False,MachineLearning,[P] Tool for assessing the effectiveness of large language models in protecting secret/ hidden information ,0.89,https://www.reddit.com/r/MachineLearning/comments/1fb0ami/p_tool_for_assessing_the_effectiveness_of_large/
+81,Jazzlike-Shake4595,,False,0,1725682676.0,,1725696149.0,1fayml4,False,True,False,t3_1fayml4,2,False,/r/MachineLearning/comments/1fayml4/d_realtime_inpainting_of_people_from_live/,False,0,"Hi everyone,
+
+I'm working on a project where I need to inpaint people out of live streams and webcam footage in real-time. I can use Mediapipe's selfie segmentation to identify and mask people at runtime, replacing them with a clean plate from the scene. This approach works great, achieving nearly 30-40fps even on mobile devices. However, it has significant downsides: it requires a clean plate and a static camera.
+
+I also went around and tried to find some alternatives like MI-GAN from Picsart AI which does image inpainting of Missing pixels that I get from mediapipe mask, as they have experimented on onnx runtime for mobile devices. While it looks promising, their method maxes out at around 7-8 fps on mobile, which isn't ideal for real-time applications.
+
+Are there better solutions or models that could achieve real-time inpainting on mobile devices at a higher frame rate? Any suggestions or insights would be greatly appreciated!
+
+For reference, this is what I am talking about:
+
+https://preview.redd.it/tsglpsq4ibnd1.png?width=3140&format=png&auto=webp&s=6ab9b383d3c7e81b47fb800787b5c4f3fb051a7a",False,False,MachineLearning,[D] Real-Time Inpainting of People from Live Streams/Webcam Footage,0.38,https://www.reddit.com/r/MachineLearning/comments/1fayml4/d_realtime_inpainting_of_people_from_live/
+82,More_Lawfulness_6862,,False,0,1725675588.0,,False,1fawirs,False,True,False,t3_1fawirs,18,False,/r/MachineLearning/comments/1fawirs/d_which_llm_model_is_best_suited_for_finetuning/,False,9,"I am working on a financial data analysis project, focusing on text-to-data visualization. The first step is to generate a relevant SQL query based on the input text. I am using the Mistral 7B model for this task. However, while training it with the dataset in Google Colab, I consistently encounter out-of-memory errors. I have tried various configurations, such as adjusting the batch size and tokenization length, but each time, it still shows a CUDA out-of-memory error. I've used different types of hardware accelerators, but the issue persists. Does anyone have recommendations on whether the model I’m using is too large or if there are any alternatives I should consider?",False,False,MachineLearning,[D] Which LLM model is best suited for finetuning to Text-to-SQL ? ,0.85,https://www.reddit.com/r/MachineLearning/comments/1fawirs/d_which_llm_model_is_best_suited_for_finetuning/
+83,lastmonty,,False,0,1725673855.0,,False,1favz8l,False,True,False,t3_1favz8l,2,False,/r/MachineLearning/comments/1favz8l/d_role_of_orchestrators/,False,1,"Hello, 
+
+For the purpose of this question, let's call
+ 
+- classical ml: machine learning using non neural network models. Very vaguely done by scikit learn algorithms. 
+
+- Modern ml: machine learning using deep neural networks like cnn, rnn. Vaguely speaking using pytorch, tensorflow. 
+
+In classical ml space, orchestrators like airflow, step functions had a role in pipelining data cleaning, feature engineering, training, hyper parameter tuning, cross validation, etc.
+
+In the modern ml space, there seems to be less need for orchestration as frameworks tend to do it as part of the model definition. I might be wrong here as I mostly work in classical ml and started to work in modern ml space. 
+
+Is this a valid observation? Where do you use orchestrators in the training? Do you consider data extraction or preparation like one hot encoding, embedding as steps and orchestrate them?
+
+One place I could think of is in provisioning the GPU machines before distributed training. 
+
+Cheers,",False,False,MachineLearning,[D] role of orchestrators?,0.6,https://www.reddit.com/r/MachineLearning/comments/1favz8l/d_role_of_orchestrators/
+84,LyleLanleysMonorail,,False,0,1725673571.0,,False,1favw49,False,True,False,t3_1favw49,6,False,/r/MachineLearning/comments/1favw49/d_what_exactly_is_datacentric_ai_is_a_datacentric/,False,0,"I feel like I've been hearing a lot about data-centric AI recently. Tbh, I am not too familiar with it, and hence I am coming to ask the esteemed experts of this sub to help me understand. 
+
+What exactly is data-centric-AI and why is it important? Is a model-centric approach not enough? And do you see the data-centric approach becoming the dominant way to do ML in the near future and moving forward?",False,False,MachineLearning,[D] What exactly is data-centric AI? Is a data-centric approach the future of AI and Machine Learning?,0.11,https://www.reddit.com/r/MachineLearning/comments/1favw49/d_what_exactly_is_datacentric_ai_is_a_datacentric/
+85,Different-General700,,False,0,1725655745.0,,1725656881.0,1fapmyy,False,True,False,t3_1fapmyy,6,False,/r/MachineLearning/comments/1fapmyy/p_an_embeddable_widget_that_lets_you_map/,False,3,"Hey MLEs! I made an embeddable widget that lets teams crosswalk taxonomies together. Happy to share more about the mapping algorithm if helpful.
+
+To provide some context on the demo: A data provider (e.g. a salary compensation data provider) would embed this widget, and we'll manage ""normalizing"" the comp data to the user's taxonomy. The frontend doesn't expose some of the more complex details like mapping confidence scores and complex relationships (e.g. one to many, many to many, etc).
+
+https://i.redd.it/hsjmuwuh49nd1.gif",False,False,MachineLearning,[P] An embeddable widget that lets you map taxonomies together,0.71,https://www.reddit.com/r/MachineLearning/comments/1fapmyy/p_an_embeddable_widget_that_lets_you_map/
+86,dfcHeadChair,,False,0,1725652630.0,,False,1faodzs,False,True,False,t3_1faodzs,28,False,/r/MachineLearning/comments/1faodzs/d_why_arent_there_ethical_ai_saas_products/,False,0,"I have been working in the Ethical AI space over the last few years focussed mostly on tabular data at a very large company. Most of the work has been analyzing internal datasets and machine learning models using tools like ELI5, LIME, SHAP, and Fairlearn. 
+
+  
+What I'm wondering is why aren't there any Startups in this space? With the availability of open-source tooling, I would suspect that there would be a flood of Ethical-AI-as-a-Service offerings but I've struggled to find any. Am I missing some obvious SaaS companies out there? Is it a red-tape / legal issue?",False,False,MachineLearning,[D] Why aren't there Ethical AI SaaS products available?,0.33,https://www.reddit.com/r/MachineLearning/comments/1faodzs/d_why_arent_there_ethical_ai_saas_products/
+87,Johan2212,,False,0,1725652282.0,,False,1fao8wt,False,True,False,t3_1fao8wt,2,False,/r/MachineLearning/comments/1fao8wt/p_face_recognition/,False,0,"What is the most popular frameworks/models for face recognition?
+
+I have heard good things about retinaface? But the publication is from 2019 - so I am wondering if there are any other major advances in the field since? ",False,False,MachineLearning,[P] face recognition ,0.33,https://www.reddit.com/r/MachineLearning/comments/1fao8wt/p_face_recognition/
+88,americast,,False,0,1725646408.0,,False,1falxys,False,True,False,t3_1falxys,4,False,/r/MachineLearning/comments/1falxys/d_predicitng_training_time_for_deep_learning/,False,0,"Hi all,
+
+I’m developing a deep-learning model to predict training times for different models. I have M datasets and N deep learning models with their corresponding training time values (total MxN values).
+
+I’ve built a linear multi-output regression model with 3 hidden layers, which takes a fixed-dimensional encoding of a dataset as input and outputs N training times (in minutes) corresponding to the N DL models. The data has been normalized using mean-variance normalization.
+
+The training time predictions, however, are less accurate than expected.
+
+Here is a snapshot of my dataset
+
+|Model 1|Model 2|...|Model N|
+|:-|:-|:-|:-|
+|Dataset 1|41.81|...|42.81|
+|Dataset 2|232.66|...|199.89|
+|...|...|...|...|
+|Dataset M|417.61|...|109.54|
+
+Does anyone have suggestions to improve the training time predictions?
+
+Any advice on feature selection, model architecture, or other techniques would be greatly appreciated!
+
+Thanks in advance!",False,False,MachineLearning,[D] Predicitng training time for deep learning models,0.36,https://www.reddit.com/r/MachineLearning/comments/1falxys/d_predicitng_training_time_for_deep_learning/
+89,pickup_the_slakk,,False,0,1725639441.0,,False,1faj6lf,False,True,False,t3_1faj6lf,6,False,/r/MachineLearning/comments/1faj6lf/nlp_talk_suggestions_needed_discussion/,False,0,"Hi All,
+
+I have to give a talk on the overview of NLP from Embeddings to Neural Language Models at my work. I am expecting a mixture of audience (business and technical folks)
+
+I need suggestions on how to structure the talk and keep it interesting for both technical and non technical people.
+
+PS: it's going to be a 1 hour talk.",False,False,MachineLearning,NLP Talk: Suggestions Needed [Discussion],0.47,https://www.reddit.com/r/MachineLearning/comments/1faj6lf/nlp_talk_suggestions_needed_discussion/
+90,Ok-Emu5850,,False,0,1725637893.0,,False,1faijy3,False,True,False,t3_1faijy3,4,False,/r/MachineLearning/comments/1faijy3/fine_tuning_dataset_preparation_d/,False,0,"
+
+Does anyone have experience fine tuning an LLM for question answering? I am trying to fine tune a Claude haiku model. I am curious if I should use XML tags in the prompt to distinguish the passage and the question.XML tags are widely recommended for regular prompt engineering. Do you recommend them also for fine tuning prompts?",False,False,MachineLearning,Fine tuning dataset preparation [D],0.5,https://www.reddit.com/r/MachineLearning/comments/1faijy3/fine_tuning_dataset_preparation_d/
+91,Silent-Cap8966,,False,0,1725626604.0,,False,1fae8lp,False,True,False,t3_1fae8lp,0,False,/r/MachineLearning/comments/1fae8lp/d_is_there_any_way_to_embed_llms_such_that/,False,1,"So I was thinking of doing some classification on LLMs, but I wasn't sure if there was already any research on this topic.
+
+An I had where that you could create a matrix of the angles and embed that (or just use the matrix directly). So like if you had 100 sample inputs, you could create a 100x100 grid with the angles between the hidden-states for each input at the final layer. The idea is partially inspired by this paper [https://arxiv.org/abs/2404.12715](https://arxiv.org/abs/2404.12715).",False,False,MachineLearning,[D] - Is there any way to embed LLMs such that similar models have similar vector representations? ,1.0,https://www.reddit.com/r/MachineLearning/comments/1fae8lp/d_is_there_any_way_to_embed_llms_such_that/
+92,Desperate-Homework-2,,False,0,1725621801.0,,False,1facpyh,False,True,False,t3_1facpyh,3,False,/r/MachineLearning/comments/1facpyh/d_for_people_who_care_about_output_quality_and/,False,0,"RAG and LLMs are all over the place, and for good reason! It’s transforming how LLMs generate informed, accurate responses by combining them with external knowledge sources.
+
+But with all this buzz, I noticed there’s no dedicated space to dive deep into LLM/RAG evaluation, share ideas, and learn together. So, I created —a community for those interested in evaluating LLM/RAG systems, understanding the latest research, and measuring LLM output quality.
+
+Join us, and let's explore the future of AI evaluation together!",False,False,MachineLearning,[D] For people who care about output quality and Evaluations in LLMs I have created r/AIQuality (one for the hallucination free systems),0.17,https://www.reddit.com/r/MachineLearning/comments/1facpyh/d_for_people_who_care_about_output_quality_and/
+93,we_are_mammals,,False,0,1725620814.0,,1725740213.0,1facftg,False,True,False,t3_1facftg,33,False,/r/MachineLearning/comments/1facftg/d_can_ai_scaling_continue_through_2030/,False,0,"EpochAI wrote a long blog article on this: https://epochai.org/blog/can-ai-scaling-continue-through-2030
+
+What struck me as odd is the following claim:
+
+> The indexed web contains about 500T words of unique text
+
+But this seems to be at odds with *e.g.* what L. Aschenbrenner writes in Situational Awareness:
+
+> Frontier models are already trained on much of the internet. Llama 3, for example, was trained on over 15T tokens. Common Crawl, a dump of much of the internet used for LLM training, is >100T tokens raw, though much of that is spam and duplication (*e.g.*, a relatively simple deduplication leads to 30T tokens, implying Llama 3 would already be using basically all the data). Moreover, for more specific domains like code, there are many fewer tokens still, *e.g.* public github repos are estimated to be in low trillions of tokens.",False,False,MachineLearning,[D] Can AI scaling continue through 2030?,0.38,https://www.reddit.com/r/MachineLearning/comments/1facftg/d_can_ai_scaling_continue_through_2030/
+94,South-Conference-395,,False,0,1725619802.0,,False,1fac5u5,False,True,False,t3_1fac5u5,22,False,/r/MachineLearning/comments/1fac5u5/d_bayesian_models_vs_conformal_prediction_cp/,False,14,"Hi all,
+
+I am creating this post to get your opinion on two main uncertainty quantification paradigms. I have seen a great rivalry between researchers representing them. I have done research on approximate reference (and Bayesian Deep Learning) but beyond a basic tutorial on CP,  I am not very familiar with CP. My personal opinion is that both of them are useful tools and could perhaps be employed complementary:
+
+CP can provide guarantees but are poshoc methods, while BDLs can use prior regularization to actually \*improve\* model's generalization during training. Moreover, CP is based on the IID assumption (sorry if this is not universally true, at least that was the assumption in the tutorial), while in BDL inputs are IID only when conditioned on an observation of the parameter: in general p(yi,yj|xi,xj)!=p(yi|xi)p(yj|xj) but   p(yi,yj|xi,xj,theta)=p(yi|xi, theta)xp(yj|xj, theta). So BDLs or Gaussian Processes might be more realistic in that regard.
+
+  
+Finally, couldn't one derived CP for Bayesian Models? How much the set of predictions provided by CP and those by the Bayesian Model agree in this case? Is there a research paper bridging these approaches and testing this?
+
+  
+Apologies in advance if my questions are too basic. I just want to keep an unbiased perspective between the two paradigms.
+
+  
+
+
+  
+
+
+",False,False,MachineLearning,[D] Bayesian Models vs Conformal Prediction (CP),0.9,https://www.reddit.com/r/MachineLearning/comments/1fac5u5/d_bayesian_models_vs_conformal_prediction_cp/
+95,NoIdeaAbaout,,False,0,1725618552.0,,False,1fabu65,False,True,False,t3_1fabu65,17,False,/r/MachineLearning/comments/1fabu65/d_retrievalaugmented_generation_vs_longcontext/,False,23,"I think this issue has been debated for a long time. But two interesting articles have recently come out on the issue that I would like to take as a starting point for the discussion on RAG vs. Long-context LLM.   
+  
+In summary, if we can put everything in the prompt, we don't need to do retrieval. However I really doubt that we can have a model capable of having a context length that can cover the huge amount of data that any organization has (and without horrendous computational costs).   
+  
+In any case, there have been unconvincing reports that LC-LLM works better in QA (so far at least I have not read an article that convinced me that LC-LLM works better than RAG). 
+
+ Two articles came out discussing the impact of noise in LLM and RAG: 
+
+* The first states that noise bumps the performance of an LLM and goes to great lengths to characterize this. [https://arxiv.org/abs/2408.13533](https://arxiv.org/abs/2408.13533)  
+* The second one compares RAG and LC-LLMs and shows that by increasing the size of the context, we have a spike (we add relevant chunks) and then performance decreases because LLM has a harder time finding the correct information. [https://arxiv.org/abs/2409.01666](https://arxiv.org/abs/2409.01666)  
+
+  
+I think more or less the reason why we will eventually keep RAG, is that LLMs are sophisticated neural networks and therefore pattern recognition machines. In the end, optimizing signal-to-noise is one of the most common (and sometimes difficult) tasks in machine learning. When we start to increase this noise too much eventually the model is bound to start finding noise and get distracted from important information (plus there is also a subtle interplay between the LLM's parametric memory and context, and we still don't know why sometimes ignores the context)
+
+Two, in my personal opinion, there is also a structural reason. self-attention seeks relevant relationships, and under conditions of increased context length, we tend toward a curse of dimensionality in which eventually spurious relationships are accentuated.
+
+I would like to discuss your opinion for what reasons RAG will not be supplanted or if you think LC-LLM will eventually replace it? In the second case, how can it solve the problem of a huge amount of contextually irrelevant data?
+
+",False,False,MachineLearning,"[D] retrieval-augmented generation vs Long-context LLM, are we sure the latter will substitute the first?",0.91,https://www.reddit.com/r/MachineLearning/comments/1fabu65/d_retrievalaugmented_generation_vs_longcontext/
+96,evilevidenz,,False,0,1725605554.0,,False,1fa8vq5,False,True,False,t3_1fa8vq5,68,False,/r/MachineLearning/comments/1fa8vq5/d_why_is_cuda_so_much_faster_than_rocm/,False,106,"Usually people respond with ""Because NVIDIA had more time and more money"". However, why cant AMD catch up? What are the exact things that make optimizing ROCm so hard?? 
+
+It would be helpful if you could point to some resources or if your answer would be as detailed as possible regarding the implementation of specific kernels and structures and how CUDA calls are exactly made and optimized from Triton or XLA. Thx :)",False,False,MachineLearning,[D] Why is CUDA so much faster than ROCm? ,0.88,https://www.reddit.com/r/MachineLearning/comments/1fa8vq5/d_why_is_cuda_so_much_faster_than_rocm/
+97,Substantial_Video_26,,False,0,1725595741.0,,1725600389.0,1fa6ayc,False,True,False,t3_1fa6ayc,10,False,/r/MachineLearning/comments/1fa6ayc/d_looking_for_an_llmvision_model_like_clip_for/,False,0,"Hi , I'm using CLIP to analyse images but looking for better options for these tasks:
+
+1. Detecting if there's a person in the image.
+2. Determining if more than one person is present.
+3. Identifying if the person is facing the camera.
+4. Detecting phones, tablets, smartwatches, or other electronic devices.
+5. Detecting books, notes.
+
+Any suggestions for a model better (or separate model for each task) suited for this type of detailed analysis? Thanks!",False,False,MachineLearning,[D] Looking for an LLM/Vision Model like CLIP for Image Analysis,0.3,https://www.reddit.com/r/MachineLearning/comments/1fa6ayc/d_looking_for_an_llmvision_model_like_clip_for/
+98,the-wonderful-world,,False,0,1725593365.0,,1725594038.0,1fa5kop,False,True,False,t3_1fa5kop,14,False,/r/MachineLearning/comments/1fa5kop/p_this_week_i_implemented_the_paper_pay_attention/,False,71,"To experiment with more interesting model architectures, I implemented gMLP in Tinygrad!
+
+If anyone wants to give some feedback, it will be welcomed.
+
+* \[Repository\]: [https://github.com/EthanBnntt/tinygrad-gmlp](https://github.com/EthanBnntt/tinygrad-gmlp)
+* \[Installation\]: `pip install gmlp_tinygrad`
+* \[Original Paper\]: [https://doi.org/10.48550/ARXIV.2105.08050](https://doi.org/10.48550/ARXIV.2105.08050)
+
+[A diagram showing the gMLP architecture](https://preview.redd.it/3s58nla804nd1.png?width=330&format=png&auto=webp&s=3f00f8364e9e0ac00da13ce28199d59330ebaef3)",False,False,MachineLearning,"[P] This week, I implemented the paper, ""Pay Attention to MLPs"", in Tinygrad! :D",0.92,https://www.reddit.com/r/MachineLearning/comments/1fa5kop/p_this_week_i_implemented_the_paper_pay_attention/
+99,Scoffpickle,,False,0,1725582341.0,,1725642871.0,1fa1z1w,False,True,False,t3_1fa1z1w,12,False,/r/MachineLearning/comments/1fa1z1w/d_disscussion_on_the_state_of_ml/,False,0,"Spiking Neural Networks (SNNs) *\[In this post, I'll be talking about LIF specifically\]* have fascinated me since I learned about them a few years ago, more specifically: The efficiency of computation and storage.
+
+For those that don't understand LIFs, they work by integrating a value into the potential and subtracting a leak, then comparing it to a threshold; if it exceeds it, the neuron fires a boolean ""true"" and resets the potential (sometimes a refractory period is implemented, but it's not necessary), else, it fires a ""false"" and keeps the potential.
+
+* Compute and Storage Efficiency: SNNs perform addition and subtraction operations. In other network architectures, floats are normally used because you multiply and add, because of the firing's boolean state, you can simplify the input current to sum the weights of the spiked neurons, because no multiplication is used, you can also further optimize and ditch floats altogether and use fixed point values. For example, if you wanted to store the weight 15.2 into an 8-bit integer with a scaling factor of 10; you would store 152. This does not change anything since *(10+10)/10 = 1+1.*
+
+[Neural Network Expansion, the parameters of the black \(pre-trained, original\) nodes are intact, while the newer ones are initialized randomly. ](https://preview.redd.it/frwiyizx18nd1.jpg?width=1083&format=pjpg&auto=webp&s=d3e56226d96d3102402c0bf101cbab9362673033)
+
+Another thing I'd like to discuss is why (at least in my knowledge, correct me if I'm wrong) AI models, when they need to be retrained to be larger (think GPT) get re-trained from scratch instead of adding more nodes-per-layer/layers into the model initialized with random parameters while keeping the other parameters intact to preserve the past training, then re-training with the modified architecture. Doesn't this shrink the amount of training epochs needed since you already have most of the things figured out? Or is there some reason why they don't do this that I'm unaware of? An example image lies above:  
+
+
+And as a side thought. Has anyone ever tried to 'merge' two models by taking the models, expanding the vectors in one layer and concatenating the two models, similar to how the two brain hemispheres communicate?",False,False,MachineLearning,[D] Disscussion on the state of ML architectures/training models.,0.22,https://www.reddit.com/r/MachineLearning/comments/1fa1z1w/d_disscussion_on_the_state_of_ml/
