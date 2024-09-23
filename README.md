@@ -41,15 +41,15 @@ Resource:
 - https://colab.research.google.com/drive/19HZGu5f7cOmxDekOxaa2Eax79SVjZU-n#scrollTo=fICebxnSiKjr
 
 ### Tutorial 4 NLP: Preprocessing, Topic Modeling
-- Basic preprocessing, Naive Bayes Classifier, VADER and LDA: https://colab.research.google.com/drive/1_BfXYlVwZVmCdiGD6Sb2ZW31vBK7-RDI?usp=sharing
-- Semantic network & LDA visualization: https://colab.research.google.com/drive/1HFS_d1znlSZLRFL-790Gu5AGK90V02Wa?usp=sharing
+- Basic preprocessing, LDA visualization: https://colab.research.google.com/drive/1_BfXYlVwZVmCdiGD6Sb2ZW31vBK7-RDI?usp=sharing
 - BERTopic: https://colab.research.google.com/drive/1STD-3oajZQguZj4Zvu5yhHVQlEEWdXtd?usp=sharing
   
 ## Under Construction ##
 
 ### Tutorial 5 NLP: Sentiment Analysis, etc.
+- Sentiment analysis using Naive Bayes Classifier, VADER: https://colab.research.google.com/drive/1lHX9l0Z4FiWw0HdIl6elTDcWyNVCL6HM?usp=sharing
 - Sentiment analysis using RoBERTa: https://colab.research.google.com/drive/17jqpyh4ZW2OmQsO_giZi7l0QlQWu_mgR?usp=sharing
-- Word cloud: https://colab.research.google.com/drive/1mXI95F_2RGnZjzWyVGp5cK3c3b87MtZI?usp=sharing
+- Named Entity Recognition, Word cloud, Semantic network: https://colab.research.google.com/drive/1mXI95F_2RGnZjzWyVGp5cK3c3b87MtZI?usp=sharing
 
 ### Tutorial 6 LLMs, GPTs
 - LLMs with model weights publicly available: https://colab.research.google.com/drive/1C0SqKDV9QRO8DIE9_VY6OkfzJbFJT2qL
