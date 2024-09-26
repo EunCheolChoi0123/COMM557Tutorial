@@ -45,7 +45,7 @@ Resource:
 - Sentiment analysis using Naive Bayes Classifier, VADER: https://colab.research.google.com/drive/1lHX9l0Z4FiWw0HdIl6elTDcWyNVCL6HM?usp=sharing
 - Sentiment analysis using RoBERTa: https://colab.research.google.com/drive/17jqpyh4ZW2OmQsO_giZi7l0QlQWu_mgR?usp=sharing
 
-### Tutorial 5 NLP: Topic Modeling
+### Tutorial 5 NLP (2): Topic Modeling
 - LDA visualization: https://colab.research.google.com/drive/1_BfXYlVwZVmCdiGD6Sb2ZW31vBK7-RDI?usp=sharing
 - BERTopic: https://colab.research.google.com/drive/1STD-3oajZQguZj4Zvu5yhHVQlEEWdXtd?usp=sharing
   
