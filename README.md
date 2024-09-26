@@ -40,13 +40,13 @@ Resource:
 ### Tutorial 3 Analyzing Wikipedia Networks
 - https://colab.research.google.com/drive/19HZGu5f7cOmxDekOxaa2Eax79SVjZU-n#scrollTo=fICebxnSiKjr
 
-### Tutorial 4 NLP: Sentiment Analysis, etc.
+### Tutorial 4 NLP (1): Preprocessing, Sentiment Analysis, etc.
+- Basic preprocessing, Named Entity Recognition, Word cloud, Semantic network: https://colab.research.google.com/drive/1mXI95F_2RGnZjzWyVGp5cK3c3b87MtZI?usp=sharing
 - Sentiment analysis using Naive Bayes Classifier, VADER: https://colab.research.google.com/drive/1lHX9l0Z4FiWw0HdIl6elTDcWyNVCL6HM?usp=sharing
 - Sentiment analysis using RoBERTa: https://colab.research.google.com/drive/17jqpyh4ZW2OmQsO_giZi7l0QlQWu_mgR?usp=sharing
-- Named Entity Recognition, Word cloud, Semantic network: https://colab.research.google.com/drive/1mXI95F_2RGnZjzWyVGp5cK3c3b87MtZI?usp=sharing
 
-### Tutorial 5 NLP: Preprocessing, Topic Modeling
-- Basic preprocessing, LDA visualization: https://colab.research.google.com/drive/1_BfXYlVwZVmCdiGD6Sb2ZW31vBK7-RDI?usp=sharing
+### Tutorial 5 NLP: Topic Modeling
+- LDA visualization: https://colab.research.google.com/drive/1_BfXYlVwZVmCdiGD6Sb2ZW31vBK7-RDI?usp=sharing
 - BERTopic: https://colab.research.google.com/drive/1STD-3oajZQguZj4Zvu5yhHVQlEEWdXtd?usp=sharing
   
 ## Under Construction ##
