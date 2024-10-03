@@ -48,14 +48,14 @@ Resource:
 ### Tutorial 5 NLP (2): Topic Modeling
 - LDA visualization: https://colab.research.google.com/drive/1_BfXYlVwZVmCdiGD6Sb2ZW31vBK7-RDI?usp=sharing
 - BERTopic: https://colab.research.google.com/drive/1STD-3oajZQguZj4Zvu5yhHVQlEEWdXtd?usp=sharing
+
+### Tutorial 6 LLMs, GPTs
 - Various NLP tasks with BERT-based LMs: https://colab.research.google.com/drive/1wIKIhkNy-y-QZtF6JYzowZT4BeOqlSDp?usp=sharing  
+- LLMs with model weights publicly available: https://colab.research.google.com/drive/1C0SqKDV9QRO8DIE9_VY6OkfzJbFJT2qL
+- OpenAI API: https://colab.research.google.com/drive/1wPrJuG_J36fA-K4PqIJip4xrBpWIPe0O
 
 ## Under Construction ##
 
-
-### Tutorial 6 LLMs, GPTs
-- LLMs with model weights publicly available: https://colab.research.google.com/drive/1C0SqKDV9QRO8DIE9_VY6OkfzJbFJT2qL
-- OpenAI API: https://colab.research.google.com/drive/1wPrJuG_J36fA-K4PqIJip4xrBpWIPe0O
 
 ### Tutorial 7 Supervised learning
 - https://colab.research.google.com/drive/16nSXJ4U6XoRD6oQoZeyYYlWocaU9toTi?usp=sharing
