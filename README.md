@@ -54,11 +54,12 @@ Resource:
 - LLMs with model weights publicly available: https://colab.research.google.com/drive/1C0SqKDV9QRO8DIE9_VY6OkfzJbFJT2qL
 - OpenAI API: https://colab.research.google.com/drive/1wPrJuG_J36fA-K4PqIJip4xrBpWIPe0O
 
+### Tutorial 7 Supervised learning
+- Iris & Housing: https://colab.research.google.com/drive/16nSXJ4U6XoRD6oQoZeyYYlWocaU9toTi?usp=sharing
+- Text classification using tree-based models: 
+
 ## Under Construction ##
 
 
-### Tutorial 7 Supervised learning
-- https://colab.research.google.com/drive/16nSXJ4U6XoRD6oQoZeyYYlWocaU9toTi?usp=sharing
-
 ### Tutorial 8 Unsupervised learning
-- https://colab.research.google.com/drive/16nSXJ4U6XoRD6oQoZeyYYlWocaU9toTi?usp=sharing
+- https://colab.research.google.com/drive/1qaYhq2lfKLPe0sFkiA2VGQdOg-um2M1V?usp=sharing
