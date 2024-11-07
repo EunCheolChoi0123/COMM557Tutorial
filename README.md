@@ -55,11 +55,10 @@ Resource:
 - OpenAI API: https://colab.research.google.com/drive/1wPrJuG_J36fA-K4PqIJip4xrBpWIPe0O
 
 ### Tutorial 7 Supervised learning
-- Iris & Housing: https://colab.research.google.com/drive/16nSXJ4U6XoRD6oQoZeyYYlWocaU9toTi?usp=sharing
-- Text classification using tree-based models: 
+- Iris & Housing (regression task): https://colab.research.google.com/drive/16nSXJ4U6XoRD6oQoZeyYYlWocaU9toTi?usp=sharing
+- Text classification using tree-based models: https://colab.research.google.com/drive/1J-KXtEvo_G__QfusVoKQUSPGouTsERlr?usp=sharing
 
 ## Under Construction ##
-
 
 ### Tutorial 8 Unsupervised learning
 - https://colab.research.google.com/drive/1qaYhq2lfKLPe0sFkiA2VGQdOg-um2M1V?usp=sharing
