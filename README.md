@@ -58,7 +58,12 @@ Resource:
 - Iris (classification task) & Housing (regression task): https://colab.research.google.com/drive/16nSXJ4U6XoRD6oQoZeyYYlWocaU9toTi?usp=sharing
 - Text classification using tree-based models: https://colab.research.google.com/drive/1J-KXtEvo_G__QfusVoKQUSPGouTsERlr?usp=sharing
 
+### Tutorial 8 Supervised learning by fine-tuning BERT-based models
+- Binary task: https://colab.research.google.com/drive/19vVMycNAEEwLeF25jumTUY3qVaCpYx5C?usp=sharing
+- Multiclass: https://colab.research.google.com/drive/1Ulu0m_H_VA8wX2SswK26aLTsMmPI7FZ2?usp=sharing
+- Cross-validation: https://colab.research.google.com/drive/1j8ORY_0qB9bGzOMFrAMUEOe1Y9dHnCBh?usp=sharing
+
 ## Under Construction ##
 
-### Tutorial 8 Unsupervised learning
+### Tutorial 9 Unsupervised learning
 - https://colab.research.google.com/drive/1qaYhq2lfKLPe0sFkiA2VGQdOg-um2M1V?usp=sharing
