@@ -64,4 +64,4 @@ Resource:
 - Cross-validation: https://colab.research.google.com/drive/1j8ORY_0qB9bGzOMFrAMUEOe1Y9dHnCBh?usp=sharing
 
 ### Tutorial 9 Unsupervised learning
-- Misinformation clustering: https://colab.research.google.com/drive/1byLOGWYJrMEvHc6joGm66M2tjnYxxN6r?usp=sharing
+- Clustering (k-means, HCA, DBSCAN, GMM) and dimensionality reduction (PCA, t-SNE, AE) using misinformation dataset: https://colab.research.google.com/drive/1byLOGWYJrMEvHc6joGm66M2tjnYxxN6r?usp=sharing
