@@ -65,3 +65,6 @@ Resource:
 
 ### Tutorial 9 Unsupervised learning
 - Clustering (k-means, HCA, DBSCAN, GMM) and dimensionality reduction (PCA, t-SNE, AE) using misinformation dataset: https://colab.research.google.com/drive/1byLOGWYJrMEvHc6joGm66M2tjnYxxN6r?usp=sharing
+
+### Additional resource
+- OpenAI Batch API
