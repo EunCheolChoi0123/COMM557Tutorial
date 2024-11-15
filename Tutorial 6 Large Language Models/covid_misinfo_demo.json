@@ -1,0 +1,42 @@
+[
+    {
+        "pair_id":0,
+        "cleaned_claim":"Suggests 108 FIFA registered players\/coaches have died because of COVID-19 vaccines"
+    },
+    {
+        "pair_id":1,
+        "cleaned_claim":"The COVID-19 pandemic was planned, and a 2019 simulation called Event 201 was a rehearsal for it"
+    },
+    {
+        "pair_id":2,
+        "cleaned_claim":"Even the WHO has conceded that the (SARS- CoV-2) virus \u2026 is no more dangerous than the common flu, with an infection fatality rate of 0.14"
+    },
+    {
+        "pair_id":3,
+        "cleaned_claim":"Walgreens refrigerators are scanning shoppers\u2019 hands and foreheads for the mark of the beast, and that if you don\u2019t have the mark later on, you won\u2019t be able to buy"
+    },
+    {
+        "pair_id":4,
+        "cleaned_claim":"Biden's CDC Director ADMITS Her Own Employees Aren't Getting Vaccinated"
+    },
+    {
+        "pair_id":5,
+        "cleaned_claim":"Half a million sharks could be killed to make the COVID-19 vaccine"
+    },
+    {
+        "pair_id":6,
+        "cleaned_claim":"Tylenol ruins your ability to kill COVID-19"
+    },
+    {
+        "pair_id":7,
+        "cleaned_claim":"President Joe Biden never had a COVID-19 plan"
+    },
+    {
+        "pair_id":8,
+        "cleaned_claim":"Yale study: Vaccinated people more likely to be infected than those without the jab"
+    },
+    {
+        "pair_id":9,
+        "cleaned_claim":"Vaccines are why flights have been shut down worldwide"
+    }
+]
