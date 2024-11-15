@@ -67,4 +67,4 @@ Resource:
 - Clustering (k-means, HCA, DBSCAN, GMM) and dimensionality reduction (PCA, t-SNE, AE) using misinformation dataset: https://colab.research.google.com/drive/1byLOGWYJrMEvHc6joGm66M2tjnYxxN6r?usp=sharing
 
 ### Additional resource
-- OpenAI Batch API
+- OpenAI Batch API: https://colab.research.google.com/drive/1A8tj4g3pZFjxY22368U_VGylcC6QjbDx?usp=sharing
