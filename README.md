@@ -57,6 +57,7 @@ Resource:
 ### Tutorial 7 Supervised learning
 - Iris (classification task) & Housing (regression task): https://colab.research.google.com/drive/16nSXJ4U6XoRD6oQoZeyYYlWocaU9toTi?usp=sharing
 - Misinformation classification using tree-based models: https://colab.research.google.com/drive/1J-KXtEvo_G__QfusVoKQUSPGouTsERlr?usp=sharing
+- Feature selection & extraction: https://colab.research.google.com/drive/1O1BINMabdN2V8wksPZsixkHg14Vs49ZJ?usp=sharing
 
 ### Tutorial 8 Supervised learning by fine-tuning BERT-based models
 - Binary task: https://colab.research.google.com/drive/19vVMycNAEEwLeF25jumTUY3qVaCpYx5C?usp=sharing
