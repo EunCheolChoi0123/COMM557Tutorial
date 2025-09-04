@@ -10,9 +10,9 @@ Former TAs/contributers:
  - Julie Jiang
 
 Past repositories: 
-Fall 2024 - https://github.com/EunCheolChoi0123/COMM557Tutorial/tree/2024-Fall
-Fall 2023 - https://github.com/EunCheolChoi0123/COMM557Tutorial/tree/2023-Fall
-Spring 2023 - https://github.com/herbertfreeze/COMM557
+Fall 2024 - https://github.com/EunCheolChoi0123/COMM557Tutorial/tree/2024-Fall  
+Fall 2023 - https://github.com/EunCheolChoi0123/COMM557Tutorial/tree/2023-Fall  
+Spring 2023 - https://github.com/herbertfreeze/COMM557  
 Spring 2022 - https://github.com/echen102/COMM599 
 
 ## Fall 2025 Setup 
@@ -25,5 +25,8 @@ Spring 2022 - https://github.com/echen102/COMM599
 - https://colab.research.google.com/drive/172g1iuYfTbKFhKuhPJHt1us1EAPJazUx?usp=sharing
 - https://colab.research.google.com/drive/1cbrKLErdEKpiCIvb9vDe2Q2gyKoeH6q5?usp=sharing
 
-### Tutorial 1 Analyzing and Visualizing Networks with 'networkx'
+### Tutorial 1 Analyzing and Visualizing Networks with 'networkx' (1)
 - NetworkX: https://colab.research.google.com/drive/1VRc12oONWS7uVMEjEGr4aqES0hd7VeCP#scrollTo=a06v5TdW5USJ
+
+### Tutorial 2 Analyzing and Visualizing Networks with 'networkx' (2)
+- Network Measures: [https://colab.research.google.com/drive/1VRc12oONWS7uVMEjEGr4aqES0hd7VeCP#scrollTo=a06v5TdW5USJ](https://colab.research.google.com/drive/1faOAq6B_JhE1nADv55uSycM6Z3r4qeNa?usp=sharing)
