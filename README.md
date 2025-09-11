@@ -31,6 +31,15 @@ Spring 2022 - https://github.com/echen102/COMM599
 ### Tutorial 2 Analyzing and Visualizing Networks with 'networkx' (2)
 - Network Measures: [https://colab.research.google.com/drive/1VRc12oONWS7uVMEjEGr4aqES0hd7VeCP#scrollTo=a06v5TdW5USJ](https://colab.research.google.com/drive/1faOAq6B_JhE1nADv55uSycM6Z3r4qeNa?usp=sharing)
 
+### Tutorial Gephi
+- Les Miserables file derived from https://github.com/gephi/gephi/wiki/Datasets
+- Airlines-sample file derived from https://github.com/gephi/gephi.github.io/tree/master/datasets  
+
+Resource:
+- Gephi Tutorials: https://gephi.org/users/
+- Gephi Datasets: https://github.com/gephi/gephi/wiki/Datasets
+- Gephi Wiki: https://github.com/gephi/gephi/wiki/
+
 ### Tutorial 3 Reddit Scraper & Analyzing Reddit Networks
 - Reddit Scraper: [https://colab.research.google.com/drive/15g4wbv4-J_fIUbI8TZ3QqNYBokMHzD0p?usp=sharing](https://colab.research.google.com/drive/15g4wbv4-J_fIUbI8TZ3QqNYBokMHzD0p?usp=sharing)
 - Analyze networks: [https://colab.research.google.com/drive/1LpA_tMeJpusUmbIuESwSQ_l3awEqFmjj?usp=sharing](https://colab.research.google.com/drive/1LpA_tMeJpusUmbIuESwSQ_l3awEqFmjj?usp=sharing)
