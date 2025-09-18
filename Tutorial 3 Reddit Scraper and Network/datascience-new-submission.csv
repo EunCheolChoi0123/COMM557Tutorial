@@ -1,0 +1,111 @@
+id,author,created_utc,num_comments,permalink,subreddit,title,selftext,score,upvote_ratio,url,over_18,is_self,is_original_content
+1ne37bs,ciaoshescu,1757578723.0,5,/r/datascience/comments/1ne37bs/looking_for_recent_research_on_explainable_ai_xai/,datascience,Looking for recent research on explainable AI (XAI),I'd love to get some papers on the latest advancements on explainable AI (XAI). I'm looking for papers that are at most 2-3 years old and had an impact. Thanks!,5,0.73,https://www.reddit.com/r/datascience/comments/1ne37bs/looking_for_recent_research_on_explainable_ai_xai/,False,True,False
+1ne1d5t,ButtFlannel69,1757571506.0,1,/r/datascience/comments/1ne1d5t/collaborating_with_data_teams/,datascience,Collaborating with data teams,,1,1.0,/r/ProductManagement/comments/1nd6p8o/collaborating_with_data_teams/,False,False,False
+1nd94cy,ThomasAger,1757494955.0,0,/r/datascience/comments/1nd94cy/smile_its_my_first_open_source_project/,datascience,(: Smile! It’s my first open source project,,2,0.55,/r/opensource/comments/1nd946a/smile_its_my_first_open_source_project/,False,False,False
+1ncmcgf,Factitious_Character,1757432468.0,19,/r/datascience/comments/1ncmcgf/pytorch_lightning_vs_pytorch/,datascience,Pytorch lightning vs pytorch,"Today at work, i was criticized by a colleague for implementing my training script in pytorch instead of pytorch lightning. His rationale was that the same thing could've been done in less code using lightning, and more code means more documentation and explaining to do. I havent familiarized myself with pytorch lightning yet so im not sure if this is fair criticism, or something i should take with a grain of salt. I do intend to read the lightning docs soon but im just thinking about this for my own learning. Any thoughts?",60,0.94,https://www.reddit.com/r/datascience/comments/1ncmcgf/pytorch_lightning_vs_pytorch/,False,True,False
+1nc93qq,bingbong_sempai,1757390645.0,14,/r/datascience/comments/1nc93qq/i_built_a_card_recommender_for_edh_decks/,datascience,I built a card recommender for EDH decks,"Hi guys! I built a simple card recommender system for the EDH format of Magic the Gathering. Unlike EDHREC which suggests cards based on overall popularity, this analyzes your full decklist and recommends cards based on similar decks.
+
+Deck similarity is computed as the sum of idf weights of shared cards. It then shows the top 100 cards from similar decks that aren't already in your decklist. It's simple but will usually give more relevant suggestions for your deck.
+
+Try it [here](https://huggingface.co/spaces/bingbong-sempai/edhrec-at-home): (Archidekt links only)
+
+Would love to hear feedback!",20,0.92,https://www.reddit.com/r/datascience/comments/1nc93qq/i_built_a_card_recommender_for_edh_decks/,False,True,False
+1nbxzs0,samushusband,1757361243.0,8,/r/datascience/comments/1nbxzs0/analysing_priority_zones_in_my_area_with/,datascience,Analysing Priority zones in my Area with unprecise home adresses,"hello, My project analyzes whether given addresses fall inside ""Quartiers Prioritaires de la Politique de la Ville ""(QPV). It uses a GeoJSON file of QPV boundaries(available on the gorvernment website) and a geocoding service (Nominatim/OSM) to convert addresses into geographic coordinates. Each address is then checked with GeoPandas + Shapely to determine if its coordinates lie within any QPV polygon. The program can process one or multiple addresses, returning results that indicate whether each is located inside or outside a QPV, along with the corresponding zone name when available. This tool can be extended to handle CSV databases, produce visualizations on maps, or integrate into larger urban policy analysis workflows. "" 
+
+BUUUT . 
+
+here is the ultimate problem of this project , Home addresses in my area (Martinique) are notoriously unreliable if you dont know the way and google maps or Nominatim cant pinpoint most of the places in order to be converted to coordinates to say whether or not the person who gave the adress is in a QPV or not.  when i use my python script on adresses of the main land like paris and the like it works just fine but our little island isnt as well defined in terms of urban planning. 
+
+can someone please help me to find a way to get all the streets data into coordinates and make them match with the polygon of the QPV areas ? thank you in advance",11,0.84,https://www.reddit.com/r/datascience/comments/1nbxzs0/analysing_priority_zones_in_my_area_with/,False,True,False
+1nbdtct,AutoModerator,1757304098.0,21,/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/,datascience,"Weekly Entering & Transitioning - Thread 08 Sep, 2025 - 15 Sep, 2025"," 
+
+Welcome to this week's entering & transitioning thread! This thread is for any questions about getting started, studying, or transitioning into the data science field. Topics include:
+
+* Learning resources (e.g. books, tutorials, videos)
+* Traditional education (e.g. schools, degrees, electives)
+* Alternative education (e.g. online courses, bootcamps)
+* Job search questions (e.g. resumes, applying, career prospects)
+* Elementary questions (e.g. where to start, what next)
+
+While you wait for answers from the community, check out the [FAQ](https://www.reddit.com/r/datascience/wiki/frequently-asked-questions) and Resources pages on our wiki. You can also search for answers in [past weekly threads](https://www.reddit.com/r/datascience/search?q=weekly%20thread&restrict_sr=1&sort=new).",10,1.0,https://www.reddit.com/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/,False,True,False
+1naptuq,mutlu_simsek,1757241077.0,2,/r/datascience/comments/1naptuq/perpetual_ml_suite_now_live_on_the_snowflake/,datascience,🚀 Perpetual ML Suite: Now Live on the Snowflake Marketplace!,,1,0.6,/r/snowflake/comments/1n84pfn/perpetual_ml_suite_now_live_on_the_snowflake/,False,False,False
+1nac35j,metalvendetta,1757196044.0,12,/r/datascience/comments/1nac35j/how_to_evaluate_data_transformations/,datascience,How to evaluate data transformations?,"There are several well-established benchmarks for text-to-SQL tasks like BIRD, Spider, and WikiSQL. However, I'm working on a data transformation system that handles per-row transformations with contextual understanding of the input data.
+
+The challenge is that most existing benchmarks focus on either:
+
+* Pure SQL generation (BIRD, Spider)
+* Simple data cleaning tasks
+* Basic ETL operations
+
+But what I'm looking for are benchmarks that test:
+
+* Complex multi-step data transformations
+* Context-aware operations (where the same instruction means different things based on data context)
+* Cross-column reasoning and relationships
+* Domain-specific transformations that require understanding the semantic meaning of data
+
+  
+Has anyone come across benchmarks or datasets that test these more sophisticated data transformation capabilities?
+
+",1,0.6,https://www.reddit.com/r/datascience/comments/1nac35j/how_to_evaluate_data_transformations/,False,True,False
+1na6x3q,Rockingtits,1757183259.0,32,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/,datascience,Help me evaluate a new job offer - Stay or go?,"Hi all, 
+
+I'm having a really hard time deciding whether or not to take an offer I've recently received, would really appreciate some advice and a sense check. For context I generally feel my current role is comfortable but i'm starting to plateau after the first year, i'm also in the process of buying my dream house just to complicate things.
+
+### **Current Role**
+
+##### The Good
+
+- I am early 30's and have 4 years of experience as a full stack DS but am currently employed as an ML Eng for the last year. 
+- My current role is effectively a senior/lead MLE in a small team (me + 3 DS) and I have loads of autonomy in how we do things and I get to lead my own  Gen AI projects with small squads as I'm the only one with experience in this domain. 
+- I also get to straddle DS and MLE as much or as little as I want to in other projects, which suits my interests and background. 
+- We have some interesting projects including one I'm leading. I think I have around 6 months of cool work to do where I can personally make an impact. 
+- My work life balance is amazing, I'm not stressed at work at all and I can learn at my own pace. 
+- Effectively remote, go into the office 1 or 2 times per month for meetings. It's 1.5 hours away but work pay for my travel. 
+- Can push for a senior or principal title and will likely get it in the next ~6 months. 
+
+##### The Bad
+
+- The main drawbacks here are that I don't have senior technical mentors, my direct boss has good soft skills but I have nothing to learn from him technically. He's also quite chaotic, so we are always shifting priorities etc. 
+- It's a brand new team so we are constantly hitting blockers in terms of processes, integration of our projects and office politics. 
+- Being a legacy insurer, innovation is really hard and momentum needed to shift opinions is huge. 
+- Fundamentally data quality is very poor and this won't change in my tenure. 
+- Essentially in an echo chamber, I'm bringing most of the ideas and solutions to the table in the team which potentially isn't great at this stage in my career.
+- It's not perfect and I'd have to leave at some point anyway. 
+
+
+##### Comp
+- Total comp including bonus and generous pension is £84K
+
+
+### **New Job** AI Engineer
+
+##### The Good
+- Very cool AI consultancy startup, 2 years old, ~80 technical staff and growing rapidly, already profitable with a revenue of £1mill per month and partnership with Open AI.
+- Lots of interesting projects with cool clients. The founders' mantra is ""cool projects, in production"" and they have some genuinely interesting case studies. 
+- Some projects are genuinely cutting edge and they claim to have a nice balance between R&D and delivery. 
+- Lots of technical staff to learn from, should be good for my growth. 
+- Opportunity to work internationally in the future, the are opening offices in Australia now and eventually the US. 
+
+
+##### The Bad
+
+- Pigeon holing myself into AI/Agents/LLMs. No trad ML, may lose some of my very rounded skill set.
+- Although it's customer facing, it sounds like the role is very delivery heavy and I'd essentially be smashing out code or researching all day with less soft skill development.
+- Slightly worried about work culture and work life balance, this could end up being a meat grinder. 
+- I have no experience of start ups or start up culture at all.
+- Less job security as its a startup. 
+- It's mostly based in London (5 hours round trip!) and I would need to travel down relatively frequently (expenses paid) for onboarding and establishing myself in the first few months, with that requirement tapering off slowly. 
+
+
+##### Comp
+
+- Total offer all in is £90K, I could try and negotiate for up to £95K based on their bandings. 
+- 36000 stock units, worthless until they sell though
+   
+
+
+Would love to know your thoughts!
+
+
+",14,0.75,https://www.reddit.com/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/,False,True,False

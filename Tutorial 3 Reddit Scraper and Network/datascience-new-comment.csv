@@ -1,0 +1,304 @@
+id,parent_id,submission_id,author,created_utc,body,score,permalink,is_submitter,subreddit
+ndlnhyf,t3_1ne37bs,1ne37bs,vornamemitd,1757579380.0,"This one will give you a solid starting point to pivot from - depending on what sort of ""AI"" you want to look under the hood: https://github.com/wangyongjie-ntu/Awesome-explainable-AI",5,/r/datascience/comments/1ne37bs/looking_for_recent_research_on_explainable_ai_xai/ndlnhyf/,False,datascience
+ndln0cp,t3_1ne37bs,1ne37bs,mydogismylawyer,1757579082.0,"I’m an MCA student who just started this September and I’m trying to get into data science. Right now I know some programming (C, little Python) and I’m building up my problem-solving skills.
+
+Do you have suggestions on what I should focus on first (Python, SQL, stats, ML basics, etc.) and how to start building small projects that are worth adding to a portfolio?",-6,/r/datascience/comments/1ne37bs/looking_for_recent_research_on_explainable_ai_xai/ndln0cp/,False,datascience
+ndls0gr,t1_ndlnhyf,1ne37bs,ciaoshescu,1757582057.0,"Oh yeah, that's a really good collection. It's super detailed! Thanks!",1,/r/datascience/comments/1ne37bs/looking_for_recent_research_on_explainable_ai_xai/ndls0gr/,True,datascience
+ndloszo,t1_ndln0cp,1ne37bs,fightitdude,1757580173.0,There is a dedicated thread you can use for this: https://old.reddit.com/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/,1,/r/datascience/comments/1ne37bs/looking_for_recent_research_on_explainable_ai_xai/ndloszo/,False,datascience
+ndlq8po,t1_ndloszo,1ne37bs,mydogismylawyer,1757581009.0,Thanks,1,/r/datascience/comments/1ne37bs/looking_for_recent_research_on_explainable_ai_xai/ndlq8po/,False,datascience
+ndlk5b2,t3_1ne1d5t,1ne1d5t,QianLu,1757577368.0,"I've definitely been looped in way too late and pretty much told ""number nerd, analyze this stuff."" Takes about 30 minutes to find some experiment breaking thing that means the whole thing needs to be thrown in the trash and redone, but ofc they don't want to hear that because they've been working on it for months but simultaneously never bothered to give anyone on the analytics/DS side a heads up.
+
+Still, I can think of at least two examples where I was brought in crazy early, like the idea for a proposal was still on the back of a napkin and leadership hadn't even signed off and given budget to it. Essentially there is a meeting a week for 2 months before it even gets off the ground that I don't need to be a part of, and by the time it might actually require me I honestly don't care anymore.
+
+Although I'm not sure how it gets implemented (in terms of processes, company culture, political capital required, pushback when people don't follow it), the data team needs to be viewed as an equal partner instead of ticket takers or some people who just do what product tells them to do. That includes data leadership being willing to tell product ""we're not doing that because it's stupid or because your timeline is insane or because there are actual things that need to be done.""",1,/r/datascience/comments/1ne1d5t/collaborating_with_data_teams/ndlk5b2/,False,datascience
+nda7b5y,t3_1ncmcgf,1ncmcgf,Accurate-Usual8839,1757432892.0,"Stupid colleague. Lightning is fine. Pytorch is fine. Lightning removes some boilerplate, but expects you to refactor your code and color in the lines. If you need to color outside the lines you should use native pytorch. I personally don't use lightning anymore since codex/claude makes implementing lightning features really easy in native pytorch, and its more explicit. Lightning has a ton of magic (stuff that happens that you don't see or understand).",75,/r/datascience/comments/1ncmcgf/pytorch_lightning_vs_pytorch/nda7b5y/,False,datascience
+ndabntw,t3_1ncmcgf,1ncmcgf,koolaidman123,1757434129.0,"does your workplace use pytorch lightning by default for training? if so then just follow the standard
+
+if not, just do whatevers easiest",18,/r/datascience/comments/1ncmcgf/pytorch_lightning_vs_pytorch/ndabntw/,False,datascience
+ndbibmf,t3_1ncmcgf,1ncmcgf,lakeland_nz,1757446301.0,"I think your colleague went too far but they do have something of a point. 
+
+Lightning will allow you to do the same job in less code.  That, as your colleague said, is more maintainable.  It’s easy to pick the tools you are familiar with rather than adapt as new tools emerge.  
+
+It’s easy to take your colleague’s point too far.  I remember a project where my predecessor had used Haskell because it was perfect for the job.  Perhaps it was, but we didn’t use Haskell anywhere else so the time savings were overshadowed by the time refamiliarising myself.",7,/r/datascience/comments/1ncmcgf/pytorch_lightning_vs_pytorch/ndbibmf/,False,datascience
+ndc5edp,t3_1ncmcgf,1ncmcgf,Drakkur,1757452870.0,"Post PyTorch 2.0 is relatively easy and it becomes trivial using things like Ray (Data, Train, Tune). 
+
+I never use it outside of torchmetrics or if a particular framework is built on top of it. 
+
+If I had your colleague I’d ask if they would like to standardize the entire team’s code on lightning. Then hand them your code to refactor and say you would gladly use lightning for all future projects.",7,/r/datascience/comments/1ncmcgf/pytorch_lightning_vs_pytorch/ndc5edp/,False,datascience
+ndegke7,t3_1ncmcgf,1ncmcgf,Jorrissss,1757484323.0,"How much heavy lifting is ""criticized"" doing? Like did they suggest using lightning, and gave their rationale? Based on this thread I feel like people think you were berated.",1,/r/datascience/comments/1ncmcgf/pytorch_lightning_vs_pytorch/ndegke7/,False,datascience
+ndfr82h,t3_1ncmcgf,1ncmcgf,codechisel,1757508040.0,Sounds like he's using you to brag about his knowledge of pytorch lightening.  I'd simply thank him for the suggestion and tell him you really appreciate his input. Be kind and charitable.  It'll pay dividends later.,1,/r/datascience/comments/1ncmcgf/pytorch_lightning_vs_pytorch/ndfr82h/,False,datascience
+ndjpl9b,t3_1ncmcgf,1ncmcgf,telperion101,1757549137.0,You know context is everything. We often conflate criticism and critiques. I’m not saying you did this here. When reading this I hear myself spiraling and thinking of someone made the former or the latter. I would take it as a learning opportunity. That said they best be using lightening next time you see their repos.,1,/r/datascience/comments/1ncmcgf/pytorch_lightning_vs_pytorch/ndjpl9b/,False,datascience
+nddadev,t3_1ncmcgf,1ncmcgf,oddoud,1757466659.0,"Would his feedback affect your performance review? If not, just take it with a grain of salt, unless the team actually needs to standardize the codebase on lighiting.",0,/r/datascience/comments/1ncmcgf/pytorch_lightning_vs_pytorch/nddadev/,False,datascience
+ndb8xwf,t3_1ncmcgf,1ncmcgf,ddofer,1757443590.0,Keras is better,-15,/r/datascience/comments/1ncmcgf/pytorch_lightning_vs_pytorch/ndb8xwf/,False,datascience
+ndadufe,t1_nda7b5y,1ncmcgf,TserriednichThe4th,1757434764.0,"If you need to color outside the lines in pytorch lightning, you easily can. At least that was the case for me a few years ago. 
+
+And from what I can tell from talking to their folks, the API is relatively stable from now on. They are mostly focused on making distributed training and pre training a lot easier (as of 3 months ago at least).",17,/r/datascience/comments/1ncmcgf/pytorch_lightning_vs_pytorch/ndadufe/,False,datascience
+ndac9mx,t1_ndabntw,1ncmcgf,Factitious_Character,1757434307.0,Not really. I used pytorch in a previous project and it was fine. Thought i'd reuse and refactor some of the utils.,5,/r/datascience/comments/1ncmcgf/pytorch_lightning_vs_pytorch/ndac9mx/,True,datascience
+ndfcz0o,t1_ndegke7,1ncmcgf,Factitious_Character,1757502491.0,"In my opinion, not much. But he is more experienced than me at software engineering. His rationale makes sense: lightning reduces the amount of code we need to write, which also reduces the amount of explanation, documentation and testing. I wouldnt call it berating. More like mockery.
+
+But this made me think: is it truly best practice to avoid using vanilla pytorch for production environments?",1,/r/datascience/comments/1ncmcgf/pytorch_lightning_vs_pytorch/ndfcz0o/,True,datascience
+ndc2f5r,t1_ndb8xwf,1ncmcgf,WingedTorch,1757451970.0,lol,5,/r/datascience/comments/1ncmcgf/pytorch_lightning_vs_pytorch/ndc2f5r/,False,datascience
+ndax2f0,t1_ndadufe,1ncmcgf,Accurate-Usual8839,1757440204.0,"You can, but it'll be harder than just using raw pytorch. Why use many tool when few do trick?",3,/r/datascience/comments/1ncmcgf/pytorch_lightning_vs_pytorch/ndax2f0/,False,datascience
+ndfrwi9,t1_ndfcz0o,1ncmcgf,venustrapsflies,1757508274.0,"I would generally say it is preferable to use abstractions of external libraries instead of boilerplate in both dev and prod environments. Not that one should be dogmatic about these things, but why implement a training loop by hand every time when there's a method to do it for you? Of course that supposes the existence of a well-maintained and supported library, but lightning generally fits that bill. The code you write in it will generally be specific to your task rather than recreating boilerplate used in most.
+
+If you're debugging a problem, you'd like to be able to not worry about the possibility that you made a simple mistake in the training loop. It may be easy enough to write one, but it bloats the codebase and increases the dimension of error space.
+
+That's not to defend being rude about these things, although I can also empathize with the frustration a senior can feel as he/she has probably had to spend a lot of time dealing with the fallout of poor design decisions. Try not to take it personally and just take the valuable part of the feedback (which it seems like you're doing with this post).",1,/r/datascience/comments/1ncmcgf/pytorch_lightning_vs_pytorch/ndfrwi9/,False,datascience
+ndb87r9,t1_ndax2f0,1ncmcgf,TserriednichThe4th,1757443381.0,"When I used pytorch lightning for my custom modules, using it cut my development time a lot.
+
+Modifying a few lines in lightning is a more time consuming than orchestrating it all from scratch in pytorch.
+
+
+Again, i havent used lightning (or torch for that matter) in a couple of years, so I might be out of date.
+
+
+Just answering the question: it is not many tools. It is just one augmented one. Maybe lightning has added so much more under the hood that unbundling that might be difficult. This could be the case if you are developing your own optimizer and schedule. But if you are testing an extended architecture, lightning, again at least to me, seems like a good starting point",3,/r/datascience/comments/1ncmcgf/pytorch_lightning_vs_pytorch/ndb87r9/,False,datascience
+nd85koo,t3_1nc93qq,1nc93qq,vonWitzleben,1757402748.0,"Nice job. How did you get the deck database working, though? ",6,/r/datascience/comments/1nc93qq/i_built_a_card_recommender_for_edh_decks/nd85koo/,False,datascience
+ndanh61,t3_1nc93qq,1nc93qq,CIA-chat-bot,1757437534.0,"I built something similar, but you can actually choose from different formats, standard, modern commander. I used something similar to apriori.",2,/r/datascience/comments/1nc93qq/i_built_a_card_recommender_for_edh_decks/ndanh61/,False,datascience
+ndbkbig,t3_1nc93qq,1nc93qq,imoutidi,1757446864.0,That looks really cool. So it decides only based on decks? Not on any other metric?,2,/r/datascience/comments/1nc93qq/i_built_a_card_recommender_for_edh_decks/ndbkbig/,False,datascience
+ndhvyvc,t3_1nc93qq,1nc93qq,iwannabeunknown3,1757530329.0,I love passion projects like this. I will check it out,2,/r/datascience/comments/1nc93qq/i_built_a_card_recommender_for_edh_decks/ndhvyvc/,False,datascience
+ndi450i,t3_1nc93qq,1nc93qq,TheRealBaele,1757532566.0,It would be damn cool if you expanded this to perform Monte Carlo simulations on the deck vs other decks,2,/r/datascience/comments/1nc93qq/i_built_a_card_recommender_for_edh_decks/ndi450i/,False,datascience
+nd862gt,t1_nd85koo,1nc93qq,bingbong_sempai,1757403051.0,"It's not really a database, just a collection of json files.  
+I use polars to read the file corresponding to the input commander.",3,/r/datascience/comments/1nc93qq/i_built_a_card_recommender_for_edh_decks/nd862gt/,True,datascience
+ndcgkha,t1_ndanh61,1nc93qq,bingbong_sempai,1757456423.0,That sounds cool! Can you share it?,1,/r/datascience/comments/1nc93qq/i_built_a_card_recommender_for_edh_decks/ndcgkha/,True,datascience
+ndcehyp,t1_ndbkbig,1nc93qq,bingbong_sempai,1757455737.0,It sorta cards by deck similarity then idf weighing. So recs are the 100 most unique cards from the most similar decks,1,/r/datascience/comments/1nc93qq/i_built_a_card_recommender_for_edh_decks/ndcehyp/,True,datascience
+ndj4sgr,t1_ndhvyvc,1nc93qq,bingbong_sempai,1757542465.0,Thanks!,1,/r/datascience/comments/1nc93qq/i_built_a_card_recommender_for_edh_decks/ndj4sgr/,True,datascience
+ndkzs9i,t1_ndi450i,1nc93qq,bingbong_sempai,1757566553.0,Game simulation might be too hard. I have a different project where I did curve out simulations for land and draw counts though!,1,/r/datascience/comments/1nc93qq/i_built_a_card_recommender_for_edh_decks/ndkzs9i/,True,datascience
+nd86ykw,t1_nd862gt,1nc93qq,vonWitzleben,1757403597.0,"Sure, but did you scrape them manually off of sites like Archidekt and Moxfield or did you use some preexisting data set? I had the idea to build something exactly like this for European Highlander, but I was ultimately too lazy to write a scraper for Moxfield.",3,/r/datascience/comments/1nc93qq/i_built_a_card_recommender_for_edh_decks/nd86ykw/,False,datascience
+ndclfoa,t1_ndcgkha,1nc93qq,CIA-chat-bot,1757458075.0,"Yes, DM me your GitHub username.",1,/r/datascience/comments/1nc93qq/i_built_a_card_recommender_for_edh_decks/ndclfoa/,False,datascience
+nd87ew8,t1_nd86ykw,1nc93qq,bingbong_sempai,1757403874.0,Yeah I had to scrape the data manually. That was the hard part tbh 😅,4,/r/datascience/comments/1nc93qq/i_built_a_card_recommender_for_edh_decks/nd87ew8/,True,datascience
+ndcqwre,t1_ndclfoa,1nc93qq,bingbong_sempai,1757459916.0,It's bingbong-sempai :D,1,/r/datascience/comments/1nc93qq/i_built_a_card_recommender_for_edh_decks/ndcqwre/,True,datascience
+nd5spm4,t3_1nbxzs0,1nbxzs0,NYC_Bus_Driver,1757368667.0,"I've worked with a LOT of address data. Not on your island, but here are some things that have helped me. 
+
+1. [Google Address Validation API](https://developers.google.com/maps/documentation/address-validation/overview) (or other Address Validation API). This can help standardize your address. Google provides some amount of free API calls (I think it's $200/month?).
+2. [Libpostal](https://github.com/openvenues/libpostal) which can parse addresses into components with remarkably high accuracy. If you can reliably transform your addresses into one that will work once you have them parsed, this will be a god send. It's also great for semantic address matching.",6,/r/datascience/comments/1nbxzs0/analysing_priority_zones_in_my_area_with/nd5spm4/,False,datascience
+nd7dthh,t3_1nbxzs0,1nbxzs0,dirtydan1114,1757388687.0,"QGIS is an open-source GIS software that has built in Geocoding functions. If you load your table with addresses in there, you can get hits on a lot of them.
+It's a poor man's ArcGIS, but can do a lot of the same things. 
+
+One nice thing with using this type of program is that you can connect it directly to your database so you don't have to do a whole lot of moving files around. Also, you can move the points yourself if you see that the coordinates are not exactly right.
+
+Would caution you that when using geocoders, you need to pay attention to the type of match you get and the ""score"" of the match. Sometimes the ""matches"" you get are not a street address, but rather the county, or something else broad
+
+Edit: PostGIS functions would also cover any location based checks you would need once you get your address points worked out.",2,/r/datascience/comments/1nbxzs0/analysing_priority_zones_in_my_area_with/nd7dthh/,False,datascience
+nd5ti1u,t3_1nbxzs0,1nbxzs0,tongEntong,1757368920.0,Wow you’re good,-2,/r/datascience/comments/1nbxzs0/analysing_priority_zones_in_my_area_with/nd5ti1u/,False,datascience
+nd5tiom,t3_1nbxzs0,1nbxzs0,tongEntong,1757368926.0,Wow you’re good,-2,/r/datascience/comments/1nbxzs0/analysing_priority_zones_in_my_area_with/nd5tiom/,False,datascience
+nd5yvag,t3_1nbxzs0,1nbxzs0,tongEntong,1757370709.0,Wow you’re good. 👍,-3,/r/datascience/comments/1nbxzs0/analysing_priority_zones_in_my_area_with/nd5yvag/,False,datascience
+nd6d5v1,t1_nd5spm4,1nbxzs0,samushusband,1757375707.0,thank you very much i will try that.,1,/r/datascience/comments/1nbxzs0/analysing_priority_zones_in_my_area_with/nd6d5v1/,True,datascience
+nde10dm,t1_nddw7mu,1nbxzs0,samushusband,1757476708.0,yea i checked and there isnt,1,/r/datascience/comments/1nbxzs0/analysing_priority_zones_in_my_area_with/nde10dm/,True,datascience
+nd4nd0h,t3_1nbdtct,1nbdtct,pippy64598,1757356394.0,I recently graduated with a DS major from a small liberal arts school and have been having pretty much no luck on 200+ DS/DA job apps. Is there any set of certificates/portfolio work that would move the needle employment-wise or is a bachelor's from a small non-STEM school pretty much never going to cut it on its own?,2,/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/nd4nd0h/,False,datascience
+nd40xwc,t3_1nbdtct,1nbdtct,Weary_Particular_963,1757349967.0,"Hi everyone, I’m starting my BS in data science (just graduated high school, so not transitioning from another field) and feeling a little uncertain. I love everything about data, from exploring it to visualizing it and using it to make predictions. I especially like making models and simulations to learn things. 
+
+My question is whether a degree in data science is a good idea for me. I’m mostly worried about getting a job, given how AI might advance in the next 4 years, along with other factors like outsourcing and the job market right now. When I look at some of the classes later in my major like advanced statistics, geocomputing, and machine learning it makes me super excited and I am genuinely interested in a career centered around data, modeling, and simulation, but I’m wondering if switching to something like engineering or even a hard science would be a better route to achieve this. I did a summer research internship in high school where I did some data analysis and visualization in the earth science field and quite liked it, but the scientific writing part was less interesting to me and there’s a ton of chaos in federal science jobs right now with all the cuts. 
+
+TLDR; stay in data science as a college freshman or switch to engineering / a hard science if I love data and numbers and want to do analysis, modeling, and simulation?
+
+Any advice is appreciated and thanks in advance!",1,/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/nd40xwc/,False,datascience
+nd60zc1,t3_1nbdtct,1nbdtct,fenrirbatdorf,1757371436.0,"I am an adult college student beginning my final year of a bachelor's in data science, and am trying to figure out a reliable plan for an entry level position that pays better than the warehouse/customer service work I was doing before returning to college. My college has focused the math/stats/computer science and analysis tools underneath of ML/AI, and I have gotten some hands on research experience via internships at my school and NIST, helping to build and analyze simple models using different data processing pipelines. I have enjoyed data science but really, I simply need any semi-related full time job that is in a field related to stats/machine learning/data science/data analysis, I'm not super picky. What job titles and job fields should I be spending my time looking in to save time applying to pointless ""AI data scientist"" Indeed job postings?
+
+Quick side note, I am taking full advantage of my school's career center but simply put, even my professors are struggling to find anyone hiring, and my school is very much intertwined with lots of ""too big to fail, always hiring"" firms.",1,/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/nd60zc1/,False,datascience
+nd7ulkb,t3_1nbdtct,1nbdtct,musicalfantasies69,1757396509.0,"Hey guys! As a data scientist 5 years deep in this field, are there any paid courses that you'd recommend to stay on top my skillset, especially learning geared more towards AI?",1,/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/nd7ulkb/,False,datascience
+nddj7wf,t3_1nbdtct,1nbdtct,CycoPie,1757469745.0,"I started my first semester of community college this fall, and have been researching careers and majors to focus on when I transfer. Ideally, for right now, I want to major in computer science to get a data science job in the future. Right now, my experience is very limited. I took a python class in high school, but failed the PCEP due to mainly lack of studying and motivation (in my personal opinion, the class wasn't taught well). So right now, I'm kinda mixed on where to even start this journey. I joined my CC's IT club, and have been receiving emails about career fairs- but my resume has nothing related to computer science or programming on it at all. I still want to take advantage of these opportunities, but would it be a waste being a complete newbie? Any advice is welcome",1,/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/nddj7wf/,False,datascience
+nddx7ds,t3_1nbdtct,1nbdtct,Bayesian1701,1757475089.0,I have a PhD in Statistics and about 4 years of professional experience. I’m thinking of pivoting into a more data science role. I’m decent at SQL but I haven’t used python in a while . I’m an R expert.  My classical stats knowledge is strong but I don’t have a ton of exposure to ML/AI. What are some ways to learn data science skills (particularly python and ML) that don’t assume I know nothing? ,1,/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/nddx7ds/,False,datascience
+ndh9cff,t3_1nbdtct,1nbdtct,i_did_dtascience,1757523982.0,I'm a Data Scientist and I'm curious to know your current favourite data-related(technical and non-technical) bloggers/vloggers that you give the max value for your time!!,1,/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/ndh9cff/,False,datascience
+ndkmqpa,t3_1nbdtct,1nbdtct,Maleficent-Studio590,1757560931.0,"anyone hear back from figma, shopify, microsoft, the trade desk, asana, databricks ds internship for 2026?
+
+i applied to all 3 weeks ago. only microsoft got back with an oa that i completed the next day and haven't heard back since",1,/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/ndkmqpa/,False,datascience
+ndlcmnt,t3_1nbdtct,1nbdtct,Nunuvin,1757573077.0,"I am a fullstack dev with big bias towards sql experience (2-5yrs total). Recently our team became ML team... No one knows anything about ML, so I am scrambling to learn it (Andrew Ngs lectures on yt, homl)\[any other suggestions, especially text and timeseries stuff?\].
+
+There is a second part, a big chunk of my coworkers are just in denial and giving up (I sent them kaggle tuts, they didnt even try). We got asked to poke around a dataset and see if there is something, but I feel they are not equipped for this with not much hope for improvement... All of my minor findings just got shot down with a consensus that we found nothing (I have a feeling that was the decision they made at the beginning)... Given the context I do get this feeling they really don't want this transition to succeed but I fear that then its end of the department. I do not feel like others are seeing it this way though.
+
+What is outlook for data sci if I survive this (I have BS in CS only)? or should I start fixing my resume?
+
+Have you dealt with such shit show, any tips?",1,/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/ndlcmnt/,False,datascience
+ndlq6h8,t3_1nbdtct,1nbdtct,mydogismylawyer,1757580972.0,"I’m just starting my MCA and thinking seriously about moving into data science. I’ve done a bit of C and Python but still feel like a beginner.
+
+From your experience, what should someone like me focus on first — coding practice, math/stats, SQL, or trying small ML projects? I don’t want to waste time going in the wrong order.",1,/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/ndlq6h8/,False,datascience
+nd9rp6o,t1_nd4nd0h,1nbdtct,NerdyMcDataNerd,1757428397.0,"**TLDR;** network and work hard to reduce deficiencies on your resume. Keep applying because the job market is kinda cooked.
+
+>bachelor's from a small non-STEM school pretty much never going to cut it on its own?
+
+The exact university/college you get the degree from is less important than the overall quality of the education and the school's department. Plenty of small schools with good departments. Another factor though is network quality. Ideally a school with a large network of alumni that work at high quality jobs makes **you** getting a job easier.
+
+All the above is not to say that you cannot break into the field. The job market is bonkers at the moment and 200+ applications might even be too few (years ago, that sentence would be crazy to write).
+
+There's a few things you should consider:
+
+* How is the quality of your current resume?
+   * Feel free to post an anonymized version here on Reddit.
+* Who is in your school's alumni network that you can reach out to?
+   * Who is not in your school's alumni network that you can reach out to?
+* If your work experience is deficient, how can you mitigate these deficiencies?
+   * Certificates of completion don't matter. Professional Cloud Certifications can matter for the right companies (i.e. consulting firms that want Data Science professionals to work with clients in the Cloud).
+   * Volunteering is not ideal, but real world volunteer projects can help. Open source contributions are one way. Here is another way: [https://www.statisticswithoutborders.org/](https://www.statisticswithoutborders.org/)",2,/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/nd9rp6o/,False,datascience
+nd9rrpu,t1_nd40xwc,1nbdtct,alpinecomet,1757428419.0,"You should ask yourself, do you care about where your equations come from? Is a model that predicts how to keep people scrolling on a Meta app for longer just as interesting to you as a model that predicts fluid dynamics or species distributions? Is it data science per se or is the science? That can help you narrow down which “science”! There’s a TON of very rigorous and high quality statistics and ML going in nearly every field of science. You shouldn’t limit yourself to a DS major if you feel excited about applications in a specific field.
+
+An MS, or PhD in a computational/statistical science can prepare you for a role in DS forward jobs better than a CS or DS major in some ways, depending. Consider physics, engineering, CS, Computational Social Sciences, Computational Ecology / Biology, even some of the most famous “data scientists” and statisticians are in Political Science or Anthropology. This is just to say, keep your mind open! What you get your degree in matters less than you think.
+
+I think in a world where these jobs become more competitive, domain knowledge of a specific kind is going to be way more valuable in a DS-forward role than being able to fit a LightGBM in 5 minutes.",1,/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/nd9rrpu/,False,datascience
+nd9szg7,t1_nd40xwc,1nbdtct,NerdyMcDataNerd,1757428776.0,"College really should be a mix of two things:
+
+1. Academic Interest.
+2. Feasibility of getting a good Career.
+
+Ideally, you want to find a balance between the two but **NEVER** sacrifice the second. You can certainly get a great job doing analysis, modeling, and simulation with a BS in Data Science. You can also do the same with a BS in Computer Engineering, Electrical Engineering, Computer Science, Mathematics, Statistics, etc.
+
+Since you're a freshman, one way to figure out which direction you want to go is to focus on general education requirement courses that cover these areas of Engineering, Mathematics, and Data Science. Journal which aspects of each that you like and dislike. By the end of Freshman year, you'll have a much better idea of which Majors and Minors you want to declare for the rest of college.
+
+You should also be networking with as many Professors (go to Office Hours and email them) and Upper-year students (go to School Club events) as possible. Listen to people who have been where you have and those who have had alternate experiences.",1,/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/nd9szg7/,False,datascience
+nd7lfif,t1_nd60zc1,1nbdtct,pippy64598,1757391923.0,Also wondering this!,1,/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/nd7lfif/,False,datascience
+nd7pf55,t1_nd60zc1,1nbdtct,EstablishmentHead569,1757393814.0,Maybe look for data analyst / dash-boarding roles before DS/DE/MLE or any AI related roles,1,/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/nd7pf55/,False,datascience
+nd9pb8i,t1_nd7ulkb,1nbdtct,NerdyMcDataNerd,1757427687.0,Paid? Nah. I got you with some free courses right here: [https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html](https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html),1,/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/nd9pb8i/,False,datascience
+ndfonlo,t1_nddj7wf,1nbdtct,NerdyMcDataNerd,1757507144.0,"Don't feel too bad about not getting the PCEP. It is not even remotely an important professional certification for the field of Data Science.
+
+>I joined my CC's IT club, and have been receiving emails about career fairs- but my resume has nothing related to computer science or programming on it at all.
+
+Keep on going to your school's IT Club events. Make some friends while you're there and start building scalable projects together. Or even build your own projects and talk about them with your fellow club members. Get feedback from them, improve the projects, and put that as experience on the resume. It would be even better if the projects are Web or Mobile applications that students at your college can use. That will make your resume look much better.
+
+Overall, just put yourself out there to get that experience.",2,/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/ndfonlo/,False,datascience
+ndfq047,t1_nddx7ds,1nbdtct,NerdyMcDataNerd,1757507618.0,"Honestly, I'm pretty sure that there is a company that would hire you just as is. A Statistician with a PhD and 4 years of experience is an invaluable asset in this field. I would have hated to compete with you for my first job in this field, lol!
+
+But to maximize your chances, you really should refresh your Python knowledge. The ""An Introduction to Statistical Learning, with Applications in Python"" book and course would be a nice resource for you:
+
+[https://www.statlearning.com/online-courses](https://www.statlearning.com/online-courses)
+
+You've probably read or seen the R version before.
+
+I also recommend this course in which you are expected to deploy a machine learning model in the end:
+
+[https://github.com/DataTalksClub/machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp)
+
+You don't have to register for it. You can follow along with the published learning material in the GitHub repo.",1,/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/ndfq047/,False,datascience
+nd94viz,t1_nd7pf55,1nbdtct,fenrirbatdorf,1757420975.0,"Gotcha, I think someone else at some point told me to start with data analyst and business insights related roles first, I will stick to that. Thanks",1,/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/nd94viz/,False,datascience
+ndkcqfm,t1_ndfq047,1nbdtct,Bayesian1701,1757557201.0,This is super helpful. I’ve heard of the statistical learning but didn’t think to look for a course. The other course looks interesting to. I have a job but I hate it. I have been aggressively looking for a month (probably sent out 100+ applications) and had ChatGPT tailor my resume but no responses yet. ,2,/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/ndkcqfm/,False,datascience
+ndme6lc,t1_ndkcqfm,1nbdtct,NerdyMcDataNerd,1757592758.0,"Glad to be of help!
+
+What's your current job? That could possibly affect the ease of your transition. Also, there are people on this sub that can take a glance at your (anonymized) resume if you want some additional review.
+
+Finally, there's one thing that I said below that applies here:
+
+""The job market is bonkers at the moment and 200+ applications might even be too few (years ago, that sentence would be crazy to write).""
+
+For example, I was lurking in the Biostatistics subreddit earlier this week and the people in there are losing their minds about obtaining jobs.",1,/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/ndme6lc/,False,datascience
+ncza1d7,t3_1naptuq,1naptuq,Electronic-Tie5120,1757281341.0,ignore all threads with an emoji in the title. try linkedin mate.,2,/r/datascience/comments/1naptuq/perpetual_ml_suite_now_live_on_the_snowflake/ncza1d7/,False,datascience
+ndc3rgc,t3_1naptuq,1naptuq,Helpful_ruben,1757452373.0,Error generating reply.,1,/r/datascience/comments/1naptuq/perpetual_ml_suite_now_live_on_the_snowflake/ndc3rgc/,False,datascience
+ncx5p5l,t3_1nac35j,1nac35j,Mobile_Scientist1310,1757259515.0,Following!,2,/r/datascience/comments/1nac35j/how_to_evaluate_data_transformations/ncx5p5l/,False,datascience
+ncxgkn8,t3_1nac35j,1nac35j,webbed_feets,1757262745.0,Are you looking for new metrics for assessing transformations or a library that lets you track how data transformations affect predictive accuracy?,2,/r/datascience/comments/1nac35j/how_to_evaluate_data_transformations/ncxgkn8/,False,datascience
+ncy058j,t3_1nac35j,1nac35j,agp_praznat,1757268357.0,What are some concrete examples?,2,/r/datascience/comments/1nac35j/how_to_evaluate_data_transformations/ncy058j/,False,datascience
+nd1vfly,t3_1nac35j,1nac35j,No-Giraffe-4877,1757319843.0,👍,2,/r/datascience/comments/1nac35j/how_to_evaluate_data_transformations/nd1vfly/,False,datascience
+nd7uxba,t3_1nac35j,1nac35j,DFW_BjornFree,1757396688.0,"It sounds like you're significantly overcomplicating apply functions and map functions. 
+
+
+Your post history suggests you're trying to solve problems that don't actually exist. We call those ID10 problems and they're user error related. ",2,/r/datascience/comments/1nac35j/how_to_evaluate_data_transformations/nd7uxba/,False,datascience
+nd9m0ou,t3_1nac35j,1nac35j,Delicious_Middle_191,1757426696.0,"If anyone's getting started with LLMs, I would reccomend watching this deatiled video on introduction to LLMs for absolute beginners, Give it a watch, It will be worth it [**https://youtu.be/Qqh2nSygcBg?si=io2lBxAqoUHYy-jS**](https://youtu.be/Qqh2nSygcBg?si=io2lBxAqoUHYy-jS)",0,/r/datascience/comments/1nac35j/how_to_evaluate_data_transformations/nd9m0ou/,False,datascience
+ncx5vas,t1_ncx5p5l,1nac35j,metalvendetta,1757259566.0,Are you solving in the same space? What specifically are you looking for?,1,/r/datascience/comments/1nac35j/how_to_evaluate_data_transformations/ncx5vas/,True,datascience
+ncxgr88,t1_ncxgkn8,1nac35j,metalvendetta,1757262798.0,"I’m looking for the first one, but the latter also sounds intriguing and I would use it. Do you have any pointers for me?",1,/r/datascience/comments/1nac35j/how_to_evaluate_data_transformations/ncxgr88/,True,datascience
+ncy14ba,t1_ncy058j,1nac35j,metalvendetta,1757268634.0,"One good example question to ask is regarding Data Anonymization.
+
+For example in a customers.csv, I want to anonymize personally identifiable information about women, such as names, addresses, phone numbers etc. In this case, undestanding the context about the row content is essential.
+
+Wrote such an example here:
+
+[https://github.com/vitalops/datatune/blob/main/examples/data\_anonymization.ipynb](https://github.com/vitalops/datatune/blob/main/examples/data_anonymization.ipynb)
+
+  
+I'm pretty sure a text-to-sql benchmark cannot evalute for such problems. I was looking for a better evaluation standard.",1,/r/datascience/comments/1nac35j/how_to_evaluate_data_transformations/ncy14ba/,True,datascience
+nczaxp2,t1_ncy058j,1nac35j,Helpful_ruben,1757281622.0,u/agp_praznat Error generating reply.,1,/r/datascience/comments/1nac35j/how_to_evaluate_data_transformations/nczaxp2/,False,datascience
+ncxgzx0,t1_ncxgr88,1nac35j,webbed_feets,1757262869.0,"Sorry, I don’t. I was just clarifying your question.",1,/r/datascience/comments/1nac35j/how_to_evaluate_data_transformations/ncxgzx0/,False,datascience
+ncs0ult,t3_1na6x3q,1na6x3q,WhatIsMyNamme,1757185232.0,"That round trip sounds fucking horrific, wfh is a huge factor for me so I guess that's why I would say not to do it. The increase in salary doesn't justify that long of a commute imo",22,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/ncs0ult/,False,datascience
+ncs7bon,t3_1na6x3q,1na6x3q,Single_Vacation427,1757187247.0,"I would wait for another opportunity. Moving to consultancy is risky because you are not really doing end-to-end and the impact is not seen once you leave. If you want to work at a company and lead your own projects, moving to consultancy is not a good move.
+
+I would stay and start looking for other opportunities, but only move when it makes sense. I think at your current position you are at risk of not having any type of mentor and you are the most senior technical person ... but you only have 4 years of experience. That's fine for a bit but not for long.
+
+Also, the switch makes no sense for little money difference but more hours, start-ups, and lots of commute and travel. You can get something better.",14,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/ncs7bon/,False,datascience
+ncvrlyk,t3_1na6x3q,1na6x3q,ghostofkilgore,1757240383.0,"This is a really personal thing, but I wouldn't touch a consultancy unless I was pretty desperate. I'm sure they'll give a great sales pitch, but I wouldn't want to work in one.",3,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/ncvrlyk/,False,datascience
+ncs2ywe,t3_1na6x3q,1na6x3q,Atleast-legal,1757185886.0,"Well- I was in similar situation. Not as cool job offers as yours , but question I asked. If I stayed back- what it would take me to move to new company, what I am actually after, what is my long term goal. How /what I am learning in my current jobs- does current job has that potential for my future trajectory. Does the new job is aligned with I want. 
+
+In my cases, I ended up staying for a year- with goal of completing a couple of interesting projects- target better roles, but got salary bumped up to the level of new job by negotiating with current employer.
+
+I would also say in your case, you have been here for four years, given the skills set you would developed in new jobs- you would be pretty good demand . 
+
+So fours year- if you feel still getting the kick, then worth thinking about staying. If you do stay ask for a raise.",3,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/ncs2ywe/,False,datascience
+ncs7zsl,t3_1na6x3q,1na6x3q,Bear4451,1757187456.0,"Thought you were describing me minus the new job offer… Tons of autonomy in the current role yet  feeling stuck due to no career growth / clear career ladder.
+
+I am however more interested in developing cool mini SaaS that I have in mind instead of working for someone else now. Will try to enjoy the stress-free environment while learning and experimenting with my own ideas.
+
+All the best to your journey regardless.",2,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/ncs7zsl/,False,datascience
+ncslqvj,t3_1na6x3q,1na6x3q,DubGrips,1757191726.0,"All that time adds up and you can't get it back. I'd want way more of a comp increase to deal with that.
+
+My main sense is that you want too much out of a role at once. You mention a small team with a lot of autonomy and room for growth, which can be amazing for actually building skills leading others, self starting in ambiguous environments, and working through implementation problems. Your boss might not be technical but they have convinced someone to give them enough budget to let your team operate in a way most teams cannot.
+
+You mention less technical growth in your current role but being pigeonholed in your next. You have to decide how much to focus on one area, but very late career full stack DS are really rare. People usually find a technical niche, move into management or leadership, or dramatically pivot into something else. I sort of am one of these types and I've had to decide to jump fully into Causal Inference and Experimentation after realizing I hated the engineering side of production ML projects.
+
+We can't help you answer all of these questions. I'd plot out the various growth options and have some honest reflection on how badly they could go and if you're fine living with that ""bad"" for the good.",2,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/ncslqvj/,False,datascience
+nctywi0,t3_1na6x3q,1na6x3q,optimization_ml,1757208817.0,Don’t do it. Comport is very hard to get and remote option is very good. You never know how the new place turns out. And the pay bump is insignificant to consider it.,2,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/nctywi0/,False,datascience
+ncrvmna,t3_1na6x3q,1na6x3q,Ok_Distance5305,1757183646.0,"If you have kids, want to settle down, and grow into a DS manager, stay. If you want more IC growth, high risk/ reward, then leave.",2,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/ncrvmna/,False,datascience
+ncsjydp,t3_1na6x3q,1na6x3q,DJ_Laaal,1757191171.0,"In the current climate, I’d personally be VERY skeptical of making a jump from a secure job, particularly to one to a barely established company (2 years is nothing). They might have cool and fun projects right now but you should assess how much future pipeline they have and how sticky their services are to their customers. Again, 2 years is not sufficient to gauge any of this. 
+
+I’d recommend staying put for next 6 months or so and keep building impactful stuff. To keep things interesting, build personal portfolio projects on the side in your spare time( your WLB seems good enough to afford you this). If you need more structured learning, look up and sign up for short term courses in your local uni that specialize in the area of your knowledge gap. Keep building. 
+
+Reassess in 6 months and repeat until you feel safe enough to leave on a more adventurous path without worrying about job security or market downturn. Currently, market is absolutely dog shit. Good luck!",1,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/ncsjydp/,False,datascience
+nct2yd1,t3_1na6x3q,1na6x3q,Flat-Information6709,1757197361.0,Sounds like a somewhat similar responsibility and experience as one of the guys on my team. I'm not certain what the market is in Europe right now but I'd keep looking if I were you. Here across the pond I'd pay £111K (what we'd call $150K) for that level of experience.  What you indicated your getting in pay is about entry level nowadays over here.  I worked at a fair big and will known tech company several years ago that was paying $125K recruiting from college plus stock.,1,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/nct2yd1/,False,datascience
+nctss1z,t3_1na6x3q,1na6x3q,Efficient_Role607,1757206538.0,"You’ve got a great setup right now with good balance, but the lack of mentorship is holding you back. The new role could give you that growth, but it also comes with big trade-offs, long travel, startup risk, and less balance. If the new offer was clearly better in both pay and stability, it’d be an easier call, but since it’s not, you might be better off holding your ground, getting that senior/principal bump, and keeping an eye out for something that gives you both growth and balance.",1,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/nctss1z/,False,datascience
+ncx52j1,t3_1na6x3q,1na6x3q,peterxsyd,1757259329.0,"Hi there, I reckon absolutely 100% go for the new job. Here's the reasoning:
+
+1. The change on its own will lead to things, and the insurer is never going to take you anywhere. 
+
+2. AI is more employable than ML, and you won't forget the fundamentals. Go with the industry wave.
+
+3. The client-heavy consulting stuff, is the soft-skills that won't be automated. You might be grinding it out, but at the same time, in a start up, there is so much change happening that you will be thrown new things all the time. This will support your growth.
+
+4. Only do it if you'll move to London. Data salaries there are banging, and there are lots of £150K + jobs.
+
+5. If you help them succeed, the stock isn't worthless, and the experience is highly valued by other startups.
+
+I reckon do that, focus on more full-stack ML and AI integration - learn some Typescript and Rust, and you'll be absolutely bees knees in like 2 years.
+
+I strongly recommend this than sitting with the insurer - that, despite what I imagine is a lot of market share, will gradually become redundant over the next 5-10 years through startups using AI to replace traditional human underwriting with automatic, on-the-spot assessment.
+
+I really highly recommend this from personal experience from almost exactly the same situation and it was the best decision. Feel free to reach out if you want more info. Cheers.",1,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/ncx52j1/,False,datascience
+ncy1noa,t3_1na6x3q,1na6x3q,agp_praznat,1757268783.0,"What do you mean exactly by ""data quality is very poor"" ? Is it blocker-level or more hindrance-level?",1,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/ncy1noa/,False,datascience
+nd0a40x,t3_1na6x3q,1na6x3q,According_Meal_387,1757293483.0,go,1,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/nd0a40x/,False,datascience
+nd5h6b0,t3_1na6x3q,1na6x3q,garden-snail,1757365102.0,"I would say the increase in salary doesn't justify the move, especially in the current unstable economy. I'd wait for a more significant salary jump if you want to move to something more cutting edge but potentially more unstable, so you can at least squirrel away funds your first few months in case layoffs come early. It's really grim out there!",1,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/nd5h6b0/,False,datascience
+nd7vin7,t3_1na6x3q,1na6x3q,Specialist-Dog6334,1757397012.0,"Your current role still has a lot of value, great balance, autonomy, and a clear path to a senior title soon. The new job is exciting but comes with startup risk, heavy travel, and less security for only a small pay bump. If you’re still learning and can negotiate a raise or mentorship opportunities where you are, it might be smarter to stay put while keeping an eye out for something that fits better long term.",1,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/nd7vin7/,False,datascience
+ndeht6z,t3_1na6x3q,1na6x3q,WritingLazy5900,1757485000.0,"Stay where you are. There’s growth in titles (and I certainly hope pay!), you’re still using your DS skills but have exposure to ML/AI and your title reflects this which will keep you competitive and one step ahead to all those in uni to study ML engineering. If you want to be technically challenged, take your good WLB and dedicate personal time to skill development. Ask your chill manager about funding certs or boot camps and pitch how it will help your whole team especially when you’re senior or principal. Don’t let your challenge drag you to a poor WLB for flashy startup promises UNLESS you’re super into that, have done it before, and miss it. OR have no reason to worry about job security, market resiliency (your ability to get a job after), or your future investments. If you’re really unhappy in your current company then you can always keep applying but don’t feel guilty for not jumping on this other opportunity now",1,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/ndeht6z/,False,datascience
+ndeu5my,t3_1na6x3q,1na6x3q,Maximum_Perspective3,1757492156.0,"If you have a job you can tolerate, stay until you find one that checks all your boxes. Plus, this salary increase would be peanuts anyway.",1,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/ndeu5my/,False,datascience
+ndlrvbq,t3_1na6x3q,1na6x3q,Helpful_ruben,1757581973.0,Error generating reply.,1,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/ndlrvbq/,False,datascience
+ncrvaor,t3_1na6x3q,1na6x3q,Orobayy34,1757183545.0,"If I were in your shoes, I'd switch in a heartbeat.",-2,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/ncrvaor/,False,datascience
+ncsckyg,t1_ncs7bon,1na6x3q,Rockingtits,1757188887.0,"Thanks for the input. I guess eventually I could be leading projects at a consultancy though right?   
+  
+You are totally right about the lack of mentors, it's been one year and although I am learning from them, I am making lots of preventable mistakes. 
+
+The new offer ticks a lot of my boxes but you're right that the stress, travel and startup risk is undeniable. Maybe I'll keep looking.",0,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/ncsckyg/,True,datascience
+ncwqxq8,t1_ncvrlyk,1na6x3q,Rockingtits,1757255079.0,"Thanks for the input, it seems to be quite polarising. Why do you feel that way?",2,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/ncwqxq8/,True,datascience
+ncs6eul,t1_ncs2ywe,1na6x3q,Rockingtits,1757186962.0,"Thanks, this is very insightful. To be clear, i've been in my current job for 1 year with 4 years total experience.
+
+I guess the new job is nearly perfect except for the amount of travel time and the startup risk. If either of those was a none issue I would have accepted it by now.",1,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/ncs6eul/,True,datascience
+ncsaq11,t1_ncs7zsl,1na6x3q,Rockingtits,1757188303.0,"Thanks man. I unfortunately don't have any ambitions in that area, only to keep learning and developing and eventually get into a principal IC role of some kind I guess. 
+
+Best of luck",1,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/ncsaq11/,True,datascience
+ncsroyb,t1_ncslqvj,1na6x3q,Rockingtits,1757193606.0,"This is really insightful, thank you.
+
+I guess ultimately in my current role I feel the ultimate success or failure of my work is outside of my control. Similarly I feel that my growth is hampered by being the most senior technical voice in most conversations, which feels risky at this stage of my career. I guess the new role only solves one of those problems whilst creating many others. 
+
+I will take your suggetoin on board and plot out those paths. 
+
+Thanks",2,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/ncsroyb/,True,datascience
+ncs17n4,t1_ncrvmna,1na6x3q,Rockingtits,1757185343.0,"I guess my ideal sits somewhere inbetween the two, but hey we don't always get what we want!",1,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/ncs17n4/,True,datascience
+ncvfqlt,t1_nct2yd1,1na6x3q,Rockingtits,1757233492.0,"Yeah unfortunately the wages over here in the UK are abysmal compared to the US outside of a small number of companies concentrated in London. 
+
+This new company does have a ""senior"" role paying up to £135K but its not clear how long it'd take me to get there. 
+
+If you'd like to offer me a job then I am open to relocation and please drop me a DM ha!",2,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/ncvfqlt/,True,datascience
+ncvfw2e,t1_nctss1z,1na6x3q,Rockingtits,1757233579.0,"Thanks, this is good advice",1,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/ncvfw2e/,True,datascience
+nd1pxjy,t1_ncy1noa,1na6x3q,Rockingtits,1757316436.0,"I'd say hindrance. The data we have is OK, the issue is the legacy systems used mean integration of any DS products is hard. For example some of our models have to run 24 hours lagged because of data availability.",2,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/nd1pxjy/,True,datascience
+ncs0pbc,t1_ncrvaor,1na6x3q,Rockingtits,1757185187.0,"Thanks, why?",2,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/ncs0pbc/,True,datascience
+ncscx0m,t1_ncsckyg,1na6x3q,Single_Vacation427,1757188993.0,"Once you go into consultancy, it's very difficult to move out and your options would be working for other consultancy type places. They pay less than companies, you go from client to client, and many are very bad, only doing POCs.
+
+If you are interested in this type of work, find a position at a company doing that work, not work as a consultant.",2,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/ncscx0m/,False,datascience
+ncyikbt,t1_ncwqxq8,1na6x3q,ghostofkilgore,1757273503.0,"To be fair, I've never worked at one but have interviewed at them, spoken to people who've worked there, and had general ""contact"" with them directly or indirectly.
+
+Mainly, they're at the whims of clients' wishes. So you're not neccearily incentivized to build something good. You're incentivized to build something you can get away with convincing someone who has no idea what they're talking about is good. Doesn't sound like my thing.
+
+They also just seem to be a lot more fickle and treat their employees like shit from what I've seen.
+
+I've had a couple of near things in applying at consultancies, and I've always ended up feeling like I dodged a bullet when I heard more about them after. I've declined any invite to talk to consultancies since.",2,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/ncyikbt/,False,datascience

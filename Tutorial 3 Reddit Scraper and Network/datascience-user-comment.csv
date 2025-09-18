@@ -1,0 +1,827 @@
+user,id,subreddit,created_utc,body,score,permalink,link_id
+imoutidi,ndbp2s6,datascience,1757448200.0,I am hearing that AI will replace us almost three years now.,1,/r/datascience/comments/1n8lhdx/mit_says_ai_isnt_replacing_you_its_just_wasting/ndbp2s6/,t3_1n8lhdx
+imoutidi,ndbkbig,datascience,1757446864.0,That looks really cool. So it decides only based on decks? Not on any other metric?,2,/r/datascience/comments/1nc93qq/i_built_a_card_recommender_for_edh_decks/ndbkbig/,t3_1nc93qq
+imoutidi,n7ehe3z,kde,1754567919.0,The most annoying thing is that it is the SAME F notification over and over again. OK I saw it I will restart the damn OS stop spamming me.,1,/r/kde/comments/130bvt3/anyway_i_can_suppress_this_notification_spam/n7ehe3z/,t3_130bvt3
+imoutidi,lhxm98u,greece,1723566985.0,Όχι απλά είσαι απατεώνας. Αν σου ζητήσουν μορφίνη χωρίς συνταγή θα την έδινες;,1,/r/greece/comments/1envxxo/unpopular_opinion_οι_φαρμακοποιοί_απο_επιστήμονες/lhxm98u/,t3_1envxxo
+imoutidi,lh9k2x2,greece,1723206470.0,Εδώ πουλάνε ομοιοπαθητικά που είναι απλά μια απάτη τι να λέμε τώρα.,38,/r/greece/comments/1envxxo/unpopular_opinion_οι_φαρμακοποιοί_απο_επιστήμονες/lh9k2x2/,t3_1envxxo
+TheRealBaele,ndi535w,datascience,1757532820.0,"**Data Science Flavour:** Sciientific Programming
+
+**Location:** Norway 
+
+**Title:** Lead Scientific Programmer
+
+**Compensation (gross):** €92k
+
+**Education level:** Master's
+
+**Experience:** 5 years
+
+**Industry/vertical:** Petroleum
+
+**Company size:** 20
+
+**Majority of time spent using (tools):** Python, Teams, PyCharm, Windsurf,
+
+**Majority of time spent doing (role):** Algorithm development",2,/r/datascience/comments/1n9yrfy/europe_salary_thread_2025_whats_your_role_and/ndi535w/,t3_1n9yrfy
+TheRealBaele,ndi4dhq,datascience,1757532630.0,"The trick is to find a small-ish company (less than 20 employees), build their bespoke systems from the ground up, and make your specialized knowledge to critical to their day to day operations that they could never fire you.",1,/r/datascience/comments/1n8lhdx/mit_says_ai_isnt_replacing_you_its_just_wasting/ndi4dhq/,t3_1n8lhdx
+TheRealBaele,ndi450i,datascience,1757532566.0,It would be damn cool if you expanded this to perform Monte Carlo simulations on the deck vs other decks,2,/r/datascience/comments/1nc93qq/i_built_a_card_recommender_for_edh_decks/ndi450i/,t3_1nc93qq
+TheRealBaele,ndi3yvc,datascience,1757532520.0,I'm not surprised. I've had some utterly awful experiences with half-baked support chatbots recently. It's like every company on earth saw everyone else adding shiny AI tools and thought they had to do it too.,1,/r/datascience/comments/1mu3c6j/mit_report_95_of_generative_ai_pilots_at/ndi3yvc/,t3_1mu3c6j
+TheRealBaele,na181fb,Physics,1755846239.0,"It's still being funded until September 11th, and the orders will ship 29 November!",2,/r/Physics/comments/1mvehei/i_got_tired_of_hunting_for_symbols_so_i_built_a/na181fb/,t3_1mvehei
+NerdyMcDataNerd,ndme6lc,datascience,1757592758.0,"Glad to be of help!
+
+What's your current job? That could possibly affect the ease of your transition. Also, there are people on this sub that can take a glance at your (anonymized) resume if you want some additional review.
+
+Finally, there's one thing that I said below that applies here:
+
+""The job market is bonkers at the moment and 200+ applications might even be too few (years ago, that sentence would be crazy to write).""
+
+For example, I was lurking in the Biostatistics subreddit earlier this week and the people in there are losing their minds about obtaining jobs.",1,/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/ndme6lc/,t3_1nbdtct
+NerdyMcDataNerd,ndfq047,datascience,1757507618.0,"Honestly, I'm pretty sure that there is a company that would hire you just as is. A Statistician with a PhD and 4 years of experience is an invaluable asset in this field. I would have hated to compete with you for my first job in this field, lol!
+
+But to maximize your chances, you really should refresh your Python knowledge. The ""An Introduction to Statistical Learning, with Applications in Python"" book and course would be a nice resource for you:
+
+[https://www.statlearning.com/online-courses](https://www.statlearning.com/online-courses)
+
+You've probably read or seen the R version before.
+
+I also recommend this course in which you are expected to deploy a machine learning model in the end:
+
+[https://github.com/DataTalksClub/machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp)
+
+You don't have to register for it. You can follow along with the published learning material in the GitHub repo.",1,/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/ndfq047/,t3_1nbdtct
+NerdyMcDataNerd,ndfonlo,datascience,1757507144.0,"Don't feel too bad about not getting the PCEP. It is not even remotely an important professional certification for the field of Data Science.
+
+>I joined my CC's IT club, and have been receiving emails about career fairs- but my resume has nothing related to computer science or programming on it at all.
+
+Keep on going to your school's IT Club events. Make some friends while you're there and start building scalable projects together. Or even build your own projects and talk about them with your fellow club members. Get feedback from them, improve the projects, and put that as experience on the resume. It would be even better if the projects are Web or Mobile applications that students at your college can use. That will make your resume look much better.
+
+Overall, just put yourself out there to get that experience.",2,/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/ndfonlo/,t3_1nbdtct
+NerdyMcDataNerd,nd9szg7,datascience,1757428776.0,"College really should be a mix of two things:
+
+1. Academic Interest.
+2. Feasibility of getting a good Career.
+
+Ideally, you want to find a balance between the two but **NEVER** sacrifice the second. You can certainly get a great job doing analysis, modeling, and simulation with a BS in Data Science. You can also do the same with a BS in Computer Engineering, Electrical Engineering, Computer Science, Mathematics, Statistics, etc.
+
+Since you're a freshman, one way to figure out which direction you want to go is to focus on general education requirement courses that cover these areas of Engineering, Mathematics, and Data Science. Journal which aspects of each that you like and dislike. By the end of Freshman year, you'll have a much better idea of which Majors and Minors you want to declare for the rest of college.
+
+You should also be networking with as many Professors (go to Office Hours and email them) and Upper-year students (go to School Club events) as possible. Listen to people who have been where you have and those who have had alternate experiences.",1,/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/nd9szg7/,t3_1nbdtct
+NerdyMcDataNerd,nd9rp6o,datascience,1757428397.0,"**TLDR;** network and work hard to reduce deficiencies on your resume. Keep applying because the job market is kinda cooked.
+
+>bachelor's from a small non-STEM school pretty much never going to cut it on its own?
+
+The exact university/college you get the degree from is less important than the overall quality of the education and the school's department. Plenty of small schools with good departments. Another factor though is network quality. Ideally a school with a large network of alumni that work at high quality jobs makes **you** getting a job easier.
+
+All the above is not to say that you cannot break into the field. The job market is bonkers at the moment and 200+ applications might even be too few (years ago, that sentence would be crazy to write).
+
+There's a few things you should consider:
+
+* How is the quality of your current resume?
+   * Feel free to post an anonymized version here on Reddit.
+* Who is in your school's alumni network that you can reach out to?
+   * Who is not in your school's alumni network that you can reach out to?
+* If your work experience is deficient, how can you mitigate these deficiencies?
+   * Certificates of completion don't matter. Professional Cloud Certifications can matter for the right companies (i.e. consulting firms that want Data Science professionals to work with clients in the Cloud).
+   * Volunteering is not ideal, but real world volunteer projects can help. Open source contributions are one way. Here is another way: [https://www.statisticswithoutborders.org/](https://www.statisticswithoutborders.org/)",2,/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/nd9rp6o/,t3_1nbdtct
+No-Giraffe-4877,nd1vfly,datascience,1757319843.0,👍,2,/r/datascience/comments/1nac35j/how_to_evaluate_data_transformations/nd1vfly/,t3_1nac35j
+No-Giraffe-4877,n7qa72i,ChatGPTPromptGenius,1754715874.0,"Salut j'ai répondu mais finalement je sais pas j'ai répondu où.....
+Je suis nouveau sur Reddit bref
+
+💡 Conseil de base pour un débutant au PMU avec moi :
+
+1. Type de paris pour apprendre (faible risque, bon taux de réussite) :
+
+Simple placé → miser sur 1 cheval pour qu’il finisse dans les 3 premiers (ou 2 premiers si ≤ 7 partants).
+
+Couplé placé → choisir 2 chevaux, il faut que les deux soient dans les 3 premiers (ou 2 si ≤ 7).
+
+2 sur 4 → choisir 2 chevaux parmi les 4 premiers, peu importe l’ordre.
+
+Pourquoi commencer par ces paris :
+
+Ils offrent plus de chances de toucher, même si les gains sont plus petits.
+
+Parfait pour apprendre à lire les courses et analyser.
+
+Limite les pertes au début tout en se faisant la main.",1,/r/ChatGPTPromptGenius/comments/1kejx43/what_prompt/n7qa72i/,t3_1kejx43
+No-Giraffe-4877,n7q9xsc,ChatGPTPromptGenius,1754715744.0,"💡 Conseil de base pour un débutant au PMU avec moi :
+
+1. Type de paris pour apprendre (faible risque, bon taux de réussite) :
+
+Simple placé → miser sur 1 cheval pour qu’il finisse dans les 3 premiers (ou 2 premiers si ≤ 7 partants).
+
+Couplé placé → choisir 2 chevaux, il faut que les deux soient dans les 3 premiers (ou 2 si ≤ 7).
+
+2 sur 4 → choisir 2 chevaux parmi les 4 premiers, peu importe l’ordre.
+
+Pourquoi commencer par ces paris :
+
+Ils offrent plus de chances de toucher, même si les gains sont plus petits.
+
+Parfait pour apprendre à lire les courses et analyser.
+
+Limite les pertes au début tout en se faisant la main.",1,/r/ChatGPTPromptGenius/comments/1kejx43/what_prompt/n7q9xsc/,t3_1kejx43
+No-Giraffe-4877,n6k78oa,ChatGPTPromptGenius,1754156866.0,"Si tu as GPT premium, tu peux trouver mon GPT direct dans l’app ChatGPT.
+Tu vas dans Explorer GPTs, tu tapes STAR-X dans la recherche, et tu tomberas dessus direct.
+ Ou ,je préfère te donner le
+
+
+ lienhttps://chatgpt.com/g/g-6880f5735650819190e1f7c609a287eb-star-x-ultra-instinct-v8-1",1,/r/ChatGPTPromptGenius/comments/1kejx43/what_prompt/n6k78oa/,t3_1kejx43
+No-Giraffe-4877,n5k1x0w,OpenAI,1753678191.0,"Salut à tous,
+Je vis à La Réunion et je souhaite m’inscrire à ChatGPT Plus pour accéder à la nouvelle fonction Agents.
+
+Apparemment, cet abonnement n’est pas encore disponible directement ici.
+Quelqu’un a-t-il déjà réussi à activer l’abonnement depuis La Réunion ?
+Un VPN peut-il permettre de le faire sans risque (paiement, blocage de compte, etc.) ?
+
+Merci d’avance pour vos retours d’expérience !",1,/r/OpenAI/comments/1m49e7d/chatgpt_agent_is_much_more_useful_than_i_thought/n5k1x0w/,t3_1m49e7d
+Efficient_Role607,ndkujyv,AITAH,1757564191.0,Good point!,1,/r/AITAH/comments/1ndykfv/stepdaughter_excludes_me_from_events/ndkujyv/,t3_1ndykfv
+Efficient_Role607,nctss1z,datascience,1757206538.0,"You’ve got a great setup right now with good balance, but the lack of mentorship is holding you back. The new role could give you that growth, but it also comes with big trade-offs, long travel, startup risk, and less balance. If the new offer was clearly better in both pay and stability, it’d be an easier call, but since it’s not, you might be better off holding your ground, getting that senior/principal bump, and keeping an eye out for something that gives you both growth and balance.",1,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/nctss1z/,t3_1na6x3q
+Efficient_Role607,nc0ggq1,dataanalysis,1756820300.0,"Most seniors I know stick to 1–2 main tools and get by just fine. The bigger value is in knowing the data and telling the story, not juggling every BI platform out there.",1,/r/dataanalysis/comments/1n3ywus/how_many_data_visualization_tools_do_other_senior/nc0ggq1/,t3_1n3ywus
+Efficient_Role607,nb3r3bq,dataanalysis,1756374462.0,"Feeling lost in a new role happens, especially when teammates aren’t around much. Taking it step by step, asking quick questions, and figuring things out as you go usually helps it start making sense.",1,/r/dataanalysis/comments/1n1l2in/anybody_else_just_lost/nb3r3bq/,t3_1n1l2in
+Efficient_Role607,nawrcbq,datascience,1756280572.0,"Looks like you’ve got a big challenge ahead, but also a huge opportunity to show impact. Focus on 1–2 projects that are doable and give clear results. Cleaning and organizing the data first will make everything else easier later. Keep it simple, document wins, and it’ll help sell your work to the board.",1,/r/datascience/comments/1n0ep0g/how_do_i_make_the_most_of_this_opportunity/nawrcbq/,t3_1n0ep0g
+fenrirbatdorf,nddqqqq,LinkedInLunatics,1757472520.0,How do you pay for the second house tho,1,/r/LinkedInLunatics/comments/1ncec1o/never_pay_off_your_mortgage_buy_up_an_infinite/nddqqqq/,t3_1ncec1o
+fenrirbatdorf,ndbdyyf,antiai,1757445054.0,"Also I would wager the person who designed it consented to it being used by others, given they most likely uploaded it themselves (If they didn't that's a different conversation)",3,/r/antiai/comments/1ncnaz5/ong/ndbdyyf/,t3_1ncnaz5
+fenrirbatdorf,nd94viz,datascience,1757420975.0,"Gotcha, I think someone else at some point told me to start with data analyst and business insights related roles first, I will stick to that. Thanks",1,/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/nd94viz/,t3_1nbdtct
+fenrirbatdorf,nd60zc1,datascience,1757371436.0,"I am an adult college student beginning my final year of a bachelor's in data science, and am trying to figure out a reliable plan for an entry level position that pays better than the warehouse/customer service work I was doing before returning to college. My college has focused the math/stats/computer science and analysis tools underneath of ML/AI, and I have gotten some hands on research experience via internships at my school and NIST, helping to build and analyze simple models using different data processing pipelines. I have enjoyed data science but really, I simply need any semi-related full time job that is in a field related to stats/machine learning/data science/data analysis, I'm not super picky. What job titles and job fields should I be spending my time looking in to save time applying to pointless ""AI data scientist"" Indeed job postings?
+
+Quick side note, I am taking full advantage of my school's career center but simply put, even my professors are struggling to find anyone hiring, and my school is very much intertwined with lots of ""too big to fail, always hiring"" firms.",1,/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/nd60zc1/,t3_1nbdtct
+fenrirbatdorf,n483zkb,datascience,1753043199.0,"Anything not finance, military/defense, or LLM if I can help it.",2,/r/datascience/comments/1lss1c5/reliable_ds_adjacent_fields_hiring_for_bachelors/n483zkb/,t3_1lss1c5
+optimization_ml,ndl2dp0,AppliedMath,1757567779.0,Applied math would be a valuable skill if you can use it properly. In the AI/ML space you need to know how to code and know how to do system design. Basic DS/ML stuff they ask in interviews would be pretty easy for an Applied Math graduate.,1,/r/AppliedMath/comments/1ncjqkb/future_of_applied_math/ndl2dp0/,t3_1ncjqkb
+optimization_ml,ndeuu9x,bangladesh,1757492574.0,"Ammu I valo chilo, such a bullshit comment. Hasina was a mass murderer and fled the country like a coward she is. We don’t need her. We need people’s right to vote and choose (whoever the fuck they choose, it’s their choice).",1,/r/bangladesh/comments/1nd3wco/বসতবত_মন_নয়_জময়তশবরক_পরতরধ_করন/ndeuu9x/,t3_1nd3wco
+optimization_ml,ndduwxt,Dhaka,1757474157.0,"Think about this. Most of the Jamat leaders (war criminals) were hanged and these guys didn’t flee the country. Khaleda Zia didn’t flee the country (her son did, he don’t have any courage). Hasina fled to India when she was telling the opposition will flee to Pakistan. 
+
+People are pissed and rightfully so. Liberation was 60 years ago and Awami league was doing all type of crimes in the name of Liberation war. People don’t want that anymore, they want accountability and their ability to choose.",19,/r/Dhaka/comments/1nd18ip/a_shame_for_the_nation_and_our_people_also_the/ndduwxt/,t3_1nd18ip
+optimization_ml,ndb5l3y,religion,1757442624.0,I think Old Testament rules don’t apply to Christians based on Pauline Christianity. Not sure if that’s what Jesus preached or not.,1,/r/religion/comments/1ncqoap/why_do_some_christians_eat_pork/ndb5l3y/,t3_1ncqoap
+optimization_ml,nd4jhub,intelstock,1757355250.0,Not sure what are you. excepting. As of right now Intel don’t have any AI roadmap. They are 10 years late for the race. And they don’t have the talent to fast track AI development.,-1,/r/intelstock/comments/1nbsxgu/anyone_know_when_lbt_will_be_revealing_his_ai/nd4jhub/,t3_1nbsxgu
+NYC_Bus_Driver,nd5spm4,datascience,1757368667.0,"I've worked with a LOT of address data. Not on your island, but here are some things that have helped me. 
+
+1. [Google Address Validation API](https://developers.google.com/maps/documentation/address-validation/overview) (or other Address Validation API). This can help standardize your address. Google provides some amount of free API calls (I think it's $200/month?).
+2. [Libpostal](https://github.com/openvenues/libpostal) which can parse addresses into components with remarkably high accuracy. If you can reliably transform your addresses into one that will work once you have them parsed, this will be a god send. It's also great for semantic address matching.",6,/r/datascience/comments/1nbxzs0/analysing_priority_zones_in_my_area_with/nd5spm4/,t3_1nbxzs0
+NYC_Bus_Driver,ncxp09i,datascience,1757265228.0,It lowers COGS when you're a services business selling back office automation.,1,/r/datascience/comments/1n8lhdx/mit_says_ai_isnt_replacing_you_its_just_wasting/ncxp09i/,t3_1n8lhdx
+NYC_Bus_Driver,nco6tj0,Debt,1757127556.0,"That's not what paying it back in full means. They mean paying the entire principal balance to avoid paying most of the interest that will accrue over the lifetime of the loan. Google ""loan amortization schedule"" to understand what this means.",3,/r/Debt/comments/1n9gegv/stuck_in_a_tribal_loan/nco6tj0/,t3_1n9gegv
+NYC_Bus_Driver,ncicq86,datascience,1757051239.0,Maybe in a mature company? I'm in this space automating this type of back office work and it absolutely impacts the number of people we need to hire when we win new contracts. There's a very clear line between building automations and lower COGS/higher margins for our business.,17,/r/datascience/comments/1n8lhdx/mit_says_ai_isnt_replacing_you_its_just_wasting/ncicq86/,t3_1n8lhdx
+NYC_Bus_Driver,nc9vpec,SouthwestAirlines,1756938420.0,I would not wait to book flight that are the weekend before thanksgiving. Book it.,6,/r/SouthwestAirlines/comments/1n7s7d1/1120_1123_flight_prices/nc9vpec/,t3_1n7s7d1
+koolaidman123,ndabntw,datascience,1757434129.0,"does your workplace use pytorch lightning by default for training? if so then just follow the standard
+
+if not, just do whatevers easiest",18,/r/datascience/comments/1ncmcgf/pytorch_lightning_vs_pytorch/ndabntw/,t3_1ncmcgf
+koolaidman123,ncjyssm,datascience,1757079305.0,"Yes but the ones making the tool calls are being shifted towards llms
+
+Plus shifting the cognitive load from doing to verifying is generally much more efficient/productive. Easier for human to verify",3,/r/datascience/comments/1n8lhdx/mit_says_ai_isnt_replacing_you_its_just_wasting/ncjyssm/,t3_1n8lhdx
+koolaidman123,ncjxpps,MachineLearning,1757078949.0,i work at a lab and i can count on 1 hand the number of impactful papers i've read this year that actually has any meaningful novel contribution and shares enough details to be replicable. 99% of publications lack the former and tech reports lack the latter,1,/r/MachineLearning/comments/1n6ir0a/d_what_apps_or_workflows_do_you_use_to_keep_up/ncjxpps/,t3_1n6ir0a
+koolaidman123,ncj9azu,datascience,1757069630.0,"no theyre not lol, i personally know multiple banks spending multiple $m on ai and its only increasing. this is 100% cope",4,/r/datascience/comments/1n8lhdx/mit_says_ai_isnt_replacing_you_its_just_wasting/ncj9azu/,t3_1n8lhdx
+koolaidman123,nc4ist4,MachineLearning,1756866407.0,"Because every frontier lab is hiding their secret sauce and refuse to publish, and anything on their frontier models (even the more ""open"" ones like deepseek, kimi qwen etc) are careful to not mention anything of real use (i.e. we curate/generate a lot of data and do filtering to get a model, gl replicating it)
+
+The clearest example of this is dm, you can bet that if they publish a paper on some method its definitely not being used for gemini",1,/r/MachineLearning/comments/1n6ir0a/d_what_apps_or_workflows_do_you_use_to_keep_up/nc4ist4/,t3_1n6ir0a
+oddoud,ndkaqsq,perplexity_ai,1757556491.0,Mine frozen a few times in the middle of typing. :/,2,/r/perplexity_ai/comments/1ndmsb0/anyone_else_experiencing_perplexity_mobile_app/ndkaqsq/,t3_1ndmsb0
+oddoud,nddadev,datascience,1757466659.0,"Would his feedback affect your performance review? If not, just take it with a grain of salt, unless the team actually needs to standardize the codebase on lighiting.",0,/r/datascience/comments/1ncmcgf/pytorch_lightning_vs_pytorch/nddadev/,t3_1ncmcgf
+Atleast-legal,ncvoby8,datascience,1757238439.0,"Mix- mostly ML, layer of integer programming at the end, but not hard core optimisation focused, not done forecasting -yet. pricing , bit of recommendation, markdowns, etc..",2,/r/datascience/comments/1n9yrfy/europe_salary_thread_2025_whats_your_role_and/ncvoby8/,t3_1n9yrfy
+Atleast-legal,ncs2ywe,datascience,1757185886.0,"Well- I was in similar situation. Not as cool job offers as yours , but question I asked. If I stayed back- what it would take me to move to new company, what I am actually after, what is my long term goal. How /what I am learning in my current jobs- does current job has that potential for my future trajectory. Does the new job is aligned with I want. 
+
+In my cases, I ended up staying for a year- with goal of completing a couple of interesting projects- target better roles, but got salary bumped up to the level of new job by negotiating with current employer.
+
+I would also say in your case, you have been here for four years, given the skills set you would developed in new jobs- you would be pretty good demand . 
+
+So fours year- if you feel still getting the kick, then worth thinking about staying. If you do stay ask for a raise.",3,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/ncs2ywe/,t3_1na6x3q
+Atleast-legal,ncs0s84,datascience,1757185211.0,"Location- London
+
+Title- Sr. Data Scientist 
+
+Education- PhD ( non- math, non-physics)
+
+Compensation (gross)- £99K
+
+Experience- 4 years 
+
+Industry- Retail
+
+Company Siz- Pretty Big retailer
+
+Majority of time- Stakeholder, planning and coding new features, training, POCs
+
+Tools- Python, pandas ecosystem, polars, docker, airflow,",8,/r/datascience/comments/1n9yrfy/europe_salary_thread_2025_whats_your_role_and/ncs0s84/,t3_1n9yrfy
+Atleast-legal,l4pm1yv,ukvisa,1716107563.0,"Interesting! Could you please elaborate on this. I took 5 years of endorsed funder visa. After 6 month, switch to completely different field from biology. My right to work still shows it is active. How did you know UKRI withdrew your endorsement? Do you have to leave or get new sponsors with xyz time frame. Or your visa is still active. Please elaborate, can help me. Thank you",1,/r/ukvisa/comments/1awaprr/urgent_pls_help_with_the_decision_switching_jobs/l4pm1yv/,t3_1awaprr
+Atleast-legal,l4pk7b5,ukvisa,1716106112.0,"Hey, thank you for your response. Wondering if 1. you wrote to UKRI about status of your endorsement before applying for ILR,given moved outside academia . I moved from biology to banking . Do I need to confirm my Status with UKRI first? My right to work is till 2025. 2. The next to next question after the screenshot was “how is your employment related to expert field” does it related to the previous earning question in expert field or my current employment. Thanks again, helping to solve confusion and congratulations to you!",1,/r/ukvisa/comments/13w4ci8/ilr_via_global_talent_involving_jobs_switched/l4pk7b5/,t3_13w4ci8
+QianLu,ndlke06,analytics,1757577513.0,"Without knowing more about what you're collecting, what you're doing with it, etc., you're not going to get good answers. I'd bet money though that honestly you need a real database and some kind of program that captures what people fill out and uploads it to said database (be it a CRM thing like salesforce or something more custom).",1,/r/analytics/comments/1ne2ds9/data_collection_across_20_teams/ndlke06/,t3_1ne2ds9
+QianLu,ndlk5b2,datascience,1757577368.0,"I've definitely been looped in way too late and pretty much told ""number nerd, analyze this stuff."" Takes about 30 minutes to find some experiment breaking thing that means the whole thing needs to be thrown in the trash and redone, but ofc they don't want to hear that because they've been working on it for months but simultaneously never bothered to give anyone on the analytics/DS side a heads up.
+
+Still, I can think of at least two examples where I was brought in crazy early, like the idea for a proposal was still on the back of a napkin and leadership hadn't even signed off and given budget to it. Essentially there is a meeting a week for 2 months before it even gets off the ground that I don't need to be a part of, and by the time it might actually require me I honestly don't care anymore.
+
+Although I'm not sure how it gets implemented (in terms of processes, company culture, political capital required, pushback when people don't follow it), the data team needs to be viewed as an equal partner instead of ticket takers or some people who just do what product tells them to do. That includes data leadership being willing to tell product ""we're not doing that because it's stupid or because your timeline is insane or because there are actual things that need to be done.""",1,/r/datascience/comments/1ne1d5t/collaborating_with_data_teams/ndlk5b2/,t3_1ne1d5t
+QianLu,ndlij6o,analytics,1757576403.0,Honestly at that point you need a more permanent solution. Some variant of google forms or excel isn't going to cut it.,1,/r/analytics/comments/1ne2ds9/data_collection_across_20_teams/ndlij6o/,t3_1ne2ds9
+QianLu,ndlibb2,dataanalysiscareers,1757576274.0,"The entry level market in the US is brutal right now, and that's further compounded by you needing sponsorship. Unless you graduated from a top program or have done something remarkable, it's going to be pretty hard to stand out.",1,/r/dataanalysiscareers/comments/1ne0be7/new_grad_in_the_us_international_student_looking/ndlibb2/,t3_1ne0be7
+QianLu,ndlgrgq,dataanalyst,1757575364.0,"Like someone else said, entry level positions get literally hundreds of applicants. I got a job about 18 months ago and after I joined the recruiter told me they had 550 applicants for the role.
+
+They don't need to be looking on reddit for more applicants.",1,/r/dataanalyst/comments/1ndfeli/would_it_be_illegal_if_i_ask_for_jobs_here/ndlgrgq/,t3_1ndfeli
+EstablishmentHead569,nd7pf55,datascience,1757393814.0,Maybe look for data analyst / dash-boarding roles before DS/DE/MLE or any AI related roles,1,/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/nd7pf55/,t3_1nbdtct
+EstablishmentHead569,mv9l6fc,learnmachinelearning,1748708251.0,"Consider the following questions…perhaps it can give you some pointers…
+
+
+1. How do u get your data? Is it streamlined or require some ETLs? If pipelines are required, how do u automate it?
+
+2. If data cleaning is required, are your cleaning scripts reusable next time? Will it break ? Is it modularized and usable by everyone on your team? Can it be automated?
+
+3. If feature engineering is required for a model, do you do it manually or automated? Can the features be used for other similar models? If yes, can we store it somewhere?
+
+4. As for model training and optimizations - can it be an offline job? No one is going to stare at the notebook locally and have it run overnight.
+
+5. How do u know if your latest model is better than your previous ones? Can we consider a Champion vs Challenger workflow? Can we have some BI tools to log all these metrics (Loss/ROC/Accuracy etc) ?
+
+6. Can we have some sort of alert systems notifying the team if trainings pipelines failed or succeed ?
+
+7. Who is using the latest model? Internal or external parties? How should you deliver  model predictions - will it be an offline job with an excel file or the users will talk with your model via an API?
+
+8. If an API is required, what tools, language and framework will you use and how do you update your model checkpoints automatically without interfering production models ?
+
+9. How do you set up version controls in case a roll back is required (both model checkpoints and codebases) 
+
+Speaking strictly with GCP tools, all the questions mentioned above can be tackled with Airflow, Docker, Cicd, Cloud Run, PubSub, MFflow, Looker, Power Bi, BigQuery, Vertex Ai, KubeFlow Pipelines",36,/r/learnmachinelearning/comments/1kzx4fk/whats_the_difference_between_working_on/mv9l6fc/,t3_1kzx4fk
+EstablishmentHead569,mo3tp4r,JuJutsuKaisen,1745163807.0,"Not too sold on this idea. It still feels like the author just wanted to go against the fans and kill a fan favourite for the thrill of it. 
+
+and yuta using gojo’s body in between chapters and achieving nothing in the end felt like a “double down” from the author to me…",2,/r/JuJutsuKaisen/comments/1k2wzp8/gojo_v_sukunas_fight_recent_interview_with_gege/mo3tp4r/,t3_1k2wzp8
+EstablishmentHead569,m0jyozv,learnmachinelearning,1733414021.0,"I think doing projects that are more task oriented would have more story to tell here.
+
+Also, listing out the preprocessing steps and actionable insights derived from toy datasets (assuming you used movielens) might not be a strong showcase of skills in my opinion. You might consider adding the model performance as well but I doubt that would be the wow factor purely due to the project’s nature.",2,/r/learnmachinelearning/comments/1h7bsp2/hows_my_resume_tips_appreciated/m0jyozv/,t3_1h7bsp2
+EstablishmentHead569,m06leka,datascience,1733223311.0,"Used tableau, power bi, looker and Qlik. Personally, I still have a lot of love for power Bi simply because of it’s “programmatic nature”.
+
+I can make all kinds of dynamic visuals with DAX and M Query, and I have total control on its behavior as well. It can also run light-moderate weight data pipelines with PowrerBi.",1,/r/datascience/comments/1h57hqm/powerbi_is_making_me_think_about_jumping_ship/m06leka/,t3_1h57hqm
+Factitious_Character,ndm74d2,SGExams,1757589857.0,Are there no other options?,2,/r/SGExams/comments/1ne597u/ri_vs_yijc/ndm74d2/,t3_1ne597u
+Factitious_Character,ndm6sgd,askSingapore,1757589712.0,It means alot when you genuinely think highly of them. I think people can sense when its an act.,9,/r/askSingapore/comments/1ne5z0y/singapore_employees_what_employee_wellbeing/ndm6sgd/,t3_1ne5z0y
+Factitious_Character,ndm03l2,learnmachinelearning,1757586539.0,"Cs prof, maybe AI scientist depending on the exact scope.",1,/r/learnmachinelearning/comments/1ne2pqw/i_want_to_be_an_ai_engineer_the_maths_is_very/ndm03l2/,t3_1ne2pqw
+Factitious_Character,ndlno8a,learnmachinelearning,1757579488.0,"Good news is that as an AI engineer, you dont need to be a math genius. all you need is a basic understanding. At least, enough for you to implement a new model described by a research paper. Typically, having a good grasp of undergrad stats, linear algebra and calculus will already get you quite far. The rest is about keeping up to date with state of the art technologies. There are many excellent tutors on youtube that explain the math very intuitively.
+
+Software engineering and system design though, are the main focus of ai engineers.",8,/r/learnmachinelearning/comments/1ne2pqw/i_want_to_be_an_ai_engineer_the_maths_is_very/ndlno8a/,t3_1ne2pqw
+Factitious_Character,ndldmkr,askSingapore,1757573624.0,"Clearly, you're not taken seriously by the HOD. Better to move on. Even if he offers you something now, best to reconsider.",1,/r/askSingapore/comments/1ndtxt5/guidance_regarding_getting_a_clinical_associate/ndldmkr/,t3_1ndtxt5
+codechisel,ndmdhto,geography,1757592491.0,"I think you're right, whenever I hear the word Albania I think of an African country for some reason, and then I loop back and think ""oh wait, is that the european country I always confuse with an african one?"" and it often is.",1,/r/geography/comments/1ne2d8t/which_is_the_most_forgotten_country_in_europe/ndmdhto/,t3_1ne2d8t
+codechisel,ndmd1vw,linux,1757592317.0,"I grew up in farming country so I get what you're saying and I'm glad there are folks willing to do that work, but it is work.  Hard work.  And risks to your livelihood that most people never have to think about.",1,/r/linux/comments/1nd8hav/what_that_means/ndmd1vw/,t3_1nd8hav
+codechisel,ndfrujg,pycharm,1757508255.0,I've got it working but I set it up in the terminal.  This should high priority as uv is such a great tool.,2,/r/pycharm/comments/1n37x49/why_is_pycharm_such_a_pain_nowdays/ndfrujg/,t3_1n37x49
+codechisel,ndfr82h,datascience,1757508040.0,Sounds like he's using you to brag about his knowledge of pytorch lightening.  I'd simply thank him for the suggestion and tell him you really appreciate his input. Be kind and charitable.  It'll pay dividends later.,1,/r/datascience/comments/1ncmcgf/pytorch_lightning_vs_pytorch/ndfr82h/,t3_1ncmcgf
+codechisel,ndfmefv,linux,1757506321.0,Working the land isn't the vacation people think it is.,5,/r/linux/comments/1nd8hav/what_that_means/ndfmefv/,t3_1nd8hav
+webbed_feets,nd9k3ed,rstats,1757426107.0,Was it [tidylog](https://github.com/elbersb/tidylog)?,34,/r/rstats/comments/1ncj5jp/package_that_tells_you_the_outcome_of_a_join_and/nd9k3ed/,t3_1ncj5jp
+webbed_feets,nd5ekhz,statistics,1757364352.0,I guess I don’t? You can’t have a posterior without a prior. I thought that was understood.,6,/r/statistics/comments/1nbpvq7/what_is_the_point_of_bayesian_statistics_q/nd5ekhz/,t3_1nbpvq7
+webbed_feets,nd4jsqx,statistics,1757355338.0,"I don’t understand your comment. 
+
+I gave three examples where having a posterior distribution would be useful. You would not get any of those benefits by abandoning a prior and just using the data.",9,/r/statistics/comments/1nbpvq7/what_is_the_point_of_bayesian_statistics_q/nd4jsqx/,t3_1nbpvq7
+webbed_feets,nd4gdzn,statistics,1757354339.0,Same in the US.,7,/r/statistics/comments/1nbhnn4/c_what_the_heck_do_i_do/nd4gdzn/,t3_1nbhnn4
+webbed_feets,nd4f4q5,statistics,1757353984.0,"Unlike other responses, I believe Bayesian statistics \*has\* moved towards non-informative priors. I will take your question at face value.
+
+Here are some scenarios where I've found a Bayesian approach preferable over a Frequentist approach. 
+
+* It can be really useful to have a full (posterior) distribution for your parameter estimates. You can make probability statements like ""there is a 90% chance this treatment is effective"" or ""there's an 70% chance this coin is not fair"". 
+* Bayesian statistics is great for missing data problems. In Bayesian methods, you can assume a distribution for your missing data and get a full posterior distribution for all your missing data. It turns your missing data into something tangible. 
+* You can have a hard time building a very bespoke model in a Frequentist setting. Let's say you're doing multilevel regression with Laplace errors. I would have no idea how to fit a Frequentist version of that model, but it's easy to throw that into Stan and get something out. Generally, this comes with far fewer theoretical guarantees though.",37,/r/statistics/comments/1nbpvq7/what_is_the_point_of_bayesian_statistics_q/nd4f4q5/,t3_1nbpvq7
+vornamemitd,ndlnhyf,datascience,1757579380.0,"This one will give you a solid starting point to pivot from - depending on what sort of ""AI"" you want to look under the hood: https://github.com/wangyongjie-ntu/Awesome-explainable-AI",4,/r/datascience/comments/1ne37bs/looking_for_recent_research_on_explainable_ai_xai/ndlnhyf/,t3_1ne37bs
+vornamemitd,nd5lmct,cybersecurity,1757366442.0,"For those not so much into video - here's the original post: [https://web.archive.org/web/20250906134240/https://bobdahacker.com/blog/rbi-hacked-drive-thrus/](https://web.archive.org/web/20250906134240/https://bobdahacker.com/blog/rbi-hacked-drive-thrus/) 
+
+Archive link because of takedown on original site.",9,/r/cybersecurity/comments/1nbssph/burger_king_hacked_attackers_impressed_by_the/nd5lmct/,t3_1nbssph
+vornamemitd,ncerm96,RhodesianRidgebacks,1757007209.0,But definitely young at heart!,2,/r/RhodesianRidgebacks/comments/1n8fwx0/old_soul/ncerm96/,t3_1n8fwx0
+vornamemitd,nbzj0id,OpenAI,1756806336.0,"The motivation of allowing a tabloid to spin some ragebait for a share of the ad revenue is understandable - the family created a gofundme to help with financing experimental treatment. On this GFM, the family states ""When he began to feel unwell, doctors sent him home with reflux tablets."" Aside from this, on the ""chats"" shared with the DailyMail, ChatGPT considers cancer unlikely, but urges them to seek a biopsy.
+
+Indeed, a LLM is not a doctor, but lets try whether your GP would be able to vibe-diagnose any sort of cancer if you gave them a casual call on the weekend ""can't swallow doc! do I have cancer?""
+
+The current medical system is flawed, public health care allows for 15min of conversation. Hence it is up to everyone to seek out and insist on specialists on their own. ChatGPT can provide intuition - which it did, by sending them for a biopsy.",24,/r/OpenAI/comments/1n6eurj/ai_is_not_a_doctor_dont_trust_medical_advice_from/nbzj0id/,t3_1n6eurj
+vornamemitd,nbziupg,OpenAI,1756806243.0,"The motivation of allowing a tabloid to spin some ragebait for a share of the ad revenue is understandable - the family created a gofundme to help with financing experimental treatment. On this GFM, the family states ""When he began to feel unwell, doctors sent him home with reflux tablets."" Aside from this, on the ""chats"" shared with the DailyMail, ChatGPT considers cancer unlikely, but urges them to seek a biopsy.
+
+Indeed, a LLM is not a doctor, but lets try whether your GP would be able to vibe-diagnose any sort of cancer if you gave them a casual call on the weekend ""can't swallow doc! do I have cancer?""
+
+The current medical system is flawed, public health care allows for 15min of conversation. Hence it is up to everyone to seek out and insist on specialists on their own. ChatGPT can provide intuition - which it did, by sending them for a biopsy.",4,/r/OpenAI/comments/1n6ebqe/well_ai_is_always_not_correct/nbziupg/,t3_1n6ebqe
+ButtFlannel69,ndl67io,ProductManagement,1757569681.0,"I mentioned a bit of the issues in a reply to the other thread. What you're both alluding to is being more hands on with stakeholders and this has really just reinforced what I suspected. The problem I have is that data is seen as a product - I.e. we build self service tools and AI features now with PM's being expected to do the bulk of analysis. In reality they're not able to set up reliable tests and go deep on the analysis because they're not trained that way which isn't their fault. 
+
+I feel like I'd need to be very hands on to get the level of analysis needed to properly assess how users interact with our features but perhaps I'm also being too ambitious in my expectations? In the end the ratio of DS's to feature teams is just way too low and we're all spread very thinly with the other responsibilities.",1,/r/ProductManagement/comments/1nd6p8o/collaborating_with_data_teams/ndl67io/,t3_1nd6p8o
+ButtFlannel69,ndl5h0x,ProductManagement,1757569305.0,"""because people find to hard to operate over data"" - I find this a lot as well and the only solution I see is to be more involved from the get go. However, we immediately run into resourcing issues as we're expected to do so much work that is often hidden from most people in the company in maintaining the data stack, validating the data etc.
+
+How does your company structure the data team to ensure that they are set up to be more hands on with stakeholders?",1,/r/ProductManagement/comments/1nd6p8o/collaborating_with_data_teams/ndl5h0x/,t3_1nd6p8o
+TserriednichThe4th,ndkn7w9,OnePieceSpoilers,1757561122.0,Holy shit,1,/r/OnePieceSpoilers/comments/1ndn4rt/one_piece_chapter_1160_summary/ndkn7w9/,t3_1ndn4rt
+TserriednichThe4th,ndkmp57,OnePieceSpoilers,1757560913.0,D = Davey theory likelihood is so high rn,1,/r/OnePieceSpoilers/comments/1ndn4rt/one_piece_chapter_1160_summary/ndkmp57/,t3_1ndn4rt
+TserriednichThe4th,ndjd72m,PoliticalDiscussion,1757545106.0,Still waiting for a claim instead of questions.,1,/r/PoliticalDiscussion/comments/1ndpyoc/megathread_charlie_kirk_dies_after_being_shot_at/ndjd72m/,t3_1ndpyoc
+TserriednichThe4th,ndjbiuh,PoliticalDiscussion,1757544572.0,"Still haven't explained how I justified murder lol.
+
+Explaining why someone could be motivated to shoot him isn't justifying murder.
+
+So I ask again, how did I justify murder?
+
+At least quote something I said.",1,/r/PoliticalDiscussion/comments/1ndpyoc/megathread_charlie_kirk_dies_after_being_shot_at/ndjbiuh/,t3_1ndpyoc
+TserriednichThe4th,ndjb4z8,PoliticalDiscussion,1757544447.0,"You were, and yes, when you cry about violence for someone and not for another in the same exact situation and are asked to clarify if you care, then yes you obviously dont give a fuck.
+
+At any point during this conversation, you could have denounced those Dem lawmaker deaths and I would have acquiesced, yet here we are lol.",1,/r/PoliticalDiscussion/comments/1ndpyoc/megathread_charlie_kirk_dies_after_being_shot_at/ndjb4z8/,t3_1ndpyoc
+alpinecomet,nd9s9at,boulder,1757428562.0,You’re telling me these kids have an e-bike that’s more expensive than my first 2 cars cost combined?,1,/r/boulder/comments/1nakr3r/what_are_these_ebikes_that_all_the_kiddos_are/nd9s9at/,t3_1nakr3r
+alpinecomet,nd9rrpu,datascience,1757428419.0,"You should ask yourself, do you care about where your equations come from? Is a model that predicts how to keep people scrolling on a Meta app for longer just as interesting to you as a model that predicts fluid dynamics or species distributions? Is it data science per se or is the science? That can help you narrow down which “science”! There’s a TON of very rigorous and high quality statistics and ML going in nearly every field of science. You shouldn’t limit yourself to a DS major if you feel excited about applications in a specific field.
+
+An MS, or PhD in a computational/statistical science can prepare you for a role in DS forward jobs better than a CS or DS major in some ways, depending. Consider physics, engineering, CS, Computational Social Sciences, Computational Ecology / Biology, even some of the most famous “data scientists” and statisticians are in Political Science or Anthropology. This is just to say, keep your mind open! What you get your degree in matters less than you think.
+
+I think in a world where these jobs become more competitive, domain knowledge of a specific kind is going to be way more valuable in a DS-forward role than being able to fit a LightGBM in 5 minutes.",1,/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/nd9rrpu/,t3_1nbdtct
+alpinecomet,ncjtbin,datascience,1757077485.0,"It’s still a bit buggy (I think it’s in beta?) but it rocks, I think.",3,/r/datascience/comments/1n81hrr/how_are_you_liking_positron/ncjtbin/,t3_1n81hrr
+alpinecomet,naifkjw,languagelearning,1756085388.0,"This course book and music comments are a common theme here, I will take heed! Thanks so much for the input",1,/r/languagelearning/comments/1mxpa8z/rate_my_language_learning_habit_soliciting/naifkjw/,t3_1mxpa8z
+alpinecomet,naifbrs,languagelearning,1756085296.0,"This is fantastic feedback, wow! Thanks so much for taking the time to write this up. I will certainly check out Paul Noble and the book! I agree with the comments about DS, it can’t hurt to listen so much but I am suspicious of folks saying that’s the main thing they do.
+
+Cheers!",2,/r/languagelearning/comments/1mxpa8z/rate_my_language_learning_habit_soliciting/naifbrs/,t3_1mxpa8z
+WritingLazy5900,ndeht6z,datascience,1757485000.0,"Stay where you are. There’s growth in titles (and I certainly hope pay!), you’re still using your DS skills but have exposure to ML/AI and your title reflects this which will keep you competitive and one step ahead to all those in uni to study ML engineering. If you want to be technically challenged, take your good WLB and dedicate personal time to skill development. Ask your chill manager about funding certs or boot camps and pitch how it will help your whole team especially when you’re senior or principal. Don’t let your challenge drag you to a poor WLB for flashy startup promises UNLESS you’re super into that, have done it before, and miss it. OR have no reason to worry about job security, market resiliency (your ability to get a job after), or your future investments. If you’re really unhappy in your current company then you can always keep applying but don’t feel guilty for not jumping on this other opportunity now",1,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/ndeht6z/,t3_1na6x3q
+WritingLazy5900,ndegme3,marketing,1757484353.0,"Similar boat as you, did a lateral move and am 4 years in having a hard time bc this market is all senior and above right now. I went thru this crisis already, the answer is no. Best advice Ive been given is don’t commit to a reactive degree in this market because you’re most likely already behind and by the time you’re done who knows where the market will be again (that degree could be worthless). I’ve been told the best thing to do is if you have a job keep plugging away and if there aren’t growth opportunities from within start with personal projects or pitch growth opportunities. Think about how we went from the “golden age of software engineering” to “we don’t need anymore software engineers” within under a decade. Realistically anyone entering “hot” degree fields now, maybe even undergrads, are already behind the curve.",1,/r/marketing/comments/1nclsjm/do_i_need_a_masters_where_to_go_from_here/ndegme3/,t3_1nclsjm
+WritingLazy5900,ndeg0ci,sewing,1757484023.0,"Count cutting or pinning as a win for the day. Or, a few stitches. I rarely have enough time for a project start to finish even when easy ones",1,/r/sewing/comments/1ncadxr/how_do_you_plan_your_sewing_timelines_andor_find/ndeg0ci/,t3_1ncadxr
+WritingLazy5900,ndefv95,dataanalysis,1757483949.0,"In terms of writing formulas or macros, pretty good. Analyzing for context is pretty inaccurate. Replacing or cleaning data is wonky",3,/r/dataanalysis/comments/1nd16bu/how_much_is_chatgpt_helpful_and_reliable_when_it/ndefv95/,t3_1nd16bu
+WritingLazy5900,ndefkuj,ProductManagement,1757483795.0,"Counter : it’s about using life to its fullest. You’re exploring every possible idea, creating and trying something new constantly, and get to revel in the beauty of your contributions being actualized no matter how brief. You’re creating new experiences for yourself and your coworkers let alone your users. Sure, you’re also making money. And, failing or killing. But that’s the beauty of life. Maximizing it, taking the risk that you can’t control things once it’s out of your brain but at least you had the courage and the drive to try, and do it 10x over again.",1,/r/ProductManagement/comments/1n914xs/nobody_talks_about_how_much_product_management_is/ndefkuj/,t3_1n914xs
+Maximum_Perspective3,ndeu5my,datascience,1757492156.0,"If you have a job you can tolerate, stay until you find one that checks all your boxes. Plus, this salary increase would be peanuts anyway.",1,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/ndeu5my/,t3_1na6x3q
+Maximum_Perspective3,n95xd39,PlasticSurgery,1755432397.0,This is amazing work. Who was your surgeon?,3,/r/PlasticSurgery/comments/1ms9e5f/breast_lift_no_implants_8_weeks_po/n95xd39/,t3_1ms9e5f
+Maximum_Perspective3,n8i4emg,MLQuestions,1755106296.0,So that’s not how all supervisors are supposed to be..?,2,/r/MLQuestions/comments/1mp09eo/my_model_is_performing_better_than_the_annotation/n8i4emg/,t3_1mp09eo
+Maximum_Perspective3,n770lj1,Wellthatsucks,1754467085.0,"Arktos in Ancient Greek is bear, and correctly, Antarctica took this name because its location is ‘opposite’ to the arctic, coming from ‘anti’.",1,/r/Wellthatsucks/comments/1mijatw/i_almost_killed_my_husband/n770lj1/,t3_1mijatw
+Maximum_Perspective3,n6bal02,womenintech,1754035263.0,Q,1,/r/womenintech/comments/1mdx3dw/what_career_would_you_have_if_you_could_do_it_all/n6bal02/,t3_1mdx3dw
+ciaoshescu,ndls0gr,datascience,1757582057.0,"Oh yeah, that's a really good collection. It's super detailed! Thanks!",1,/r/datascience/comments/1ne37bs/looking_for_recent_research_on_explainable_ai_xai/ndls0gr/,t3_1ne37bs
+ciaoshescu,n1s7oul,Leipzig,1751883257.0,"Balkan Brot gibt's beim Sofra https://maps.app.goo.gl/pQfGeuZrBt2mMW1S8
+
+Französisches Brot gibt's beim Backstein neben der HGB
+
+Irakisches Fladebrot gibt's auf der Zschocherschen hier https://maps.app.goo.gl/7Rv1UAQpRYMF7Uct9",10,/r/Leipzig/comments/1ltpizw/ich_suche_brote_aus_anderen_kulturen/n1s7oul/,t3_1ltpizw
+ciaoshescu,mziesuq,AI_Agents,1750772505.0,I'd also like the roadmap please,1,/r/AI_Agents/comments/1lj3mgk/the_real_reality_of_someone_who_owns_an_ai_agency/mziesuq/,t3_1lj3mgk
+ciaoshescu,mrz7lq1,learnmachinelearning,1747082882.0,"Very nice! It would be cool, if you could see a trace of the ball.",2,/r/learnmachinelearning/comments/1kkw65u/i_built_a_3d_tool_to_visualize_how_optimizers_sgd/mrz7lq1/,t3_1kkw65u
+ciaoshescu,mndz0q8,Leipzig,1744800820.0,"Wie gut ist so ein Airtag? Das habe ich mich gefragt. Wenn sich aber die Idee verbreitet, dann machen die Diebe doch die Klingel gleich ab. Dann ist es auch egal. Ich denke eher unter Sattel wäre ein geklebert Airtag ganz gut.",1,/r/Leipzig/comments/1k0fr0q/symbolbild_fahrradfahren_in_leipzig/mndz0q8/,t3_1k0fr0q
+mydogismylawyer,ndlq8po,datascience,1757581009.0,Thanks,1,/r/datascience/comments/1ne37bs/looking_for_recent_research_on_explainable_ai_xai/ndlq8po/,t3_1ne37bs
+mydogismylawyer,ndlq6h8,datascience,1757580972.0,"I’m just starting my MCA and thinking seriously about moving into data science. I’ve done a bit of C and Python but still feel like a beginner.
+
+From your experience, what should someone like me focus on first — coding practice, math/stats, SQL, or trying small ML projects? I don’t want to waste time going in the wrong order.",1,/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/ndlq6h8/,t3_1nbdtct
+mydogismylawyer,ndlne9c,csMajors,1757579317.0,"Hi,I’m an MCA student who just started this September and I’m trying to get into data science. Right now I know some programming (C, little Python) and I’m building up my problem-solving skills.
+
+Do you have suggestions on what I should focus on first (Python, SQL, stats, ML basics, etc.) and how to start building small projects that are worth adding to a portfolio?",0,/r/csMajors/comments/1ne171l/how_hard_is_it_to_break_back_into_tech_after_a/ndlne9c/,t3_1ne171l
+mydogismylawyer,ndln5g8,learnmachinelearning,1757579168.0,"I’m an MCA student who just started this September and I’m trying to get into data science. Right now I know some programming (C, little Python) and I’m building up my problem-solving skills.
+
+Do you have suggestions on what I should focus on first (Python, SQL, stats, ML basics, etc.) and how to start building small projects that are worth adding to a portfolio?",1,/r/learnmachinelearning/comments/1ne2pqw/i_want_to_be_an_ai_engineer_the_maths_is_very/ndln5g8/,t3_1ne2pqw
+mydogismylawyer,ndln0cp,datascience,1757579082.0,"I’m an MCA student who just started this September and I’m trying to get into data science. Right now I know some programming (C, little Python) and I’m building up my problem-solving skills.
+
+Do you have suggestions on what I should focus on first (Python, SQL, stats, ML basics, etc.) and how to start building small projects that are worth adding to a portfolio?",-6,/r/datascience/comments/1ne37bs/looking_for_recent_research_on_explainable_ai_xai/ndln0cp/,t3_1ne37bs
+telperion101,ndlxsjj,technology,1757585333.0,"Idk, I’d say Americans would say that price is magic",2,/r/technology/comments/1ndy4s6/rivian_ceo_theres_no_magic_behind_chinas_lowcost/ndlxsjj/,t3_1ndy4s6
+telperion101,ndjpl9b,datascience,1757549137.0,You know context is everything. We often conflate criticism and critiques. I’m not saying you did this here. When reading this I hear myself spiraling and thinking of someone made the former or the latter. I would take it as a learning opportunity. That said they best be using lightening next time you see their repos.,1,/r/datascience/comments/1ncmcgf/pytorch_lightning_vs_pytorch/ndjpl9b/,t3_1ncmcgf
+telperion101,nd8wahh,okbuddycinephile,1757417612.0,God dammit why did it have to be a Brad,1,/r/okbuddycinephile/comments/1nby0qk/favorite_trans_actress/nd8wahh/,t3_1nby0qk
+telperion101,nd3qrs6,Futurology,1757346984.0,I doubt we would be five times healthier if doctors were more efficient.,1,/r/Futurology/comments/1naez1w/godfather_of_ai_says_the_technology_will_create/nd3qrs6/,t3_1naez1w
+telperion101,ncs45dj,apple,1757186253.0,"Honestly I use it quite a bit for the camera and it’s useful bit I only use it to adjust the zoom
+And snap the photo. Plus obviously activating it",1,/r/apple/comments/1n8haon/iphone_16_pro_users_did_you_use_the_camera/ncs45dj/,t3_1n8haon
+Mobile_Scientist1310,ncx6ae6,datascience,1757259691.0,"Hey there, let’s say I interviewed for the final round and haven’t heard back from recruiter after 1 week, should I assume a rejection?",1,/r/datascience/comments/1n8z37l/just_got_rejected_from_meta/ncx6ae6/,t3_1n8z37l
+Mobile_Scientist1310,ncx5p5l,datascience,1757259515.0,Following!,2,/r/datascience/comments/1nac35j/how_to_evaluate_data_transformations/ncx5p5l/,t3_1nac35j
+Mobile_Scientist1310,ncl8o3w,datascience,1757092763.0,Sorry to hear that.,1,/r/datascience/comments/1n8z37l/just_got_rejected_from_meta/ncl8o3w/,t3_1n8z37l
+Mobile_Scientist1310,nch2j9h,DataScienceJobs,1757033066.0,Get experience in DS domain and get referrals from hiring managers.,6,/r/DataScienceJobs/comments/1n8p2d6/what_is_the_best_way_to_find_a_job_in_data/nch2j9h/,t3_1n8p2d6
+Mobile_Scientist1310,ncaqqe2,datascience,1756949166.0,"Small language models can also be deployed on laptops, phones and other devices locally to make it cheaper and easily accessible. I hope that happens soon.",1,/r/datascience/comments/1mxrbck/nvidia_new_paper_small_language_models_are_the/ncaqqe2/,t3_1mxrbck
+DFW_BjornFree,ndlg39p,opendoor,1757574989.0,"I'd go for oct 3rd, you want to make sure it hits",3,/r/opendoor/comments/1ndveua/open_daily_discussion_september_11_2025/ndlg39p/,t3_1ndveua
+DFW_BjornFree,ndlfxqf,opendoor,1757574905.0,Dumbest thing I ever heard of there will never be a merger with HOOD that's not even feasible in the world of M&A they're such different products / companies,8,/r/opendoor/comments/1ne1qk1/any_proof_in_this_hood_merger_or_is_it_just_slop/ndlfxqf/,t3_1ne1qk1
+DFW_BjornFree,ndkuvf9,wallstreetbets,1757564330.0,Fuuuck yeah bro,1,/r/wallstreetbets/comments/1ndvgdr/finaly_hit_a_banger_boys_open_go_brrrrrr/ndkuvf9/,t3_1ndvgdr
+DFW_BjornFree,ndks0dh,wallstreetbets,1757563098.0,Shhhhh dont tell the reddit gods,1,/r/wallstreetbets/comments/1ndols2/what_are_your_moves_tomorrow_september_11_2025/ndks0dh/,t3_1ndols2
+DFW_BjornFree,ndkrx87,wallstreetbets,1757563061.0,Sry daddy I just wanted to let the real subs know you’re on the look for a new sub,1,/r/wallstreetbets/comments/1ndols2/what_are_your_moves_tomorrow_september_11_2025/ndkrx87/,t3_1ndols2
+Flat-Information6709,ndgdmay,statistics,1757514997.0,I probably wouldn't hire anyone with just a bachelor's degree nowadays. I likely would 10 years ago.  Maybe if someone has an amazing personality and was really willing to keep learning then maybe. But that type of person probably doesn't exist because they're smart enough that they would go on for a masters.,1,/r/statistics/comments/1nc3bxo/is_a_stats_degree_useless_if_i_dont_go_to_grad/ndgdmay/,t3_1nc3bxo
+Flat-Information6709,nct2yd1,datascience,1757197361.0,Sounds like a somewhat similar responsibility and experience as one of the guys on my team. I'm not certain what the market is in Europe right now but I'd keep looking if I were you. Here across the pond I'd pay £111K (what we'd call $150K) for that level of experience.  What you indicated your getting in pay is about entry level nowadays over here.  I worked at a fair big and will known tech company several years ago that was paying $125K recruiting from college plus stock.,1,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/nct2yd1/,t3_1na6x3q
+Flat-Information6709,mnkcv1x,leaf,1744888235.0,"I know ours is an S with 150 range, though at full charge the dashboard usually says about 170.  Just drove 85 miles on mostly freeway and some county roads a couple days ago and when we got home there was about 75 miles left (about 43% remaining).  No AC and no heat.  I really think those account for a large portion of range loss. Driving in a cold Colorado winter that same trip we would get home with about 20 miles left.",2,/r/leaf/comments/1k0cv80/maximize_range/mnkcv1x/,t3_1k0cv80
+Flat-Information6709,mj2b8ov,leaf,1742600432.0,I just bought a 2025 Leaf S.  Haven't had to use a smartphone except for Android Auto.  But that's just for Spotify and Audible.  Works completely fine without a smartphone.,1,/r/leaf/comments/1jgupqs/deleted_by_user/mj2b8ov/,t3_1jgupqs
+Flat-Information6709,mituh5c,datascience,1742491574.0,"Agreed. Degree is necessary.  It gives you the toolbox to solve the problems you'll encounter.  I have 20 years in the industry and from my experience there is a lot sub par analysis because of a lack of foundational knowledge. Frankly, the large language models are making it worse where anyone can run a machine learning model but they don't know if it's correct or not, how the model did it, or what they're even looking at.  But since, even slightly, ""ChatGPT said so then it must be right"". You can then coerce it into telling you what you want if you don't understand the output.  So I strongly suggest at least a bachelor's degree, at a minimum.",1,/r/datascience/comments/1jfrhbn/breaking_into_ds_with_no_degree/mituh5c/,t3_1jfrhbn
+ddofer,ndlqeuo,Godox,1757581109.0,Does the modelling light help with auto focus? And can you use it as a continous light source +- together with the flash?,1,/r/Godox/comments/1liia5u/what_are_the_differences_between_the_godox_v350/ndlqeuo/,t3_1liia5u
+ddofer,ndivrd4,LV426,1757539867.0,"It literally is ""The One Who Knocks""",1,/r/LV426/comments/1ncz358/alien_earth_s1_e6_the_fly_official_discussion/ndivrd4/,t3_1ncz358
+ddofer,ndb8xwf,datascience,1757443590.0,Keras is better,-14,/r/datascience/comments/1ncmcgf/pytorch_lightning_vs_pytorch/ndb8xwf/,t3_1ncmcgf
+ddofer,nda9u6s,interesting,1757433604.0,"Dang fine surgeon, either way.   
+Also good luck to him/her (depending on the direction! I can't tell!)!",1,/r/interesting/comments/1nc655l/this_person_went_viral_after_posting_their_5_year/nda9u6s/,t3_1nc655l
+ddofer,nda88z1,TopCharacterTropes,1757433161.0,"I feel like ""nazis should always be portrayed by jews/romanii/people with non white skin"" would make for a pretty good rule",0,/r/TopCharacterTropes/comments/1nbq2ph/satisfying_trope_nazi_portrayed_by_the_people_the/nda88z1/,t3_1nbq2ph
+CycoPie,nddj7wf,datascience,1757469745.0,"I started my first semester of community college this fall, and have been researching careers and majors to focus on when I transfer. Ideally, for right now, I want to major in computer science to get a data science job in the future. Right now, my experience is very limited. I took a python class in high school, but failed the PCEP due to mainly lack of studying and motivation (in my personal opinion, the class wasn't taught well). So right now, I'm kinda mixed on where to even start this journey. I joined my CC's IT club, and have been receiving emails about career fairs- but my resume has nothing related to computer science or programming on it at all. I still want to take advantage of these opportunities, but would it be a waste being a complete newbie? Any advice is welcome",1,/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/nddj7wf/,t3_1nbdtct
+CycoPie,nchnavg,FrankOcean,1757040183.0,"I remember not liking blonde either , listened like 3 years later and I like it a lot.",2,/r/FrankOcean/comments/1n8r600/my_friend_said_blonde_was_trash_what_should_i/nchnavg/,t3_1n8r600
+CycoPie,nb9cw58,AskStatistics,1756441097.0,Isn’t the market kinda bad for computer science grads at the moment?,1,/r/AskStatistics/comments/1mutecy/my_university_doesnt_offer_a_stats_bachelors_best/nb9cw58/,t3_1mutecy
+CycoPie,nb7ozhj,mlmscams,1756419191.0,Lol did he give up too much of his sauce? 😂,2,/r/mlmscams/comments/1n2pqhb/let_me_know_if_this_is_a_scam/nb7ozhj/,t3_1n2pqhb
+CycoPie,naa23ye,unt,1755970367.0,Lol Ifykyk,1,/r/unt/comments/1my2amb/ascend_totk/naa23ye/,t3_1my2amb
+Weary_Particular_963,nde3xay,spaceporn,1757477987.0,"Not OP, but the concept you're talking about, heliobiology, especially regarding the sun affecting human moods, emotions, or physical states, doesn't have much evidence to support it. Some people report getting migraines or other symptoms during geomagnetic storms, but larger studies find no correlation between enhanced solar activity and human health. That said, it's an ongoing area of research and it's not totally impossible that some people are affected in minor ways.",9,/r/spaceporn/comments/1ncyucl/huge_coronal_hole_is_turning_towards_us_expect/nde3xay/,t3_1ncyucl
+Weary_Particular_963,nde3gv4,spaceporn,1757477780.0,"I wish! Coronal holes don't release coronal mass ejections (CMEs), those are caused the magnetic fields interacting in complex sunspot regions. The typical effect from coronal holes is faster and lower density solar wind, which can cause minor geomagnetic storming on Earth, but nothing major.",1,/r/spaceporn/comments/1ncyucl/huge_coronal_hole_is_turning_towards_us_expect/nde3gv4/,t3_1ncyucl
+Weary_Particular_963,nde2gj1,spaceporn,1757477337.0,"This is fairly normal. There's a zero percent chance of the coronal hole alone causing auroras in the southern US, that takes a very powerful geomagnetic storm (category G4-G5), while a coronal hole can usually only cause minor storming (category G1-G2). Thankfully there are some potentially interesting sunspot regions rotating onto the Earth-facing side in a few days, so if those launch something at us after the Earth's magnetic field is still ""ringing"" from the enhanced wind from the coronal hole, we could see some pretty lights. Don't hold your breath, though.",2,/r/spaceporn/comments/1ncyucl/huge_coronal_hole_is_turning_towards_us_expect/nde2gj1/,t3_1ncyucl
+Weary_Particular_963,nd6edm9,EnvironmentalEngineer,1757376129.0,"Thank you! I’m definitely interested in talking more, I’ll DM you.",1,/r/EnvironmentalEngineer/comments/1nbz4lu/modeling_simulation_and_datafocused_environmental/nd6edm9/,t3_1nbz4lu
+Weary_Particular_963,nd6dxtg,EnvironmentalEngineer,1757375977.0,"I hadn’t thought about getting trapped in the same role forever, thanks for your perspective! Can I ask what you mean by “outsourced to specialists?” Do you mean an environmental engineering team will hire someone like a data scientist to do data science work instead of using an environmental engineer to do it? ",1,/r/EnvironmentalEngineer/comments/1nbz4lu/modeling_simulation_and_datafocused_environmental/nd6dxtg/,t3_1nbz4lu
+garden-snail,nd5n0tq,careeradvice,1757366874.0,"Thanks for this, it's stuff I know implicitly but it does really help to hear other people say it!",1,/r/careeradvice/comments/1nc05td/advice_for_making_mistakes_at_work/nd5n0tq/,t3_1nc05td
+garden-snail,nd5h6b0,datascience,1757365102.0,"I would say the increase in salary doesn't justify the move, especially in the current unstable economy. I'd wait for a more significant salary jump if you want to move to something more cutting edge but potentially more unstable, so you can at least squirrel away funds your first few months in case layoffs come early. It's really grim out there!",1,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/nd5h6b0/,t3_1na6x3q
+garden-snail,n96516b,OCD,1755435556.0,"Finding this while going through something similar. I work with data and normally can extract myself from obsessive checking, but it’s really hard when I deliver “final” data which I had to do this week. Found a minor error after delivery which I corrected but now I’m convinced there are errors everywhere and am really having a hard time not checking more.
+
+Have you figured out any strategies for dealing with it/stopping yourself from checking? I work with a therapist but am considering going on medication soon because it has gotten so bad. The most helpful thing for me so far has just been trying to accept the uncertainty of whether the data is perfect, and if the worst happens and I’ve made an irredeemable mistake and get fired, it honestly wouldn’t be so bad given the horrible anxiety this job gives me. I don’t think the problem is data analysis overall but the particular situation I’m in I have been given a lot of responsibility without feeling like the right processes are in place to mitigate mistakes.",1,/r/OCD/comments/1m9hh1y/ocd_in_tech_feels_like_a_superpower_until_its_not/n96516b/,t3_1m9hh1y
+garden-snail,n62osbm,careerguidance,1753919344.0,"I am not anywhere near the medical field, but to me it sounds like you would just be trading one career you aren't super passionate about for another. I get the sense that in order to survive medical school, you need to have some intense intrinsic (or extrinsic, I understand many people go to med school because of pressure from family) motivations that I don't see that you have, since you seem kind of lukewarm about it.
+
+I understand the draw to stability - it seems like becoming a doctor is probably one of the most stable careers, but I'm not sure the promise of stability alone can get you through what is certain to be a grueling 10+ years. I want to also say that I think that there is uncertainty in most lines of work, not just tech, but it's something that you can learn to deal with. Who knows what tech is going to look like in ten years, but federal workers in the US probably didn't anticipate how unstable their jobs have become especially since government jobs are often thought of as being incredibly stable. At least with tech you learn how to be consistently teaching yourself new tools and hopefully can be prepared to adjust with the changing AI hellscape. 
+
+You can also keep doing your job but potentially for an organization whose mission aligns more with your values (you like hiking and being outdoors for example, can you move to software engineering for some kind of climate tech org or non-profit)? If not, and you really want to seriously consider the med school option, I think you need to dig around for a more powerful motivator before you commit yourself to it.",2,/r/careerguidance/comments/1mdlxto/torn_between_current_software_job_and_medical/n62osbm/,t3_1mdlxto
+garden-snail,mzyslmv,careeradvice,1750977287.0,"I’m currently experiencing some pretty rough burnout even though, on paper, my job has great work/life balance. This is mainly due to the fact that I am unwilling to work more than 9-5, but still have a lot on my plate to get done- so I am hunched over, stressed out, for 8 hours a day. Even working just your required 40 hours a week can feel like poor work/life balance if you feel like you can’t take a walk, reorganize your desk, or get to play around with different ways of solving problems instead of just choosing whichever way is the fastest. Yes, I get my work done during work hours, but I have to be 100% locked in 100% of the time to do it. Our brains were just not meant to do that 8 hours per day.
+
+I am not sure if your employee was experiencing this or just making up an excuse to not tell you the real reason, but it’s something to think about in terms of what burnout can look like in spite of looking great on paper.",1,/r/careeradvice/comments/1llaz0n/employee_quit_claiming_better_worklife_balance_im/mzyslmv/,t3_1llaz0n
+CIA-chat-bot,ndhdlix,smallstreetbets,1757525151.0," 
+Add a zero and then people won’t call it luck.",8,/r/smallstreetbets/comments/1ndh8sj/25_to_10000_in_30_days/ndhdlix/,t3_1ndh8sj
+CIA-chat-bot,ndclfoa,datascience,1757458075.0,"Yes, DM me your GitHub username.",1,/r/datascience/comments/1nc93qq/i_built_a_card_recommender_for_edh_decks/ndclfoa/,t3_1nc93qq
+CIA-chat-bot,ndanh61,datascience,1757437534.0,"I built something similar, but you can actually choose from different formats, standard, modern commander. I used something similar to apriori.",2,/r/datascience/comments/1nc93qq/i_built_a_card_recommender_for_edh_decks/ndanh61/,t3_1nc93qq
+CIA-chat-bot,nd489iu,Canaries,1757352062.0,Looks like some type of mosaic but not sure,3,/r/Canaries/comments/1nbsrjd/what_kind_of_canary_is_this/nd489iu/,t3_1nbsrjd
+CIA-chat-bot,nd2plp8,mtgfinance,1757335192.0,I loaded FIN prices not long ago. Not sure how active it is. Certainly fetches the UUIDs for new cards from their allPrintings files,1,/r/mtgfinance/comments/1nb9ssj/where_do_you_get_your_data/nd2plp8/,t3_1nb9ssj
+tongEntong,nd5yvag,datascience,1757370709.0,Wow you’re good. 👍,-3,/r/datascience/comments/1nbxzs0/analysing_priority_zones_in_my_area_with/nd5yvag/,t3_1nbxzs0
+tongEntong,nd5tiom,datascience,1757368926.0,Wow you’re good,-3,/r/datascience/comments/1nbxzs0/analysing_priority_zones_in_my_area_with/nd5tiom/,t3_1nbxzs0
+tongEntong,nd5ti1u,datascience,1757368920.0,Wow you’re good,-2,/r/datascience/comments/1nbxzs0/analysing_priority_zones_in_my_area_with/nd5ti1u/,t3_1nbxzs0
+tongEntong,ncu16t6,auscorp,1757209672.0,Thank you 🥺,1,/r/auscorp/comments/1n88eo0/data_analyst_building_machine_learning_model_in/ncu16t6/,t3_1n88eo0
+tongEntong,ncohxcn,dataengineering,1757132233.0,Also some people just nitpick and derive satisfaction from looking down on people and proving their ego and level of intelligence. Could be purely done without any constructive feedback whatsoever,1,/r/dataengineering/comments/1n8ggw3/people_questioning_your_results/ncohxcn/,t3_1n8ggw3
+Drakkur,ndc5edp,datascience,1757452870.0,"Post PyTorch 2.0 is relatively easy and it becomes trivial using things like Ray (Data, Train, Tune). 
+
+I never use it outside of torchmetrics or if a particular framework is built on top of it. 
+
+If I had your colleague I’d ask if they would like to standardize the entire team’s code on lightning. Then hand them your code to refactor and say you would gladly use lightning for all future projects.",7,/r/datascience/comments/1ncmcgf/pytorch_lightning_vs_pytorch/ndc5edp/,t3_1ncmcgf
+Drakkur,nd3j3ea,Economics,1757344701.0,"Screaming at people to go vote hasn’t worked since the dawn of time and unless things get really bad they won’t. You can’t change human behavior completely, but you can at least make things fair structurally.",3,/r/Economics/comments/1nb7lp0/you_can_trust_the_jobs_report_labor_department/nd3j3ea/,t3_1nb7lp0
+Drakkur,nd3hz8y,Economics,1757344360.0,"Vote or not, Texas is more red than blue based on polls. But the distribution of house representation does not match the distribution of the polled parties. So yes Gerrymandering does make a huge difference",3,/r/Economics/comments/1nb7lp0/you_can_trust_the_jobs_report_labor_department/nd3hz8y/,t3_1nb7lp0
+Drakkur,nd2u57p,Economics,1757336823.0,"While this damage is overt, gerrymandering has basically been a 30yr plan to reduce balanced representation and disenfranchise voters. Aka giving people the sense of it being pointless to try.",16,/r/Economics/comments/1nb7lp0/you_can_trust_the_jobs_report_labor_department/nd2u57p/,t3_1nb7lp0
+Drakkur,ncq21kf,MagicArena,1757162436.0,"Not true, you can have it say “target player adds mana in UR combination”.
+
+Now you can interact with it on the stack.",16,/r/MagicArena/comments/1n9svm0/new_vivicauldron_tech/ncq21kf/,t3_1n9svm0
+Single_Vacation427,ndld0bk,TheTraitors,1757573285.0,"I can't believe UK traitors has actually famous people, and US traitors has tacky reality TV show people who I have no clue who they are.",1,/r/TheTraitors/comments/1naq65v/the_traitors_uk_celebrity_my_guess_a_who_will_be/ndld0bk/,t3_1naq65v
+Single_Vacation427,ndjyfxu,womenintech,1757552197.0,"There is research that women who take breaks are less likely to make the same salary as women who don't take the break.
+
+Also, the problem is not AI, the problem is the economic uncertainty and possibly, recession. There are less jobs and there could be potentially less jobs, because companies are moving investments to computing infrastructure.
+
+I know you don't want tips on upskilling, but I do think you need something to show and it cannot be 'projects'. I have a friend who took like 1.5 years and cannot get a job. She has nothing to show for her gap and also, is applying to too many broad things. I would sign up for the georgia tech online degree. It's part time and total is 7k. You might even be able to do an internship towards your end of the 2 year gap, since you would qualify as a student.",9,/r/womenintech/comments/1ndsxqu/is_a_2year_career_gap_in_programming_career/ndjyfxu/,t3_1ndsxqu
+Single_Vacation427,ndin760,UXResearch,1757537601.0,"I would move to content design instead of UXR. There seems to be an area growing that has UX content design working on prompts and content design. That's all I know about it, but it seems like a better option that UXR. UXR is moving a lot towards mixed-methods and you don't have any statistics background.
+
+Another option is to look into brand marketing and content strategy. I don't know anything about it, but you could investigate that.",1,/r/UXResearch/comments/1nconm2/career_transition_but_within_the_ux_space/ndin760/,t3_1nconm2
+Single_Vacation427,ndilwb1,UXResearch,1757537271.0,"Contracts for  UXR
+
+Data analytics that are for something behavioral or very much overlap with your domain knowledge. Data analytics is very different to data science. Data science is all over the place, though.",3,/r/UXResearch/comments/1ndojxy/for_all_the_ux_researchers_who_cannot_find_ux/ndilwb1/,t3_1ndojxy
+Single_Vacation427,nddr178,TheTraitors,1757472632.0,Do we think the people behind the camera gasp at what's going on?,7,/r/TheTraitors/comments/1ncteyp/the_traitors_ireland_s01e06_discussion_thread/nddr178/,t3_1ncteyp
+Bear4451,ncsgpaa,LocalLLaMA,1757190169.0,OpenWebUI + Google Search API. It works but a bit annoyed with the speed when chunking the results from search.,1,/r/LocalLLaMA/comments/1n9sod7/what_is_the_most_effective_way_to_have_your_local/ncsgpaa/,t3_1n9sod7
+Bear4451,ncs7zsl,datascience,1757187456.0,"Thought you were describing me minus the new job offer… Tons of autonomy in the current role yet  feeling stuck due to no career growth / clear career ladder.
+
+I am however more interested in developing cool mini SaaS that I have in mind instead of working for someone else now. Will try to enjoy the stress-free environment while learning and experimenting with my own ideas.
+
+All the best to your journey regardless.",2,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/ncs7zsl/,t3_1na6x3q
+Bear4451,n5s88ar,datascience,1753793123.0,Depends on how much you’re getting paid.,1,/r/datascience/comments/1mc2zaz/does_a_data_scientist_need_to_learn_all_these/n5s88ar/,t3_1mc2zaz
+Bear4451,myt0bq7,homelab,1750424711.0,Cool the room if you can’t cool the server.,2,/r/homelab/comments/1lg1vk5/first_server_build_not_fully_complete_struggling/myt0bq7/,t3_1lg1vk5
+Bear4451,mys4662,ADO,1750409919.0,Looking at this gives me flashbacks and concert withdrawal. I NEED THE NEXT ONE NOW.,4,/r/ADO/comments/1lfs1rh/i_got_given_a_copy_of_the_official_setlist/mys4662/,t3_1lfs1rh
+Orobayy34,ncrvaor,datascience,1757183545.0,"If I were in your shoes, I'd switch in a heartbeat.",-2,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/ncrvaor/,t3_1na6x3q
+Orobayy34,nc2ea7k,quant,1756841160.0,What's your benchmark? Looks like it should be the NASDAQ-100.,18,/r/quant/comments/1n6sgtw/can_extremely_online_ceos_be_predictive_and_can/nc2ea7k/,t3_1n6sgtw
+Orobayy34,nb4m8gi,badeconomics,1756387108.0,"I assure you, the market does not price US treasuries as risk-free assets. There _is_ a (currently small) credit spread on treasuries, but in the past this has been quite large.",8,/r/badeconomics/comments/1n23ixd/ej_antoni_is_unqualified_to_run_the_bls_his/nb4m8gi/,t3_1n23ixd
+Orobayy34,n9yjwqb,dataengineering,1755808943.0,Certs are usually more important to get your CV past the HR rep. Agreed that hiring managers will base their decision on your first 5 mins of speaking with them.,1,/r/dataengineering/comments/1mwkjj5/how_important_is_a_c1_english_certificate_for/n9yjwqb/,t3_1mwkjj5
+Orobayy34,n9y4gz0,dataengineering,1755804441.0,"If you're applying to European firms, it's probably important. American firms won't know what it means, you might want an American cert if applying in the US/Canada/AUS.",1,/r/dataengineering/comments/1mwkjj5/how_important_is_a_c1_english_certificate_for/n9y4gz0/,t3_1mwkjj5
+Bayesian1701,ndkcqfm,datascience,1757557201.0,This is super helpful. I’ve heard of the statistical learning but didn’t think to look for a course. The other course looks interesting to. I have a job but I hate it. I have been aggressively looking for a month (probably sent out 100+ applications) and had ChatGPT tailor my resume but no responses yet. ,2,/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/ndkcqfm/,t3_1nbdtct
+Bayesian1701,nddx7ds,datascience,1757475089.0,I have a PhD in Statistics and about 4 years of professional experience. I’m thinking of pivoting into a more data science role. I’m decent at SQL but I haven’t used python in a while . I’m an R expert.  My classical stats knowledge is strong but I don’t have a ton of exposure to ML/AI. What are some ways to learn data science skills (particularly python and ML) that don’t assume I know nothing? ,1,/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/nddx7ds/,t3_1nbdtct
+Bayesian1701,n80md54,ExclusivelyPumping,1754865499.0,I have a diaphragm ($10) and a connector ($15) both new. $20 for both. ,1,/r/ExclusivelyPumping/comments/1lp71wk/monthly_parts_exchange/n80md54/,t3_1lp71wk
+Bayesian1701,n5z5y49,ExclusivelyPumping,1753882496.0,I did not have a drop from 4ppd (28oz) to 3ppd. At 2ppd I was making about 20 oz with two 20 minute sessions and made about the same until I got down to less than 10 minutes and it started decreasing. My boobs somehow got more efficient? By the time I was at 1ppd I was getting a bottle. ,1,/r/ExclusivelyPumping/comments/1m9rusi/how_long_does_it_take_to_wean_with_oversupply/n5z5y49/,t3_1m9rusi
+Bayesian1701,n5b060v,ExclusivelyPumping,1753554406.0,"At 9 months pp I was making an extra bottle a day with 4ppd.  I did 3 pumps at 10 months pp, started 2 ppd 2 weeks before babies first birthday, shaved time off a minute or two a day and was down to 1ppd on one side by first birthday. One week after first birthday other side was down to 1ppd and then I basically pumped for I thought my slacker boob was done but it wasn’t an I got mastitis after not pumping it for 3 days.  I took Sudafed because this felt like it was taking to long.  Did antibiotics and I’m 99% my last pump ever was Monday. So it took me 2 months to go from 4 ppd to nothing or 1 month to go from 2ppd to nothing. ",2,/r/ExclusivelyPumping/comments/1m9rusi/how_long_does_it_take_to_wean_with_oversupply/n5b060v/,t3_1m9rusi
+samushusband,nde10dm,datascience,1757476708.0,yea i checked and there isnt,1,/r/datascience/comments/1nbxzs0/analysing_priority_zones_in_my_area_with/nde10dm/,t3_1nbxzs0
+samushusband,nd6d5v1,datascience,1757375707.0,thank you very much i will try that.,1,/r/datascience/comments/1nbxzs0/analysing_priority_zones_in_my_area_with/nd6d5v1/,t3_1nbxzs0
+samushusband,ncdgr22,HollowKnight,1756993897.0,"cool art , i can say i was there the day of the release of silk song .",4,/r/HollowKnight/comments/1n84n1m/oc_rest/ncdgr22/,t3_1n84n1m
+samushusband,nbbbvd4,FavoriteCharacter,1756474656.0,ho boy tell ME about it,1,/r/FavoriteCharacter/comments/1n2urj3/favorite_character_that_made_you_go/nbbbvd4/,t3_1n2urj3
+samushusband,naex7ta,popculturechat,1756044132.0,"kylo ren, like he didnt look like a bad guy but a moody teenager , i remember laughing the first time he took off his mask",4,/r/popculturechat/comments/1myill0/what_face_reveals_made_a_character_lose_all_of/naex7ta/,t3_1myill0
+Rockingtits,nd1pxjy,datascience,1757316436.0,"I'd say hindrance. The data we have is OK, the issue is the legacy systems used mean integration of any DS products is hard. For example some of our models have to run 24 hours lagged because of data availability.",2,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/nd1pxjy/,t3_1na6x3q
+Rockingtits,ncwqxq8,datascience,1757255079.0,"Thanks for the input, it seems to be quite polarising. Why do you feel that way?",2,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/ncwqxq8/,t3_1na6x3q
+Rockingtits,ncvfw2e,datascience,1757233579.0,"Thanks, this is good advice",1,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/ncvfw2e/,t3_1na6x3q
+Rockingtits,ncvfqlt,datascience,1757233492.0,"Yeah unfortunately the wages over here in the UK are abysmal compared to the US outside of a small number of companies concentrated in London. 
+
+This new company does have a ""senior"" role paying up to £135K but its not clear how long it'd take me to get there. 
+
+If you'd like to offer me a job then I am open to relocation and please drop me a DM ha!",2,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/ncvfqlt/,t3_1na6x3q
+Rockingtits,ncsroyb,datascience,1757193606.0,"This is really insightful, thank you.
+
+I guess ultimately in my current role I feel the ultimate success or failure of my work is outside of my control. Similarly I feel that my growth is hampered by being the most senior technical voice in most conversations, which feels risky at this stage of my career. I guess the new role only solves one of those problems whilst creating many others. 
+
+I will take your suggetoin on board and plot out those paths. 
+
+Thanks",2,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/ncsroyb/,t3_1na6x3q
+pippy64598,nd7lfif,datascience,1757391923.0,Also wondering this!,1,/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/nd7lfif/,t3_1nbdtct
+pippy64598,nd4nd0h,datascience,1757356394.0,I recently graduated with a DS major from a small liberal arts school and have been having pretty much no luck on 200+ DS/DA job apps. Is there any set of certificates/portfolio work that would move the needle employment-wise or is a bachelor's from a small non-STEM school pretty much never going to cut it on its own?,2,/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/nd4nd0h/,t3_1nbdtct
+pippy64598,nd4n7qc,datascience,1757356352.0,Can I ask what the MSc is in?,1,/r/datascience/comments/1n9yrfy/europe_salary_thread_2025_whats_your_role_and/nd4n7qc/,t3_1n9yrfy
+pippy64598,n2u9iy4,SaltLakeCity,1752377688.0,Thanks so much - that's super helpful!,1,/r/SaltLakeCity/comments/1ly885b/solo_weekend_in_slc/n2u9iy4/,t3_1ly885b
+pippy64598,n2t0jma,SaltLakeCity,1752360711.0,Thanks so much - that's really helpful!,2,/r/SaltLakeCity/comments/1ly885b/solo_weekend_in_slc/n2t0jma/,t3_1ly885b
+agp_praznat,ncy1noa,datascience,1757268783.0,"What do you mean exactly by ""data quality is very poor"" ? Is it blocker-level or more hindrance-level?",1,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/ncy1noa/,t3_1na6x3q
+agp_praznat,ncy058j,datascience,1757268357.0,What are some concrete examples?,2,/r/datascience/comments/1nac35j/how_to_evaluate_data_transformations/ncy058j/,t3_1nac35j
+agp_praznat,m3gy72z,SunoAI,1734977449.0,"I've been getting Suno to use ""non-standard"" accents in the vocals by first writing the lyrics using characters from other languages that carry specific pronunciations (e.g. ø for ""uh"" sound, Georgian რ for rolled ""r""). These can sound unintelligible on their own, so the next step is to ""Edit Song Details"" and change the lyrics to the original language, then ""Remaster"" (note you can remaster songs that are already v4 to get slight variation.) For example:
+
+Original with foreign characters:
+
+[https://suno.com/song/df69dfbe-6f3e-49dc-b218-d25229506467](https://suno.com/song/df69dfbe-6f3e-49dc-b218-d25229506467)
+
+Remastered with standard characters:
+
+[https://suno.com/song/9df21ab2-e06f-45df-9841-825de8c808a4](https://suno.com/song/9df21ab2-e06f-45df-9841-825de8c808a4)",5,/r/SunoAI/comments/1c6qevk/megathread_suno_tips_tricks/m3gy72z/,t3_1c6qevk
+WhatIsMyNamme,ncs0ult,datascience,1757185232.0,"That round trip sounds fucking horrific, wfh is a huge factor for me so I guess that's why I would say not to do it. The increase in salary doesn't justify that long of a commute imo",22,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/ncs0ult/,t3_1na6x3q
+WhatIsMyNamme,ncfc1z6,FullmetalAlchemist,1757013129.0,"I think that makes it worse if everyone else but him can use it lol, alchemy was part of his life since he was a child, so to lose it must be a huge hit",-8,/r/FullmetalAlchemist/comments/1n8icf1/the_best_ending_in_anime_history/ncfc1z6/,t3_1n8icf1
+WhatIsMyNamme,ncfbxi6,FullmetalAlchemist,1757013092.0,Probably Code Geass' ending!,1,/r/FullmetalAlchemist/comments/1n8icf1/the_best_ending_in_anime_history/ncfbxi6/,t3_1n8icf1
+WhatIsMyNamme,ncf76q0,FullmetalAlchemist,1757011688.0,Nah this is my second favorite anime but this was too bittersweet.... Never being able to use alchemy again sucks,12,/r/FullmetalAlchemist/comments/1n8icf1/the_best_ending_in_anime_history/ncf76q0/,t3_1n8icf1
+WhatIsMyNamme,nc3pkpn,Palworld,1756856042.0,Yall got a 10 year age gap? That's crazy>!\s!<,-5,/r/Palworld/comments/1n6xz0x/anyone_else_playing_hardcore/nc3pkpn/,t3_1n6xz0x
+peterxsyd,ndequ7k,edmproduction,1757490162.0,"To help answer this - I tend to have 100+ tracks in projects. Most of the time, there is very little on a lot of them, and the core track is on 20-30 tracks. However, examples of what goes on the other tracks is:
+
+*  Ambient sounds, to add a sense of space and randomness
+*  Layers - to strengthen sounds that do not cover enough of the frequency spectrum
+* Duplicated and slightly de-tuned, and/or transposed version of the same track - for the same reason (often up to 4x).
+* Bounced FX - where I want to control the reverb tail, chop it up, etc. etc. - also hyper processed versions of a track, maybe even low in the mix or similar.
+* Glitches
+* Drums - a big one. Lots of little, often quiet drums.
+
+  
+This is for Anjunadeep-like progressive house.
+
+The end result is that the track, sounds more textured, a little more interesting, and basically the little bits of randomness and layers add weight to the track. 
+
+The downside is that it then becomes harder to mix. Many professional tracks use 20-30 tracks and then they hyper optimise their space within the track, and the result is a clean, fat sound. So it is definitely not a requirement to use more, and if the underlying musical idea is interesting, sometimes there is less need to add more interest.
+
+Others may have a different perspective.",5,/r/edmproduction/comments/1ncxnkp/advanced_producers_have_like_100_tracks_in/ndequ7k/,t3_1ncxnkp
+peterxsyd,ndeq20m,dataengineering,1757489695.0,"Hi there, don't be scared. If you are driving the tool and delivering fast results successfully, this is still a job (at least for the moment!). Use this time to invest heavily in your skill-set and/or education, whilst learning the business fundamentals. For e.g., learn Python ASAP - as SQL, other than for solving analytical problems, is not as safe as full-scale languages, which can integrate analytics with wider system and data contexts. That way by the time is can handle what you are doing now - maybe in a few years, you will have levelled up. It's better to embrace it I think.
+
+I would feel more concerned if you weren't using AI, and other people were then much faster than you as a result.",5,/r/dataengineering/comments/1nd2r08/70_of_my_workload_is_all_used_by_ai/ndeq20m/,t3_1nd2r08
+peterxsyd,nd56onw,dataengineering,1757362084.0,"I really love it for creating Docker files and hooking up ports. I used to waste a lot of time on that stuff, and now it belts it out.
+
+Same for creating test scripts in .py files, all this kind of stuff.
+
+Helps keep focused on the actual engineering work!",4,/r/dataengineering/comments/1nbq62q/is_there_any_usecase_for_ai_that_actually/nd56onw/,t3_1nbq62q
+peterxsyd,nczowsk,rust,1757286098.0,"Cool, I'll reach out.",0,/r/rust/comments/1nb6to2/decentralized_operating_system/nczowsk/,t3_1nb6to2
+peterxsyd,nczln94,rust,1757285035.0,"Hi, I am super interested in this. However, I would only be interested if the core computational P2P work handler is not coupled to the bitcoin tokens, and that functionality is agnostically separate (but still compatible). That way, it can be used as a 'crowd-compute' mechanism which I believe is more generalisable, and something I require for another project.
+
+Would you be open to building/ co-building it with the right architectural guidance (and an army of Claude's) or is this something you are looking to palm off completely? Cheers.",-1,/r/rust/comments/1nb6to2/decentralized_operating_system/nczln94/,t3_1nb6to2
+bingbong_sempai,ndl525f,mtg,1757569096.0,I just realized it'll also resolve if you respond to Kiki tapping with the Rakdos charm,2,/r/mtg/comments/1ndwolq/playing_against_kiki_combo_be_like/ndl525f/,t3_1ndwolq
+bingbong_sempai,ndkzs9i,datascience,1757566553.0,Game simulation might be too hard. I have a different project where I did curve out simulations for land and draw counts though!,1,/r/datascience/comments/1nc93qq/i_built_a_card_recommender_for_edh_decks/ndkzs9i/,t3_1nc93qq
+bingbong_sempai,ndkl7vs,mtg,1757560337.0,It’ll resolve if they expect to attack with their tokens,7,/r/mtg/comments/1ndwolq/playing_against_kiki_combo_be_like/ndkl7vs/,t3_1ndwolq
+bingbong_sempai,ndjxz52,mtg,1757552037.0,Swap him for Gaea's Cradle :),1,/r/mtg/comments/1ndnq0b/is_he_still_ban_worthy/ndjxz52/,t3_1ndnq0b
+bingbong_sempai,ndj4sgr,datascience,1757542465.0,Thanks!,1,/r/datascience/comments/1nc93qq/i_built_a_card_recommender_for_edh_decks/ndj4sgr/,t3_1nc93qq
+ThomasAger,ndhy92z,opensource,1757530963.0,"We use OpenAI for causes like psychology, spirituality and therapy, as well as art. My wife is a physical and digital artist as am I.",1,/r/opensource/comments/1nd946a/smile_its_my_first_open_source_project/ndhy92z/,t3_1nd946a
+ThomasAger,ndfy5t0,PromptEngineering,1757510345.0,Intuitive prompters don’t need to.,0,/r/PromptEngineering/comments/1nd95x1/how_necessary_is_learning_to_prompt/ndfy5t0/,t3_1nd95x1
+ThomasAger,ndfwphg,PromptEngineering,1757509877.0,Use a prompt language or make your own :),1,/r/PromptEngineering/comments/1nby9mt/whats_your_best_pro_advice_for_someone_new_to/ndfwphg/,t3_1nby9mt
+ThomasAger,ndfjegj,ChatGPTPromptGenius,1757505173.0,The dependence that people have on using (: Smile prompt language?,1,/r/ChatGPTPromptGenius/comments/1n5h8vq/my_wife_wanted_me_to_be_happier_while_i_worked_so/ndfjegj/,t3_1n5h8vq
+ThomasAger,ndfjcce,ChatGPTPromptGenius,1757505150.0,"I've updated the readme, would you mind taking a look and letting me know if it makes more sense? 
+
+[https://github.com/DrThomasAger/smile/](https://github.com/DrThomasAger/smile/)",1,/r/ChatGPTPromptGenius/comments/1n5h8vq/my_wife_wanted_me_to_be_happier_while_i_worked_so/ndfjcce/,t3_1n5h8vq
+iwannabeunknown3,ndhvyvc,datascience,1757530329.0,I love passion projects like this. I will check it out,2,/r/datascience/comments/1nc93qq/i_built_a_card_recommender_for_edh_decks/ndhvyvc/,t3_1nc93qq
+iwannabeunknown3,nd94q4n,FinalFantasyTCG,1757420920.0,You are the goat,3,/r/FinalFantasyTCG/comments/1nc9wi2/what_are_good_crystal_payoffs/nd94q4n/,t3_1nc9wi2
+iwannabeunknown3,ncodumu,FinalFantasyTCG,1757130439.0,This Chocobo list could be your Wind list. You can skip the Limit Break deck unless you want to play with it. You could also cut some cards for the Chocobo summon. https://materiahunter.com/decks/Wr793PILlyafkSmJLtMZ,1,/r/FinalFantasyTCG/comments/1n8vmuy/demo_decks/ncodumu/,t3_1n8vmuy
+iwannabeunknown3,ncm5vhs,memphisgrizzlies,1757102626.0,Sadge,1,/r/memphisgrizzlies/comments/1n8mgir/eurobasket_set_our_boy_up_here/ncm5vhs/,t3_1n8mgir
+iwannabeunknown3,ncloha4,memphisgrizzlies,1757097401.0,When is the game?,1,/r/memphisgrizzlies/comments/1n8mgir/eurobasket_set_our_boy_up_here/ncloha4/,t3_1n8mgir
+Accurate-Usual8839,ndbjntb,Damnthatsinteresting,1757446680.0,"I would say the first does break apart because the small pieces are all moving in the direction of the first object, not the second object. If the incoming object broke I would expect its debris to continue in a similar direction.",7,/r/Damnthatsinteresting/comments/1ncot7c/new_ufo_video_released_by_rep_eric_burlison_shows/ndbjntb/,t3_1ncot7c
+Accurate-Usual8839,ndbjc2m,Damnthatsinteresting,1757446587.0,No idea what you mean by 'waves appear to change direction in relation to the object',0,/r/Damnthatsinteresting/comments/1ncot7c/new_ufo_video_released_by_rep_eric_burlison_shows/ndbjc2m/,t3_1ncot7c
+Accurate-Usual8839,ndb2ejm,ycombinator,1757441717.0,Their own personal risk,1,/r/ycombinator/comments/1nccmdp/why_bias_for_solo_founder_in_yc/ndb2ejm/,t3_1nccmdp
+Accurate-Usual8839,ndb28ak,Damnthatsinteresting,1757441668.0,How do you determine that it descends?,1,/r/Damnthatsinteresting/comments/1ncot7c/new_ufo_video_released_by_rep_eric_burlison_shows/ndb28ak/,t3_1ncot7c
+Accurate-Usual8839,ndb212r,Damnthatsinteresting,1757441612.0,"Falling for 30 seconds, at least. That means its at least 4410 m if it hits the water right after the collision. From the looks of the waves, it is not that high.",-1,/r/Damnthatsinteresting/comments/1ncot7c/new_ufo_video_released_by_rep_eric_burlison_shows/ndb212r/,t3_1ncot7c
+mutlu_simsek,nd1s6ke,borsavefon,1757317831.0,"Ne ladar destek verirsen ver yine gida krizi yasariz. Asil problem arsalarin bolunmus olmasi ve kimsenin tarimi gecim kaynagi olarak gormemesi, modern tarima gecilememesi, rant ekonomisinden dolayi herseyin pahali olmasi, ciftcinin egitimsizligi ve bilincsizligi, vs...",1,/r/borsavefon/comments/1na870k/neden_gıda_krizi_yaşıyoruz/nd1s6ke/,t3_1na870k
+mutlu_simsek,ncwn09f,GarajTurkiye,1757253900.0,Atkadan itis istiyorsan bmw yoksa civic. Gerisi tirt.,1,/r/GarajTurkiye/comments/1n9fka2/seçim_yapamıyorum/ncwn09f/,t3_1n9fka2
+mutlu_simsek,ncvs7e1,borsavefon,1757240733.0,"Dot com balonunun zirvesindeki sirket cisco 41. sirada, nvidia nin solunda.",1,/r/borsavefon/comments/1n9tmn8/top_50_largest_companies_in_the_world_dünyanın_en/ncvs7e1/,t3_1n9tmn8
+mutlu_simsek,ncpkkzv,TarihiSeyler,1757153902.0,Ataturk buyuk buhrana kadar liberal / amerikan gorusleri benimsiyor. Buyuk buhrandan sonra devletcilik basliyor. Bir asker olarak pragmatist biri.,1,/r/TarihiSeyler/comments/1n9c10n/bu_sözü_çok_görüyorum_ve_bu_sözü_kemal_atatürkün/ncpkkzv/,t3_1n9c10n
+mutlu_simsek,nciethj,snowflake,1757052355.0,"No, there is no genai feature.",1,/r/snowflake/comments/1n84pfn/perpetual_ml_suite_now_live_on_the_snowflake/nciethj/,t3_1n84pfn
+metalvendetta,nd96wz5,ycombinator,1757421720.0,"Some context for other folks who are reading this post:
+
+NRI -Non Resident Indian
+
+Lakhs - 100, 000 is called Lakhs in India. OP is saying he recieved 5 Lakhs, which means he recieved 500,000 Indian RS (\~6000$)",3,/r/ycombinator/comments/1ncgqwn/closed_my_first_round_with_an_investor_sitting/nd96wz5/,t3_1ncgqwn
+metalvendetta,ncy14ba,datascience,1757268634.0,"One good example question to ask is regarding Data Anonymization.
+
+For example in a customers.csv, I want to anonymize personally identifiable information about women, such as names, addresses, phone numbers etc. In this case, undestanding the context about the row content is essential.
+
+Wrote such an example here:
+
+[https://github.com/vitalops/datatune/blob/main/examples/data\_anonymization.ipynb](https://github.com/vitalops/datatune/blob/main/examples/data_anonymization.ipynb)
+
+  
+I'm pretty sure a text-to-sql benchmark cannot evalute for such problems. I was looking for a better evaluation standard.",1,/r/datascience/comments/1nac35j/how_to_evaluate_data_transformations/ncy14ba/,t3_1nac35j
+metalvendetta,ncxgr88,datascience,1757262798.0,"I’m looking for the first one, but the latter also sounds intriguing and I would use it. Do you have any pointers for me?",1,/r/datascience/comments/1nac35j/how_to_evaluate_data_transformations/ncxgr88/,t3_1nac35j
+metalvendetta,ncx5vas,datascience,1757259566.0,Are you solving in the same space? What specifically are you looking for?,1,/r/datascience/comments/1nac35j/how_to_evaluate_data_transformations/ncx5vas/,t3_1nac35j
+metalvendetta,nclocrq,ycombinator,1757097364.0,Still haven’t received a rejection mail yet. What does this mean??,2,/r/ycombinator/comments/1lzpcsv/fall_25_megathread/nclocrq/,t3_1lzpcsv
+Nunuvin,ndlfrwy,UCalgary,1757574815.0,"Math department does that, especially in 1st year courses. It's bs. Some profs got in trouble because they didn't disclose that they also get a kickback for each student who gets the access code... So for some time a free platform was forced for calc classes.",1,/r/UCalgary/comments/1ndrzme/can_profs_require_us_to_pay_for_textbooks_to/ndlfrwy/,t3_1ndrzme
+Nunuvin,ndlcmnt,datascience,1757573077.0,"I am a fullstack dev with big bias towards sql experience (2-5yrs total). Recently our team became ML team... No one knows anything about ML, so I am scrambling to learn it (Andrew Ngs lectures on yt, homl)\[any other suggestions, especially text and timeseries stuff?\].
+
+There is a second part, a big chunk of my coworkers are just in denial and giving up (I sent them kaggle tuts, they didnt even try). We got asked to poke around a dataset and see if there is something, but I feel they are not equipped for this with not much hope for improvement... All of my minor findings just got shot down with a consensus that we found nothing (I have a feeling that was the decision they made at the beginning)... Given the context I do get this feeling they really don't want this transition to succeed but I fear that then its end of the department. I do not feel like others are seeing it this way though.
+
+What is outlook for data sci if I survive this (I have BS in CS only)? or should I start fixing my resume?
+
+Have you dealt with such shit show, any tips?",1,/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/ndlcmnt/,t3_1nbdtct
+Nunuvin,ncir0qt,roguelikes,1757059313.0,"A bit out there but spelunky 1. On sale its 2.50ish.
+
+These are nice but not sure if they are good on deck: ADOM (currently on sale). Tiny rogues. Dungeons of dredmor. Path of Archa.
+
+I think this would be down your alley but outside of price and device - dwarf fortress (now has adventure mode on steam). On website its free, but It will be nearly impossible to play on deck (it uses a lot of hotkeys)... 
+
+Noita has a lot of depth but way outside specificed price range.
+
+Free but likely no support for steam deck brogue (really good), cataclysm dda (the website one, not steam!), elona, aurora (not the 4x one). Stone soup (really good), nethack (I played vulture, definitely needs hotkeys)...
+
+Ask google for games like ... its pretty decent at finding similar ones",0,/r/roguelikes/comments/1n6ulbi/5_and_a_steam_deck_any_suggestions_for_a_game_to/ncir0qt/,t3_1n6ulbi
+Nunuvin,nciilki,SoftwareEngineering,1757054434.0,Do dual degree w/ business or masters/phd or honours...,5,/r/SoftwareEngineering/comments/1n8xo6k/how_competitive_will_you_be_in_the_field_if_you/nciilki/,t3_1n8xo6k
+Nunuvin,nba68fj,developers,1756456742.0,"Some struggle with basic code but still able to drift through their careers. And no, AI doesn't make them 10x better.",1,/r/developers/comments/1n0x35z/my_senior_job_partner_doesnt_know_what_an_env/nba68fj/,t3_1n0x35z
+AutoModerator,ndmhht9,Pampanga,1757593990.0,"Reminder: We aim to foster a positive and informative community. Posts deemed to violate our guidelines will be removed, and the user may be permanently banned. 
+
+If you're looking for a new friend, sports buddy, or any activity buddy, you can check the general chat.
+
+For events in Pampanga, just check the pinned post. 
+
+REMINDER: NEW USER/NEWBIES' POSTS ARE AUTOMATICALLY REMOVED. JUST WAIT FOR THE MOD TO REVIEW IT!(Lahat ng post ng mga bagong user ay tinatanggal, ire-review muna ng moderator yan post niyo. Pero kung gusto niyong ma-BAN, sige po, mag-spam lang. 
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Pampanga) if you have any questions or concerns.*",1,/r/Pampanga/comments/1ne7l7l/commute_from_hau_to_floridablanca/ndmhht9/,t3_1ne7l7l
+AutoModerator,ndmhhr1,GayPorn_NSFW,1757593989.0,"
+Check out our NEW NSFW SUBS - XO_Faeriz - Thank you for your post!
+
+We're happy to have you getting involved in the community! We're your friendly (and horny) mods, if you have any questions, or you'd like to check out our gay couple content - visit - /u/shropmid1998 
+
+Feel free to drop us a message ;)
+
+
+Here you'll find a full list of our NSFW Subreddits for you to enjoy browsing and posting;
+
+https://www.reddit.com/r/GayPorn_NSFW/comments/1k8x732/our_nsfw_subreddits_check_them_out_and_enjoy/
+
+
+Are you thinking about starting your OnlyFans?
+
+If you enjoy posting your content and fancy doing your own onlyfans, use the link below for some help getting set up, drop us a message for any help and advice :)
+
+https://www.reddit.com/r/GayPorn_NSFW/comments/1da6maj/starting_your_onlyfans_help_advice/ 
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/GayPorn_NSFW) if you have any questions or concerns.*",1,/r/GayPorn_NSFW/comments/1ne7l6a/am_i_a_good_goon_fuel_3/ndmhhr1/,t3_1ne7l6a
+AutoModerator,ndmhhpr,MechanicAdvice,1757593989.0,"Thanks for posting on /r/MechanicAdvice!  Please review the [rules](https://www.reddit.com/r/MechanicAdvice/about/rules/). Remember to please post the year/make/model of the vehicle you are working on. **Post's about bodywork, accident damage, paint, dent/ding, questions it belongs in /r/Autobody r/AutoBodyRepair/ or /r/Diyautobody/  Tire questions check out https://www.reddit.com/r/MechanicAdvice/comments/k9ll55/can_your_tire_be_repaired/**. If you dont have a question and you're just showing off it belongs in /r/Justrolledintotheshop Insurance/total loss questions go in r/insurance This is an automated reply
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/MechanicAdvice) if you have any questions or concerns.*",1,/r/MechanicAdvice/comments/1ne7l76/2018_ford_focus_73000_just_bought_from_a_guy/ndmhhpr/,t3_1ne7l76
+AutoModerator,ndmhhp3,AskDocs,1757593988.0,"Thank you for your submission. **Please note that a response does not constitute a doctor-patient relationship.** This subreddit is for informal second opinions and casual information. The mod team does their best to remove bad information, but we do not catch all of it. Always visit a doctor in real life if you have any concerns about your health. Never use this subreddit as your first and final source of information regarding your question. By posting, you are agreeing to our [Terms of Use](https://www.reddit.com/r/AskDocs/wiki/terms_of_use) and understand that all information is taken at your own risk.
+**Reply here if you are an unverified user wishing to give advice. Top level comments by laypeople are automatically removed.** 
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AskDocs) if you have any questions or concerns.*",1,/r/AskDocs/comments/1ne7l71/how_can_i_deal_with_not_thinking_the_worst_about/ndmhhp3/,t3_1ne7l71
+AutoModerator,ndmhhoj,NaughtyWives,1757593988.0,"Welcome to the official r/Naughtywives subreddit! 
+
+Hey /u/Interesting_Street_5!
+
+* Your post has been approved!
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NaughtyWives) if you have any questions or concerns.*",1,/r/NaughtyWives/comments/1ne7l5w/husband_got_up_for_work_now_lets_get_you_up/ndmhhoj/,t3_1ne7l5w
+Specialist-Dog6334,nd7vin7,datascience,1757397012.0,"Your current role still has a lot of value, great balance, autonomy, and a clear path to a senior title soon. The new job is exciting but comes with startup risk, heavy travel, and less security for only a small pay bump. If you’re still learning and can negotiate a raise or mentorship opportunities where you are, it might be smarter to stay put while keeping an eye out for something that fits better long term.",1,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/nd7vin7/,t3_1na6x3q
+Specialist-Dog6334,nctiue9,petslover1,1757202939.0,Lmao! He loves drama!,1,/r/petslover1/comments/1na34n8/when_the_neighbors_argue/nctiue9/,t3_1na34n8
+Specialist-Dog6334,ncti0w1,dataanalyst,1757202647.0,"AI can definitely handle some of the tasks, but it doesn’t replace the thinking part. Companies still need people who understand the business, ask the right questions, and know when the data doesn’t make sense. Learning tools like Excel, SQL, or Power BI builds that foundation, AI just makes the process faster, not smarter.",2,/r/dataanalyst/comments/1n9r0qb/the_future_of_data_analysis_with_ai/ncti0w1/,t3_1n9r0qb
+Specialist-Dog6334,ncikz1a,analytics,1757055766.0,"First jobs are tough, and being thrown into a senior role without guidance is rough. Keep learning the way you’re doing, but also don’t be afraid to start looking for a place that actually supports growth.",1,/r/analytics/comments/1n8osyk/new_job_concernsseeking_advice/ncikz1a/,t3_1n8osyk
+Specialist-Dog6334,nciins5,snowflake,1757054468.0,"They focus on Snowflake cost optimization, query consolidation, and auto-tuning, basically making queries faster and cheaper without moving the data. Found a short clip that shows how it works.  [https://www.youtube.com/watch?v=43VFOtTL8w4&t=86s](https://www.youtube.com/watch?v=43VFOtTL8w4&t=86s)",1,/r/snowflake/comments/1n8wh40/looking_for_faster_cheaper_compute_resource_for/nciins5/,t3_1n8wh40
+venustrapsflies,ndkh0ud,HollowKnight,1757558752.0,"Wanderer is great for, you know, exploring. Which seems to be its design. I often switch to reaper or hunter for bosses though (beast seems too high-skill for me right now)",10,/r/HollowKnight/comments/1ndv3c5/ive_beaten_silksong_with_100_completion_here_are/ndkh0ud/,t3_1ndv3c5
+venustrapsflies,ndkgtvf,HollowKnight,1757558680.0,Same I tried to do a little spoiler-lite research to decide which door to use that key on but apparently it led me wrong,3,/r/HollowKnight/comments/1ndv3c5/ive_beaten_silksong_with_100_completion_here_are/ndkgtvf/,t3_1ndv3c5
+venustrapsflies,ndkgnrj,HollowKnight,1757558617.0,"can you elaborate on ""dash cancel""? i presume this lets you short-dash quickly, but how do you execute it? im curious if im doing this already or not",13,/r/HollowKnight/comments/1ndv3c5/ive_beaten_silksong_with_100_completion_here_are/ndkgnrj/,t3_1ndv3c5
+venustrapsflies,ndkcnpq,HollowKnight,1757557174.0,"IME beastfly wasn’t that bad on the try I got him on, however the several previous attempts were brutal with the adds. Seems like a boss with a lot of variance and RNG. Not fundamentally difficult but often so incidentally.",2,/r/HollowKnight/comments/1ndqe6q/worst_boss_in_the_game_thank_u_team_cherry/ndkcnpq/,t3_1ndqe6q
+venustrapsflies,ndk3bjr,baseball,1757553874.0,Whilst literally in the middle of a spiel blaming trans people and “gangs” (wink wink) for it,55,/r/baseball/comments/1nds9xe/montemurro_matt_shaw_has_been_scratched_from/ndk3bjr/,t3_1nds9xe
+Helpful_ruben,ndlvemg,datascience,1757584022.0,u/Unlikely-Lime-1336 Error generating reply.,1,/r/datascience/comments/1n81chu/whats_up_with_linkedin_posts_saying_excel_is_dead/ndlvemg/,t3_1n81chu
+Helpful_ruben,ndlrvbq,datascience,1757581973.0,Error generating reply.,1,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/ndlrvbq/,t3_1na6x3q
+Helpful_ruben,ndl63d1,engineering,1757569621.0,u/short_cake07 Error generating reply.,1,/r/engineering/comments/1n5gvgp/weekly_career_discussion_thread_01_sep_2025/ndl63d1/,t3_1n5gvgp
+Helpful_ruben,ndl1y3u,engineering,1757567570.0,Error generating reply.,1,/r/engineering/comments/1ncmxq2/why_are_manufacturers_still_asking_basic_rfq/ndl1y3u/,t3_1ncmxq2
+Helpful_ruben,ndiz5yb,Innovation,1757540823.0,u/Easy-Bag-6233 Error generating reply.,1,/r/Innovation/comments/1n78ytr/look_at_what_i_foundsos_solar_phone_charger/ndiz5yb/,t3_1n78ytr
+Delicious_Middle_191,nd9m0ou,datascience,1757426696.0,"If anyone's getting started with LLMs, I would reccomend watching this deatiled video on introduction to LLMs for absolute beginners, Give it a watch, It will be worth it [**https://youtu.be/Qqh2nSygcBg?si=io2lBxAqoUHYy-jS**](https://youtu.be/Qqh2nSygcBg?si=io2lBxAqoUHYy-jS)",0,/r/datascience/comments/1nac35j/how_to_evaluate_data_transformations/nd9m0ou/,t3_1nac35j
+Delicious_Middle_191,nd9lmxj,LLM,1757426578.0,Also see this a really insightful video to get started in LLMs and GenAI [https://youtu.be/Qqh2nSygcBg?si=io2lBxAqoUHYy-jS](https://youtu.be/Qqh2nSygcBg?si=io2lBxAqoUHYy-jS) It personally helped me alot understanding concepts.,1,/r/LLM/comments/1ncgers/did_i_explained_it_in_short_manner_like_brief/nd9lmxj/,t3_1ncgers
+Delicious_Middle_191,n08xp4a,datascience,1751121676.0,"Hey Guys. Data scientists and ML engineers spend most of their time working with data. I have compiled a detailed blog explaining an important question asked in Data science and ML interview. Do have a look on it. If you learn something from it. Like it and follow along in this upskilling journey and also do share with fellow learners!Thankyouuu!!
+
+[https://medium.com/@khushikeswani97/why-data-distribution-matters-how-to-handle-it-like-a-pro-9c81ad206f32](https://medium.com/@khushikeswani97/why-data-distribution-matters-how-to-handle-it-like-a-pro-9c81ad206f32)",-29,/r/datascience/comments/1lmneo7/i_built_a_selfhosted_databricks/n08xp4a/,t3_1lmneo7
+Delicious_Middle_191,n08wzd9,datascience,1751121446.0,"Hey Guys, Data science is a vast field. It has place for everyone who sticks to it and deepen roots in basics. For understanding basics, I have written a detailed blog explaining an important data science question often asked in interviews. Do read it and if you learnt something new, Like it and follow along in this upskilling journey. Thankyou!
+
+[https://medium.com/@khushikeswani97/why-data-distribution-matters-how-to-handle-it-like-a-pro-9c81ad206f32](https://medium.com/@khushikeswani97/why-data-distribution-matters-how-to-handle-it-like-a-pro-9c81ad206f32)",1,/r/datascience/comments/1lmi8j8/the_unicorn_is_dead_a_fourera_history_of_the_data/n08wzd9/,t3_1lmi8j8
+WingedTorch,ndm26sq,ImmigrationPathways,1757587576.0,">this notion that only some 300 odd korean contractors practice this sacred art is ridiculous.
+
+Everyone does this. Do you think when Tesla or Ford builds a factory abroad they don't bring some of their own a) experienced b) trusted technicians for specialized install/commissioning tasks like Hyundai did? And when building something heavy like a battery plant then it easily adds up to a few hundred.",1,/r/ImmigrationPathways/comments/1ne10vf/us_visa_mess_could_cost_billions_korea_demands/ndm26sq/,t3_1ne10vf
+WingedTorch,ndlqoxg,OpenAI,1757581273.0,">I don’t use fastMCP. If the MCP server was built with stdio, it won’t connect over http unless it also has http support.
+
+So what do you use? I am not aware of any library that has no http support for MCP? Maybe switch the library then.
+
+>ChatGPT Mac app, which is what I use, is a local process.
+
+Okay well for that it would be possible. Maybe they will add it at some point? But I think a solution that works for the web page through the browser and the apps has priority for OpenAI. And a web page usually doesn't get access to OS pipes, so that's why stdio doesn't work for now.",1,/r/OpenAI/comments/1ne21sf/chatgpt_finally_has_mcp_support/ndlqoxg/,t3_1ne21sf
+WingedTorch,ndllmts,OpenAI,1757578262.0,"It's usually just a parameter to set in your MCP library, and it shouldn't be any effort for you to use your MCP server that you currently use with stdio with http instead when connecting to ChatGPT. What are you using, FastMCP?
+
+Stdio is for local processes, that's right. ChatGPT isn't a local process so it has to go through http :) 
+
+You shouldn't have to worry about http(s) lacking security here also. You simply use Oauth2 and then it's as secure as any web app.",1,/r/OpenAI/comments/1ne21sf/chatgpt_finally_has_mcp_support/ndllmts/,t3_1ne21sf
+WingedTorch,ndlj1dz,OpenAI,1757576705.0,Then just use http instead of stdio??,3,/r/OpenAI/comments/1ne21sf/chatgpt_finally_has_mcp_support/ndlj1dz/,t3_1ne21sf
+WingedTorch,ndj092q,AllOpinionsAccepted,1757541134.0,most do. check how many refugees in turkey or lebanon jordan,1,/r/AllOpinionsAccepted/comments/1nd4n9c/why_muslims_flee_to_europenorth_america_not_to/ndj092q/,t3_1nd4n9c
+ghostofkilgore,ndlo13c,AskTheWorld,1757579705.0,"I think there's more than one who would have been more successful in Ukraine than Russia has. But that's not even the point. Saying that Russia is almost neck and neck with the US is a joke. The war in Ukraine is exactly what shows this. It's a war on their doorstep, that they started, and they've been shown up.",1,/r/AskTheWorld/comments/1ndj0yk/where_do_you_think_is_your_country_is_at_on/ndlo13c/,t3_1ndj0yk
+ghostofkilgore,ndh4cxt,AskTheWorld,1757522546.0,"I get this covers very specific metrics, but the list loses all credibility by putting Russia a close second behind the US. That's absurd.",168,/r/AskTheWorld/comments/1ndj0yk/where_do_you_think_is_your_country_is_at_on/ndh4cxt/,t3_1ndj0yk
+ghostofkilgore,ndfy0qj,AskTheWorld,1757510300.0,"Never seen them before. Never heard of them. Honestly, the only famous Chinese people I could name off the top of my head are Xi Jinping and Jackie Chan.",1,/r/AskTheWorld/comments/1nd4upa/gong_li_and_zhang_ziyi_have_a_high_status_in/ndfy0qj/,t3_1nd4upa
+ghostofkilgore,nd9gmns,charts,1757425011.0,"I think one important nuance is that it's not what you prefer but how you define ""success."" It's perfectly possible to really want marriage and children but not see either as a sign of success on their own.
+
+Personally, I'd say being a good parent is something people should be proud of, but simply having offspring isn't a sign of success.
+
+Some of the biggest deadbeats I know have kids.",1,/r/charts/comments/1nc3ula/genzs_definition_of_successes_by_gender_and/nd9gmns/,t3_1nc3ula
+ghostofkilgore,nd85dst,recruitinghell,1757402633.0,"Yeah, if you begin to think that everyone you're interacting with is the problem, the problem is probably you.",3,/r/recruitinghell/comments/1nc4zc6/participating_in_multiple_job_interviews_a_lot_of/nd85dst/,t3_1nc4zc6
+Jorrissss,ndejxx0,PoliticalOptimism,1757486181.0,I don't think this holds up. Judges are allowed to say what the constitution plainly means.,2,/r/PoliticalOptimism/comments/1ncxq23/amy_coney_barrett_gives_least_reassuring_answer/ndejxx0/,t3_1ncxq23
+Jorrissss,ndegke7,datascience,1757484323.0,"How much heavy lifting is ""criticized"" doing? Like did they suggest using lightning, and gave their rationale? Based on this thread I feel like people think you were berated.",1,/r/datascience/comments/1ncmcgf/pytorch_lightning_vs_pytorch/ndegke7/,t3_1ncmcgf
+Jorrissss,nd3dr9y,PoliticalOptimism,1757343081.0,"I think we will win the house (upto the most extreme gerrymandering outcomes), but I don't think you can extrapolate to a +13 dem favorability environment. We are winning special elections because Democrats are high propensity voters now, while in 2018 they werent. I expect 2026 to be closer to +8.",2,/r/PoliticalOptimism/comments/1nb59xj/the_swing_in_democrats_favore_in_these_off_year/nd3dr9y/,t3_1nb59xj
+Jorrissss,nd1mcqw,DCFansIndia,1757314316.0,ChatGPT isn’t a source but do you actually think those numbers are wrong?,1,/r/DCFansIndia/comments/1nbbxp1/according_to_variety_superman_2025_is_expected_to/nd1mcqw/,t3_1nbbxp1
+Jorrissss,nczvo88,NewParents,1757288355.0,"My daughter had blow outs constantly with huggies (and a bunch of other brands), and almost none with Kirkland. I think it's just a matter of kid thing.",1,/r/NewParents/comments/1nazpg2/kirkland_diapers/nczvo88/,t3_1nazpg2
+lakeland_nz,ndlkv0h,LegalAdviceNZ,1757577797.0,"From a legal perspective a trust is probably the best way to achieve this.  
+
+That comes with significant costs.  Another way that relies on obscurity rather than proper protection is to simply open an account in your daughter’s name and mention it in your will (in case you forget).   
+
+Without financial EPA, nobody can go to the financial provider and ask for details so the account ends up being almost invisible.  
+
+But it doesn’t have true legal protections like a trust.  Your daughter could access it before 18 for example.",1,/r/LegalAdviceNZ/comments/1ne2lp8/savings_for_my_daughter_that_she_can_access_when/ndlkv0h/,t3_1ne2lp8
+lakeland_nz,ndlk5xb,AmIOverreacting,1757577378.0,"I remember very early in my career discovering the CFO liked to hire young pretty interns, and take them out for lunch to well, ogle them.  
+
+So my first thought when asked this question is, would this trigger Paul?  Would I personally wear something different to work so he wouldn’t notice.
+
+My personal reaction is yes, I personally wouldn’t go for such tight fitting jeans.  But hey, maybe you don’t have someone like that at your work?",1,/r/AmIOverreacting/comments/1ndzugh/am_i_overreacting_does_body_type_make_this_outfit/ndlk5xb/,t3_1ndzugh
+lakeland_nz,ndkd64c,PersonalFinanceNZ,1757557354.0,"This question gets asked a lot.  
+
+For me personally, I’d rather have the guaranteed good return from repaying the mortgage than risk the share market. 
+
+If you set up the tax side of things then you can deduct mortgage interest from any investment.  If you do that then, on average, you are better off investing.  If you don’t do that then, again on average, you are better repaying the mortgage. 
+
+I prefer the mortgage interest both scenarios because I’m more worried about bad luck. I’m willing to turn down the chance of great returns for a guaranteed good return.",11,/r/PersonalFinanceNZ/comments/1ndwiux/investing_vs_paying_mortgage/ndkd64c/,t3_1ndwiux
+lakeland_nz,ndivajj,ynab,1757539736.0,"What I did was to pay myself a salary that I was confident the business could sustain.  Then once a year it paid a bonus of the difference.  
+
+What this meant was ynab saw a stable income.  I was budgeting the same each month.  Then from the business perspective it saw a stable expense and it was responsible for budgeting that.  It needed to see those quiet periods and have the buffer to pay the salary during them.  
+
+Let’s say the salary was $5k/month and the business has $50k of cash.  Clearly you have ten months worth of buffer against quiet time.  You can see that buffer dropping each month that you make less than $5k in gross profit.",2,/r/ynab/comments/1ndetez/how_do_i_make_savings_less_fluid/ndivajj/,t3_1ndetez
+lakeland_nz,ndi9um0,baduk,1757534110.0,"Lots of 9x9.  
+
+It’s slightly more efficient to play against a teacher rather than another beginner, but it doesn’t make a huge difference.  Often I’ll sit near so they can ask questions but largely leave them to it. 
+
+The game is built on top of the rules.  The objective is to score points but the mechanism is to capture stones.  You need the basic experience through playing mini games so that you can capture stones before you start thinking about the real game.  It’s a bit like water polo.   First, learn basic swimming. 
+
+Once you have the hang of how stones develop then there’s lots of resources.  You can shift to the full board, do puzzles, play online, etc.",2,/r/baduk/comments/1ndlnao/how_to_learn_this_game/ndi9um0/,t3_1ndlnao
+dirtydan1114,ndabpka,sportsanalytics,1757434144.0,"Football Statistics and History | FBref.com
+https://fbref.com/en/
+
+Their basketball/baseball sites are pretty exhaustive, haven't looked into their soccer site too much.",4,/r/sportsanalytics/comments/1ncmi1i/soccer_database/ndabpka/,t3_1ncmi1i
+dirtydan1114,nd7dthh,datascience,1757388687.0,"QGIS is an open-source GIS software that has built in Geocoding functions. If you load your table with addresses in there, you can get hits on a lot of them.
+It's a poor man's ArcGIS, but can do a lot of the same things. 
+
+One nice thing with using this type of program is that you can connect it directly to your database so you don't have to do a whole lot of moving files around. Also, you can move the points yourself if you see that the coordinates are not exactly right.
+
+Would caution you that when using geocoders, you need to pay attention to the type of match you get and the ""score"" of the match. Sometimes the ""matches"" you get are not a street address, but rather the county, or something else broad
+
+Edit: PostGIS functions would also cover any location based checks you would need once you get your address points worked out.",2,/r/datascience/comments/1nbxzs0/analysing_priority_zones_in_my_area_with/nd7dthh/,t3_1nbxzs0
+dirtydan1114,ncz8k8p,energydrinks,1757280894.0,"The peach is alright, doesn't hit the same for me as the watermelon or green apple. 
+
+You can order a case direct from cellucor if you really want to give it a try. Cheaper than buying them from the gas station, anyway",2,/r/energydrinks/comments/1naphjo/ever_time_i_try_c4/ncz8k8p/,t3_1naphjo
+dirtydan1114,ncr3xxm,StLouis,1757175437.0,I feel like it would want to go east and include east st louis. Let em drive across the river,1,/r/StLouis/comments/1n9lfhe/gta_in_st_louis/ncr3xxm/,t3_1n9lfhe
+dirtydan1114,nck491d,DynastyFFTradeAdvice,1757081050.0,He was last year,1,/r/DynastyFFTradeAdvice/comments/1n8u4b8/jsn_for_lawrence_who_ya_got/nck491d/,t3_1n8u4b8
+DJ_Laaal,ndixwga,GradSchool,1757540467.0,"In a similar state myself (mid career, thinking of going for my masters). Can you share the uni name you are accepted to and the program you chose to pursue? DMs are fine if you prefer sharing that way.",1,/r/GradSchool/comments/1j1di42/i_got_in/ndixwga/,t3_1j1di42
+DJ_Laaal,ndixjip,GradSchool,1757540368.0,"Wow! Never knew applying for a PhD at a later stage in your life was possible! How did you go about submitting your profile? What were they key factors that you think helped you get the acceptance? 
+
+I’m mid career just like OP here and am seriously contemplating going for a Masters (STEM).",1,/r/GradSchool/comments/1j1di42/i_got_in/ndixjip/,t3_1j1di42
+DJ_Laaal,ndivtlf,dataengineering,1757539885.0,Breathing license coming soon!,4,/r/dataengineering/comments/1ndl5hz/oracle_record_shattering_stock_price_based_on/ndivtlf/,t3_1ndl5hz
+DJ_Laaal,ndivn1b,dataengineering,1757539834.0,This dinosaur is still alive????,1,/r/dataengineering/comments/1ndl5hz/oracle_record_shattering_stock_price_based_on/ndivn1b/,t3_1ndl5hz
+DJ_Laaal,ndivgwv,recruitinghell,1757539786.0,"Lol. Meanwhile……… https://menlovc.com/perspective/2025-the-state-of-consumer-ai/
+
+And those consumers are also your day to day workers in your companies. At least the AI replacements for HR people won’t wear fake smiles while pushing spreadsheets with soon-to-be-laid-off people’s names on them. Can’t wait for the low-value departments in organizations to get fully replaced by AI!",1,/r/recruitinghell/comments/1nc7uh5/many_hr_workers_plan_to_quit_their_jobs_a_new/ndivgwv/,t3_1nc7uh5
+According_Meal_387,nd0a40x,datascience,1757293483.0,go,1,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/nd0a40x/,t3_1na6x3q
+DubGrips,ncz63e0,homewalls,1757280156.0,"That's awesome to hear! I wish I still made them.
+
+I have another set of granite crimps, I can't find the link right now but most of them are these kind of nugget shaped angular knobs that I'm sorta mixed about. Half the set is rad the other half I could live without so I didn't include them as a rec. ",1,/r/homewalls/comments/1n7g7oo/teknik_handholds/ncz63e0/,t3_1n7g7oo
+DubGrips,ncxd8i8,homewalls,1757261749.0,It really varies cuz some of the Joe's ones are quite incut and fit my fingers really well so I don't find them gnarly but a few others are pretty terrible with the dual tex. The Granite screw ons aren't quite as deep as you think cuz they slope forward before the concave and they're really positional. If you're super extended you can kinda passively hang on them. If you're bunched up and actively pulling then you can't really get behind them like the Joe's and they feel much worse.,1,/r/homewalls/comments/1n7g7oo/teknik_handholds/ncxd8i8/,t3_1n7g7oo
+DubGrips,ncslqvj,datascience,1757191726.0,"All that time adds up and you can't get it back. I'd want way more of a comp increase to deal with that.
+
+My main sense is that you want too much out of a role at once. You mention a small team with a lot of autonomy and room for growth, which can be amazing for actually building skills leading others, self starting in ambiguous environments, and working through implementation problems. Your boss might not be technical but they have convinced someone to give them enough budget to let your team operate in a way most teams cannot.
+
+You mention less technical growth in your current role but being pigeonholed in your next. You have to decide how much to focus on one area, but very late career full stack DS are really rare. People usually find a technical niche, move into management or leadership, or dramatically pivot into something else. I sort of am one of these types and I've had to decide to jump fully into Causal Inference and Experimentation after realizing I hated the engineering side of production ML projects.
+
+We can't help you answer all of these questions. I'd plot out the various growth options and have some honest reflection on how badly they could go and if you're fine living with that ""bad"" for the good.",2,/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/ncslqvj/,t3_1na6x3q
+DubGrips,nckzguv,datascience,1757090090.0,"I interviewed and didn't think it went well, got an offer. Honestly having been on the other side hundreds of times it's a crapshoot. All it takes is one person who didn't like something you said to vote no or a totally spurious internal hiring discussion to derail your chances.
+
+We were recruiting for a Staff level position last year and had 5-6 total dud candidates then one that was awesome. Super technical, but able to clearly distill complex methods blah blah blah. Resounding ""yes"" vote from everyone minus our Director. The reason why? Another team had interviewed a candidate for a research oriented position and they liked her, but she didn't have quite the technical depth. They felt that somehow she would be a better fit and the Director overrode our decision. It sucked because that hire wasn't as strong as the person we rejected and hasn't made much impact.
+
+Honestly you dodged a bullet. Despite the name Meta doesn't produce better Data Scientists than anywhere else. We've hired lots of people from there and their job sounds like a Business Analyst on steroids and is fraught with annoying bureaucracy. The company has done more to ruin people's lives that almost any other tech company so there's not even altruism. Or interesting problems to solve.",4,/r/datascience/comments/1n8z37l/just_got_rejected_from_meta/nckzguv/,t3_1n8z37l
+DubGrips,nchz74s,AskReddit,1757044900.0,Cursive handwriting ,2,/r/AskReddit/comments/1n8olhm/whats_a_skill_thats_becoming_useless_faster_than/nchz74s/,t3_1n8olhm
+musicalfantasies69,ndls85t,Lahore,1757582181.0,"Got it, thanks for sharing!
+
+I'm planning to invest in the Roof Gardens Apartments in Lake City since they seem more secure. Any thoughts on that project?",1,/r/Lahore/comments/1ncceyk/lake_city_house_on_installment_worth_it/ndls85t/,t3_1ncceyk
+musicalfantasies69,ndls6av,Lahore,1757582152.0,"**UPDATE:**
+
+Since only my mother would be staying in Lahore and I am overseas, I am planning to invest in the Lake City Roof Garden Project since those apartments are more secure than houses. Total cost is 3.2 Crores with a 20% downpayment and 2.5 year payment plan of quarterly installments, possession expected in 1.5 years. Leaning towards this option now - would love any thoughts on this! :)",1,/r/Lahore/comments/1ncceyk/lake_city_house_on_installment_worth_it/ndls6av/,t3_1ncceyk
+musicalfantasies69,ndlbsic,UAE,1757572618.0,"Alternatively, you can find a therapist online in countries like ones in South Asia. I'm happy to refer one if you want",31,/r/UAE/comments/1ne1l9n/how_do_you_guys_afford_therapy/ndlbsic/,t3_1ne1l9n
+musicalfantasies69,ndlbqqa,UAE,1757572591.0,Insurance,22,/r/UAE/comments/1ne1l9n/how_do_you_guys_afford_therapy/ndlbqqa/,t3_1ne1l9n
+musicalfantasies69,ndgkk69,Lahore,1757516960.0,"Great, thanks for your input! 
+
+Can you shed more light on how your experience has been living here and maybe how its better or competes with societies like DHA?",1,/r/Lahore/comments/1ncceyk/lake_city_house_on_installment_worth_it/ndgkk69/,t3_1ncceyk
+Maleficent-Studio590,ndkmqpa,datascience,1757560931.0,"anyone hear back from figma, shopify, microsoft, the trade desk, asana, databricks ds internship for 2026?
+
+i applied to all 3 weeks ago. only microsoft got back with an oa that i completed the next day and haven't heard back since",1,/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/ndkmqpa/,t3_1nbdtct
+Maleficent-Studio590,ndk6zmq,Ninjago,1757555155.0,"lloyd: best sog or hunted(really tied for me) worst: crystallized
+
+nya: best seabound worst: rebooted
+
+kai: best rots(drs2 is close but that was really only p1) worst: s11
+
+zane: best: rebooted(could argue rise of the snakes) worst: crystallized?(really couldn't think of anything else and his arc in the first eight ish episodes was ass)
+
+jay: best: skybound worst: rebooted(could argue many of the 11 min seasons except for seabound too)
+
+cole: best motm worst: rebooted
+
+garmadon: best: hunted(toe deserves a shoutout too) worst: sog(idk he just felt like a zombie plus theres not many seasons he really bad)
+
+wu: best: hunted worst: s11
+
+pixal: honestly idk not even moments in one season to call any her worst or best",1,/r/Ninjago/comments/1ndu9sc/best_worst_seasons_for_each_ninja_pixal_wu/ndk6zmq/,t3_1ndu9sc
+Maleficent-Studio590,ndeihp3,nfl,1757485373.0,i feel like chase young also didn't fully plan out because of the acl injury he had in his second year. i'm p sure he was a pro bowler in his first year,1,/r/nfl/comments/1ncgpih/smith_caleb_williams_forcing_bears_to_realize/ndeihp3/,t3_1ncgpih
+Maleficent-Studio590,ndbgjox,Ninjago,1757445796.0,"yeah its similar to jay simping over nya in s1 but that was quickly transitioned. this feels more prolonged. also jay and nya had good chemistry together from the start even if jay was shy at first. this feels really awkward which is why most ppl don't like it. there was already differences when frak joined and he only makes it worse by being too open.   
+  
+tbh idrc if its written well then great but i don't see the match",17,/r/Ninjago/comments/1ncs11c/i_dont_understand_why_some_people_hate_sora_x_frak/ndbgjox/,t3_1ncs11c
+Maleficent-Studio590,nda5oqu,Ninjago,1757432420.0,"i always used to say lloyd since he was the mascot but tbh its more team focused as others said. nya is prob the most focused since she becomes a ninja, cole has the arc of becoming a ghost, lloyd has the arc of overcoming garmadon abscence and getting captured. kai as well as he promised to protect lloyd",2,/r/Ninjago/comments/1ncis05/who_was_the_mc_in_ss5/nda5oqu/,t3_1ncis05
+Ok_Distance5305,ndaz4g0,cscareerquestions,1757440785.0,Literally hell.,5,/r/cscareerquestions/comments/1ncmgt6/fired_after_pip_w_1yoe/ndaz4g0/,t3_1ncmgt6
+Ok_Distance5305,nd9aio8,Fire,1757422988.0,"Don’t focus on FIRE, particularly RE. Continue to save and build wealth in your retirement accounts and target a traditional age 65 retirement.
+
+Saving more is great, but focusing on increasing your income will give you more bang.",54,/r/Fire/comments/1nchzce/probably_too_late_for_fire_just_checking/nd9aio8/,t3_1nchzce
+Ok_Distance5305,nd3xmo2,Fire,1757349001.0,You provided no information in either post.,32,/r/Fire/comments/1nbse72/retire_at_30_with_1million/nd3xmo2/,t3_1nbse72
+Ok_Distance5305,nd3p6zx,learndatascience,1757346521.0,"> Aim for a Data Analyst Role First
+
+People love to say this online but I’ve rarely seen it. Most everyone has a graduate degree and then starts in data science.",1,/r/learndatascience/comments/1nbotln/im_a_senior_data_scientist_who_has_mentored/nd3p6zx/,t3_1nbotln
+Ok_Distance5305,ncxl0km,Fire,1757264058.0,"I don’t think it makes sense for most people; it would be better to keep saving and build wealth faster if you’re comfortable. But in some specific situations like having a high pay / high stress job and wanting to take a step back.
+
+You seem like a great example of where it makes sense. Enjoy some travel and good life with the fruits of your work!
+
+Edit: also, you could just retire with those numbers.",3,/r/Fire/comments/1nay55a/thoughts_on_coasting/ncxl0km/,t3_1nay55a
+i_did_dtascience,ndkcsbb,buildinpublic,1757557220.0,Okay yeah I can see this working really well for anything that's a one-time sell and done kinda product,2,/r/buildinpublic/comments/1ndmi7k/so_its_about_marketing_not_the_idea/ndkcsbb/,t3_1ndmi7k
+i_did_dtascience,ndjm2xl,GHCWomenInTech,1757547962.0,[Guide to Grace Hopper](https://medium.com/@nanditakrishnan/ghc-a-students-guide-21e7e8e0a242) \- also a good blog,1,/r/GHCWomenInTech/comments/1me9zje/resources_to_prep_for_grace_hopper_conference_2025/ndjm2xl/,t3_1me9zje
+i_did_dtascience,ndik3el,datascience,1757536797.0,"\- linkedin, cold emailing hiring managers/recruiters with a solid case on why they should hire you  
+\- as many as you can? I would open linkedin every morning to scour through new jobs and apply - dedicate an hour for it everyday maybe  
+\- reach out to people for coffee chats, and genuine questions to create connections, instead of asking referrals the first thing  
+\- don't lose hope, keep at it",1,/r/datascience/comments/1mzgkc7/weekly_entering_transitioning_thread_25_aug_2025/ndik3el/,t3_1mzgkc7
+i_did_dtascience,ndijep1,datascience,1757536616.0,"Your next steps depends on your goal. If you want to become a Data Scientist, then yes, you can probably start adding more data science projects under your belt through your current role (or outside) and then ask for a transition internally, or apply elsewhere
+
+Again, same with doing a PhD - depends on what your ultimate goal is",1,/r/datascience/comments/1n5eqdj/weekly_entering_transitioning_thread_01_sep_2025/ndijep1/,t3_1n5eqdj
+i_did_dtascience,ndifd1m,buildinpublic,1757535561.0,"I use a physical journal, so idk if this helps, but in any case, here are my thoughts.
+
+\- prefer a mix of free-form and prompt/structure depending on the goal   
+\- I'm pro mood tracking, habit tracking  
+\- what lets me be sucessful with it is that I set aside a dedicated time slot for it everyday, and it's the same time everyday",1,/r/buildinpublic/comments/1nd8496/first_build_in_public_attempt_breaking_my_lurking/ndifd1m/,t3_1nd8496
