@@ -45,4 +45,4 @@ Resource:
 - Analyze networks: [https://colab.research.google.com/drive/1LpA_tMeJpusUmbIuESwSQ_l3awEqFmjj?usp=sharing](https://colab.research.google.com/drive/1LpA_tMeJpusUmbIuESwSQ_l3awEqFmjj?usp=sharing)
 
 ### Tutorial 4 Natural Language Processing (1)
-- POS tagging, NER, word cloud, semantic network (word-cooccurence): [https://colab.research.google.com/drive/15g4wbv4-J_fIUbI8TZ3QqNYBokMHzD0p?usp=sharing](https://colab.research.google.com/drive/15g4wbv4-J_fIUbI8TZ3QqNYBokMHzD0p?usp=sharing)
+- POS tagging, NER, word cloud, semantic network (word-cooccurence): https://colab.research.google.com/drive/1EP0UHfWL1LeaoRr8qgwU34PYziN3o1fc?usp=sharing
