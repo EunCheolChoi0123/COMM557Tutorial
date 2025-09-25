@@ -44,5 +44,16 @@ Resource:
 - Reddit Scraper: [https://colab.research.google.com/drive/15g4wbv4-J_fIUbI8TZ3QqNYBokMHzD0p?usp=sharing](https://colab.research.google.com/drive/15g4wbv4-J_fIUbI8TZ3QqNYBokMHzD0p?usp=sharing)
 - Analyze networks: [https://colab.research.google.com/drive/1LpA_tMeJpusUmbIuESwSQ_l3awEqFmjj?usp=sharing](https://colab.research.google.com/drive/1LpA_tMeJpusUmbIuESwSQ_l3awEqFmjj?usp=sharing)
 
-### Tutorial 4 Natural Language Processing (1)
-- POS tagging, NER, word cloud, semantic network (word-cooccurence): [https://colab.research.google.com/drive/15g4wbv4-J_fIUbI8TZ3QqNYBokMHzD0p?usp=sharing](https://colab.research.google.com/drive/15g4wbv4-J_fIUbI8TZ3QqNYBokMHzD0p?usp=sharing)
+### Tutorial 4 Natural Language Processing
+- POS tagging, NER, word cloud, semantic network (word-cooccurence): https://colab.research.google.com/drive/1EP0UHfWL1LeaoRr8qgwU34PYziN3o1fc?usp=sharing
+
+### Tutorial 5 Sentiment Analysis
+- Basic: https://colab.research.google.com/drive/1lHX9l0Z4FiWw0HdIl6elTDcWyNVCL6HM?usp=sharing
+- RoBERTa: https://colab.research.google.com/drive/17jqpyh4ZW2OmQsO_giZi7l0QlQWu_mgR?usp=sharing
+
+### Tutorial 6 Topic Modeling
+- LDA: [https://colab.research.google.com/drive/1lHX9l0Z4FiWw0HdIl6elTDcWyNVCL6HM?usp=sharing](https://colab.research.google.com/drive/1_BfXYlVwZVmCdiGD6Sb2ZW31vBK7-RDI?usp=sharing)
+- BERTopic: [https://colab.research.google.com/drive/17jqpyh4ZW2OmQsO_giZi7l0QlQWu_mgR?usp=sharing](https://colab.research.google.com/drive/1STD-3oajZQguZj4Zvu5yhHVQlEEWdXtd?usp=sharing)
+
+### Tutorial 7 Other NLP Tasks
+- S-BERT and others: https://colab.research.google.com/drive/1wIKIhkNy-y-QZtF6JYzowZT4BeOqlSDp?usp=sharing
