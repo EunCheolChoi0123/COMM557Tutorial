@@ -57,3 +57,6 @@ Resource:
 
 ### Tutorial 7 Other NLP Tasks
 - S-BERT and others: https://colab.research.google.com/drive/1wIKIhkNy-y-QZtF6JYzowZT4BeOqlSDp?usp=sharing
+
+### Tutorial 8 Bipartite Networks
+- https://colab.research.google.com/drive/1LXbhXZoeXfnQnu-Tv4u2Q9eyp2KVmNUz
