@@ -55,8 +55,11 @@ Resource:
 - LDA: [https://colab.research.google.com/drive/1lHX9l0Z4FiWw0HdIl6elTDcWyNVCL6HM?usp=sharing](https://colab.research.google.com/drive/1_BfXYlVwZVmCdiGD6Sb2ZW31vBK7-RDI?usp=sharing)
 - BERTopic: [https://colab.research.google.com/drive/17jqpyh4ZW2OmQsO_giZi7l0QlQWu_mgR?usp=sharing](https://colab.research.google.com/drive/1STD-3oajZQguZj4Zvu5yhHVQlEEWdXtd?usp=sharing)
 
-### Tutorial 7 Other NLP Tasks
-- S-BERT and others: https://colab.research.google.com/drive/1wIKIhkNy-y-QZtF6JYzowZT4BeOqlSDp?usp=sharing
+### Tutorial 7 Bipartite Networks
+- Bipartite Networks and Applications: https://colab.research.google.com/drive/1LXbhXZoeXfnQnu-Tv4u2Q9eyp2KVmNUz
 
-### Tutorial 8 Bipartite Networks
-- https://colab.research.google.com/drive/1LXbhXZoeXfnQnu-Tv4u2Q9eyp2KVmNUz
+### Tutorial 8 Large Language Models
+- BERT-based models and other NLP tasks: https://colab.research.google.com/drive/1wIKIhkNy-y-QZtF6JYzowZT4BeOqlSDp?usp=sharing
+- Generative LLMs: https://colab.research.google.com/drive/1C0SqKDV9QRO8DIE9_VY6OkfzJbFJT2qL?usp=sharing
+- OpenAI API: https://colab.research.google.com/drive/1C0SqKDV9QRO8DIE9_VY6OkfzJbFJT2qL?usp=sharing
+- LangChain and Prompt Engineering: https://colab.research.google.com/drive/16EPboP3Wq_T99-QOTLstYhNnCPtIBt3z?usp=sharing
