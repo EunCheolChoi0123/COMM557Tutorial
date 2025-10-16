@@ -61,5 +61,5 @@ Resource:
 ### Tutorial 8 Large Language Models
 - BERT-based models and other NLP tasks: https://colab.research.google.com/drive/1wIKIhkNy-y-QZtF6JYzowZT4BeOqlSDp?usp=sharing
 - Generative LLMs: https://colab.research.google.com/drive/1C0SqKDV9QRO8DIE9_VY6OkfzJbFJT2qL?usp=sharing
-- OpenAI API: https://colab.research.google.com/drive/1C0SqKDV9QRO8DIE9_VY6OkfzJbFJT2qL?usp=sharing
+- OpenAI API: https://colab.research.google.com/drive/1wPrJuG_J36fA-K4PqIJip4xrBpWIPe0O
 - LangChain and Prompt Engineering: https://colab.research.google.com/drive/16EPboP3Wq_T99-QOTLstYhNnCPtIBt3z?usp=sharing
