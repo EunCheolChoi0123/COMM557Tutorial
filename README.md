@@ -9,7 +9,7 @@ Former TAs/contributers:
  - Emily Chen
  - Julie Jiang
 
-Past repositories: 
+Past repositories:  
 Fall 2024 - https://github.com/EunCheolChoi0123/COMM557Tutorial/tree/2024-Fall  
 Fall 2023 - https://github.com/EunCheolChoi0123/COMM557Tutorial/tree/2023-Fall  
 Spring 2023 - https://github.com/herbertfreeze/COMM557  
