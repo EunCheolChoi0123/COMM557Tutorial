@@ -63,3 +63,8 @@ Resource:
 - Generative LLMs: https://colab.research.google.com/drive/1C0SqKDV9QRO8DIE9_VY6OkfzJbFJT2qL?usp=sharing
 - OpenAI API: https://colab.research.google.com/drive/1wPrJuG_J36fA-K4PqIJip4xrBpWIPe0O
 - LangChain and Prompt Engineering: https://colab.research.google.com/drive/16EPboP3Wq_T99-QOTLstYhNnCPtIBt3z?usp=sharing
+
+### Tutorial 9 Supervised Learning (1)
+- Binary Classification (Pima Indians Diabetes Database): https://colab.research.google.com/drive/1ewwzAuiLB1n8wsfsCJWyecENnVBqASPE?usp=sharing
+- Multiclass Classification (Iris Dataset): https://colab.research.google.com/drive/1pnBiLZtiAs4_40gW3T6Qxylhjiyn2gAP?usp=sharing
+- Regression Task (California Housing Price): https://colab.research.google.com/drive/1jrwRAqSgOWXcRvuNt4BtfalnSFl950CZ?usp=sharing
