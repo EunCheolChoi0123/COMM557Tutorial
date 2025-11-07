@@ -68,3 +68,6 @@ Resource:
 - Binary Classification (Pima Indians Diabetes Database): https://colab.research.google.com/drive/1ewwzAuiLB1n8wsfsCJWyecENnVBqASPE?usp=sharing
 - Multiclass Classification (Iris Dataset): https://colab.research.google.com/drive/1pnBiLZtiAs4_40gW3T6Qxylhjiyn2gAP?usp=sharing
 - Regression Task (California Housing Price): https://colab.research.google.com/drive/1jrwRAqSgOWXcRvuNt4BtfalnSFl950CZ?usp=sharing
+
+### Tutorial 10 Supervised Learning (2)
+- Extracting Features for Supervised Machine Learning: https://colab.research.google.com/drive/1txNgxqyCek_CVf6AYCHKCpyGbWUrWWWK?usp=sharing
