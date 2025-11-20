@@ -74,3 +74,6 @@ Resource:
 
 ### Tutorial 11 Unsupervised Learning
 - Unsupervised Machine Learning: https://colab.research.google.com/drive/14Sekis1ofEh41BySrMQRtmmNgBLXZQUw?usp=sharing
+
+### Additional Material
+- Statistical tests: https://colab.research.google.com/drive/1pRHiPwURjNkdj3avemv4wnAzInAE2WoG?usp=sharing
